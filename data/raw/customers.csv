@@ -1,0 +1,551 @@
+customer_id,signup_date,city,state,region,age_band,acquisition_channel,loyalty_tier
+C0001,2026-01-24,Delhi NCR,Delhi,North,35-44,Instagram,Basic
+C0002,2026-02-19,Hyderabad,Telangana,South,25-34,Instagram,Silver
+C0003,2025-09-23,Chennai,Tamil Nadu,South,45-54,Google Search,Basic
+C0004,2026-04-07,Bengaluru,Karnataka,South,25-34,Instagram,Basic
+C0005,2025-12-08,Pune,Maharashtra,West,35-44,Google Search,Basic
+C0006,2025-12-02,Pune,Maharashtra,West,18-24,Google Search,Basic
+C0007,2025-12-13,Jaipur,Rajasthan,North,35-44,Organic,Basic
+C0008,2025-10-05,Mumbai,Maharashtra,West,45-54,Instagram,Basic
+C0009,2026-02-10,Delhi NCR,Delhi,North,35-44,Referral,Silver
+C0010,2026-02-10,Chennai,Tamil Nadu,South,25-34,Organic,Basic
+C0011,2025-10-14,Hyderabad,Telangana,South,35-44,Google Search,Basic
+C0012,2025-09-25,Delhi NCR,Delhi,North,45-54,Google Search,Basic
+C0013,2025-09-28,Delhi NCR,Delhi,North,25-34,Email,Silver
+C0014,2026-05-28,Mumbai,Maharashtra,West,35-44,Organic,Basic
+C0015,2026-03-25,Pune,Maharashtra,West,45-54,Instagram,Basic
+C0016,2025-09-21,Mumbai,Maharashtra,West,25-34,Marketplace,Basic
+C0017,2026-03-04,Bengaluru,Karnataka,South,25-34,Instagram,Basic
+C0018,2025-10-05,Chennai,Tamil Nadu,South,18-24,Organic,Basic
+C0019,2026-04-02,Bengaluru,Karnataka,South,18-24,Organic,Basic
+C0020,2026-05-19,Mumbai,Maharashtra,West,45-54,Referral,Basic
+C0021,2025-12-02,Bengaluru,Karnataka,South,35-44,Instagram,Silver
+C0022,2026-01-22,Jaipur,Rajasthan,North,25-34,Google Search,Silver
+C0023,2026-02-17,Delhi NCR,Delhi,North,35-44,Instagram,Silver
+C0024,2026-05-28,Pune,Maharashtra,West,25-34,Google Search,Gold
+C0025,2026-03-03,Hyderabad,Telangana,South,25-34,Google Search,Basic
+C0026,2026-02-10,Chennai,Tamil Nadu,South,25-34,Google Search,Basic
+C0027,2026-03-14,Hyderabad,Telangana,South,25-34,Organic,Basic
+C0028,2025-10-17,Hyderabad,Telangana,South,25-34,Organic,Gold
+C0029,2026-05-10,Bengaluru,Karnataka,South,25-34,Instagram,Basic
+C0030,2026-04-12,Delhi NCR,Delhi,North,18-24,Referral,Basic
+C0031,2026-01-06,Mumbai,Maharashtra,West,35-44,Referral,Basic
+C0032,2026-04-25,Kochi,Kerala,South,25-34,Instagram,Basic
+C0033,2025-09-21,Chennai,Tamil Nadu,South,45-54,Email,Basic
+C0034,2025-11-10,Delhi NCR,Delhi,North,35-44,Marketplace,Basic
+C0035,2025-11-26,Hyderabad,Telangana,South,35-44,Instagram,Basic
+C0036,2026-05-18,Delhi NCR,Delhi,North,35-44,Instagram,Silver
+C0037,2026-01-09,Hyderabad,Telangana,South,35-44,Google Search,Basic
+C0038,2025-12-20,Delhi NCR,Delhi,North,25-34,Organic,Basic
+C0039,2026-05-08,Bengaluru,Karnataka,South,55+,Marketplace,Basic
+C0040,2025-10-31,Hyderabad,Telangana,South,18-24,Organic,Basic
+C0041,2026-03-05,Delhi NCR,Delhi,North,35-44,Referral,Silver
+C0042,2025-09-29,Bengaluru,Karnataka,South,25-34,Instagram,Basic
+C0043,2026-02-22,Chennai,Tamil Nadu,South,35-44,Google Search,Basic
+C0044,2025-12-12,Chennai,Tamil Nadu,South,18-24,Google Search,Silver
+C0045,2026-05-12,Hyderabad,Telangana,South,25-34,Instagram,Gold
+C0046,2025-10-07,Pune,Maharashtra,West,25-34,Google Search,Silver
+C0047,2025-09-22,Bengaluru,Karnataka,South,35-44,Referral,Basic
+C0048,2026-02-08,Chennai,Tamil Nadu,South,25-34,Organic,Silver
+C0049,2026-01-24,Bengaluru,Karnataka,South,25-34,Instagram,Silver
+C0050,2026-01-08,Bengaluru,Karnataka,South,18-24,Email,Silver
+C0051,2026-05-15,Delhi NCR,Delhi,North,18-24,Instagram,Basic
+C0052,2025-10-24,Bengaluru,Karnataka,South,45-54,Instagram,Silver
+C0053,2026-02-28,Mumbai,Maharashtra,West,25-34,Organic,Basic
+C0054,2025-12-03,Bengaluru,Karnataka,South,25-34,Google Search,Basic
+C0055,2026-01-10,Hyderabad,Telangana,South,35-44,Organic,Basic
+C0056,2026-01-19,Delhi NCR,Delhi,North,45-54,Google Search,Silver
+C0057,2026-02-19,Delhi NCR,Delhi,North,55+,Referral,Gold
+C0058,2026-05-19,Mumbai,Maharashtra,West,35-44,Email,Gold
+C0059,2026-01-08,Mumbai,Maharashtra,West,25-34,Referral,Silver
+C0060,2026-01-06,Delhi NCR,Delhi,North,55+,Marketplace,Basic
+C0061,2025-10-29,Pune,Maharashtra,West,25-34,Organic,Silver
+C0062,2025-11-05,Delhi NCR,Delhi,North,45-54,Instagram,Basic
+C0063,2026-05-01,Delhi NCR,Delhi,North,25-34,Referral,Gold
+C0064,2025-10-12,Kochi,Kerala,South,35-44,Referral,Gold
+C0065,2026-01-14,Mumbai,Maharashtra,West,45-54,Instagram,Basic
+C0066,2025-11-21,Bengaluru,Karnataka,South,35-44,Instagram,Silver
+C0067,2026-03-03,Kochi,Kerala,South,35-44,Google Search,Basic
+C0068,2025-10-02,Chennai,Tamil Nadu,South,35-44,Instagram,Basic
+C0069,2026-02-14,Hyderabad,Telangana,South,55+,Email,Basic
+C0070,2026-04-05,Hyderabad,Telangana,South,35-44,Instagram,Basic
+C0071,2026-05-19,Bengaluru,Karnataka,South,18-24,Organic,Basic
+C0072,2026-01-23,Mumbai,Maharashtra,West,35-44,Instagram,Basic
+C0073,2025-12-30,Ahmedabad,Gujarat,West,35-44,Google Search,Silver
+C0074,2025-10-12,Mumbai,Maharashtra,West,45-54,Email,Basic
+C0075,2026-01-11,Hyderabad,Telangana,South,45-54,Marketplace,Basic
+C0076,2026-01-09,Mumbai,Maharashtra,West,18-24,Email,Basic
+C0077,2026-04-20,Mumbai,Maharashtra,West,25-34,Google Search,Silver
+C0078,2026-01-05,Bengaluru,Karnataka,South,18-24,Google Search,Basic
+C0079,2026-03-14,Hyderabad,Telangana,South,25-34,Instagram,Basic
+C0080,2025-09-05,Pune,Maharashtra,West,18-24,Google Search,Basic
+C0081,2025-11-08,Hyderabad,Telangana,South,35-44,Google Search,Basic
+C0082,2025-11-02,Hyderabad,Telangana,South,55+,Marketplace,Basic
+C0083,2026-04-23,Chennai,Tamil Nadu,South,45-54,Google Search,Basic
+C0084,2025-09-10,Hyderabad,Telangana,South,25-34,Email,Silver
+C0085,2026-05-05,Bengaluru,Karnataka,South,18-24,Google Search,Silver
+C0086,2025-12-31,Chennai,Tamil Nadu,South,25-34,Google Search,Basic
+C0087,2025-12-31,Hyderabad,Telangana,South,45-54,Google Search,Basic
+C0088,2025-09-11,Hyderabad,Telangana,South,45-54,Referral,Silver
+C0089,2025-11-17,Hyderabad,Telangana,South,18-24,Instagram,Basic
+C0090,2025-09-01,Chennai,Tamil Nadu,South,25-34,Referral,Basic
+C0091,2025-12-13,Bengaluru,Karnataka,South,18-24,Organic,Basic
+C0092,2026-03-04,Hyderabad,Telangana,South,45-54,Marketplace,Silver
+C0093,2025-12-22,Chennai,Tamil Nadu,South,18-24,Google Search,Basic
+C0094,2026-05-05,Jaipur,Rajasthan,North,45-54,Google Search,Basic
+C0095,2026-05-01,Chennai,Tamil Nadu,South,55+,Marketplace,Basic
+C0096,2025-12-23,Pune,Maharashtra,West,35-44,Instagram,Basic
+C0097,2026-03-18,Mumbai,Maharashtra,West,25-34,Marketplace,Basic
+C0098,2025-10-16,Mumbai,Maharashtra,West,18-24,Referral,Silver
+C0099,2025-11-15,Chennai,Tamil Nadu,South,18-24,Referral,Gold
+C0100,2026-01-03,Delhi NCR,Delhi,North,45-54,Instagram,Basic
+C0101,2025-12-25,Hyderabad,Telangana,South,35-44,Email,Gold
+C0102,2026-05-06,Mumbai,Maharashtra,West,25-34,Organic,Basic
+C0103,2026-05-10,Kochi,Kerala,South,35-44,Instagram,Basic
+C0104,2026-01-11,Bengaluru,Karnataka,South,45-54,Email,Basic
+C0105,2026-02-04,Hyderabad,Telangana,South,35-44,Instagram,Silver
+C0106,2025-12-22,Bengaluru,Karnataka,South,25-34,Google Search,Basic
+C0107,2026-04-27,Mumbai,Maharashtra,West,55+,Instagram,Basic
+C0108,2026-05-25,Kochi,Kerala,South,18-24,Referral,Gold
+C0109,2025-11-09,Pune,Maharashtra,West,25-34,Email,Basic
+C0110,2026-05-07,Hyderabad,Telangana,South,25-34,Referral,Basic
+C0111,2026-02-06,Pune,Maharashtra,West,25-34,Referral,Silver
+C0112,2026-01-28,Bengaluru,Karnataka,South,55+,Organic,Basic
+C0113,2026-03-01,Hyderabad,Telangana,South,25-34,Instagram,Basic
+C0114,2025-10-31,Hyderabad,Telangana,South,18-24,Instagram,Basic
+C0115,2026-05-08,Bengaluru,Karnataka,South,25-34,Google Search,Silver
+C0116,2026-04-23,Pune,Maharashtra,West,25-34,Referral,Silver
+C0117,2026-03-11,Delhi NCR,Delhi,North,25-34,Instagram,Basic
+C0118,2025-11-08,Delhi NCR,Delhi,North,25-34,Instagram,Silver
+C0119,2026-03-05,Chennai,Tamil Nadu,South,55+,Instagram,Basic
+C0120,2025-09-08,Delhi NCR,Delhi,North,45-54,Organic,Gold
+C0121,2026-03-08,Mumbai,Maharashtra,West,25-34,Instagram,Basic
+C0122,2026-03-11,Jaipur,Rajasthan,North,35-44,Referral,Gold
+C0123,2025-11-24,Pune,Maharashtra,West,25-34,Marketplace,Silver
+C0124,2026-05-23,Bengaluru,Karnataka,South,18-24,Google Search,Silver
+C0125,2025-12-18,Pune,Maharashtra,West,18-24,Instagram,Basic
+C0126,2026-05-21,Bengaluru,Karnataka,South,45-54,Referral,Basic
+C0127,2025-12-22,Pune,Maharashtra,West,35-44,Google Search,Silver
+C0128,2026-04-03,Kochi,Kerala,South,25-34,Google Search,Basic
+C0129,2026-01-12,Kochi,Kerala,South,25-34,Referral,Basic
+C0130,2026-01-09,Delhi NCR,Delhi,North,25-34,Marketplace,Basic
+C0131,2025-12-04,Ahmedabad,Gujarat,West,18-24,Instagram,Basic
+C0132,2026-04-26,Chennai,Tamil Nadu,South,25-34,Organic,Silver
+C0133,2025-10-04,Delhi NCR,Delhi,North,35-44,Google Search,Basic
+C0134,2025-11-01,Jaipur,Rajasthan,North,25-34,Google Search,Basic
+C0135,2025-11-23,Bengaluru,Karnataka,South,25-34,Organic,Basic
+C0136,2025-11-12,Chennai,Tamil Nadu,South,35-44,Instagram,Basic
+C0137,2025-11-18,Mumbai,Maharashtra,West,18-24,Instagram,Basic
+C0138,2026-04-21,Mumbai,Maharashtra,West,55+,Google Search,Silver
+C0139,2026-03-18,Bengaluru,Karnataka,South,25-34,Google Search,Basic
+C0140,2025-12-25,Hyderabad,Telangana,South,18-24,Google Search,Basic
+C0141,2025-09-03,Ahmedabad,Gujarat,West,45-54,Marketplace,Basic
+C0142,2026-05-26,Bengaluru,Karnataka,South,25-34,Organic,Silver
+C0143,2026-02-02,Mumbai,Maharashtra,West,18-24,Email,Basic
+C0144,2026-02-26,Mumbai,Maharashtra,West,45-54,Google Search,Basic
+C0145,2025-09-26,Bengaluru,Karnataka,South,45-54,Organic,Basic
+C0146,2026-03-18,Hyderabad,Telangana,South,25-34,Organic,Basic
+C0147,2026-04-05,Mumbai,Maharashtra,West,25-34,Organic,Basic
+C0148,2026-03-28,Chennai,Tamil Nadu,South,25-34,Email,Basic
+C0149,2026-03-24,Delhi NCR,Delhi,North,18-24,Organic,Basic
+C0150,2025-10-22,Bengaluru,Karnataka,South,18-24,Instagram,Gold
+C0151,2025-10-03,Bengaluru,Karnataka,South,18-24,Referral,Silver
+C0152,2026-03-22,Hyderabad,Telangana,South,25-34,Google Search,Basic
+C0153,2026-02-25,Bengaluru,Karnataka,South,35-44,Organic,Basic
+C0154,2026-02-05,Delhi NCR,Delhi,North,25-34,Instagram,Basic
+C0155,2026-04-06,Delhi NCR,Delhi,North,25-34,Organic,Basic
+C0156,2026-05-10,Ahmedabad,Gujarat,West,25-34,Google Search,Silver
+C0157,2025-11-09,Chennai,Tamil Nadu,South,25-34,Organic,Gold
+C0158,2025-11-14,Kochi,Kerala,South,35-44,Referral,Basic
+C0159,2026-05-22,Ahmedabad,Gujarat,West,25-34,Marketplace,Gold
+C0160,2026-01-12,Mumbai,Maharashtra,West,18-24,Google Search,Basic
+C0161,2026-05-05,Delhi NCR,Delhi,North,25-34,Organic,Silver
+C0162,2026-03-07,Chennai,Tamil Nadu,South,25-34,Referral,Silver
+C0163,2026-03-16,Mumbai,Maharashtra,West,45-54,Instagram,Basic
+C0164,2026-03-19,Pune,Maharashtra,West,25-34,Instagram,Silver
+C0165,2026-01-17,Pune,Maharashtra,West,45-54,Instagram,Basic
+C0166,2025-11-14,Kochi,Kerala,South,25-34,Marketplace,Silver
+C0167,2026-05-13,Kochi,Kerala,South,25-34,Google Search,Basic
+C0168,2025-09-13,Bengaluru,Karnataka,South,35-44,Referral,Basic
+C0169,2025-09-07,Hyderabad,Telangana,South,25-34,Marketplace,Basic
+C0170,2026-01-10,Delhi NCR,Delhi,North,35-44,Google Search,Basic
+C0171,2025-10-16,Delhi NCR,Delhi,North,25-34,Referral,Silver
+C0172,2026-05-03,Bengaluru,Karnataka,South,45-54,Google Search,Basic
+C0173,2026-05-25,Mumbai,Maharashtra,West,25-34,Marketplace,Basic
+C0174,2025-11-12,Hyderabad,Telangana,South,25-34,Organic,Basic
+C0175,2026-04-10,Bengaluru,Karnataka,South,35-44,Google Search,Basic
+C0176,2025-11-10,Bengaluru,Karnataka,South,35-44,Instagram,Gold
+C0177,2025-12-24,Bengaluru,Karnataka,South,35-44,Google Search,Silver
+C0178,2026-05-27,Ahmedabad,Gujarat,West,18-24,Referral,Silver
+C0179,2025-12-26,Bengaluru,Karnataka,South,35-44,Referral,Basic
+C0180,2026-01-23,Delhi NCR,Delhi,North,35-44,Referral,Silver
+C0181,2026-01-16,Chennai,Tamil Nadu,South,18-24,Google Search,Basic
+C0182,2025-09-22,Pune,Maharashtra,West,35-44,Marketplace,Basic
+C0183,2026-05-21,Ahmedabad,Gujarat,West,45-54,Referral,Basic
+C0184,2025-11-22,Delhi NCR,Delhi,North,25-34,Referral,Gold
+C0185,2026-04-01,Hyderabad,Telangana,South,18-24,Instagram,Silver
+C0186,2026-03-16,Delhi NCR,Delhi,North,25-34,Referral,Basic
+C0187,2026-02-09,Bengaluru,Karnataka,South,25-34,Instagram,Basic
+C0188,2026-05-08,Delhi NCR,Delhi,North,25-34,Google Search,Basic
+C0189,2026-04-09,Bengaluru,Karnataka,South,25-34,Google Search,Silver
+C0190,2025-12-25,Bengaluru,Karnataka,South,25-34,Organic,Basic
+C0191,2026-03-18,Mumbai,Maharashtra,West,35-44,Marketplace,Silver
+C0192,2025-09-27,Chennai,Tamil Nadu,South,25-34,Instagram,Basic
+C0193,2025-09-09,Mumbai,Maharashtra,West,25-34,Organic,Silver
+C0194,2026-01-12,Hyderabad,Telangana,South,35-44,Referral,Gold
+C0195,2026-02-07,Bengaluru,Karnataka,South,18-24,Google Search,Silver
+C0196,2025-11-21,Delhi NCR,Delhi,North,35-44,Marketplace,Basic
+C0197,2026-01-22,Mumbai,Maharashtra,West,25-34,Google Search,Basic
+C0198,2025-10-24,Kochi,Kerala,South,25-34,Referral,Silver
+C0199,2025-12-27,Delhi NCR,Delhi,North,18-24,Google Search,Basic
+C0200,2026-01-18,Delhi NCR,Delhi,North,25-34,Google Search,Basic
+C0201,2025-12-07,Delhi NCR,Delhi,North,25-34,Referral,Basic
+C0202,2026-04-14,Chennai,Tamil Nadu,South,25-34,Marketplace,Basic
+C0203,2025-12-18,Pune,Maharashtra,West,18-24,Instagram,Silver
+C0204,2025-10-09,Mumbai,Maharashtra,West,25-34,Instagram,Basic
+C0205,2025-11-20,Bengaluru,Karnataka,South,25-34,Organic,Basic
+C0206,2026-03-28,Jaipur,Rajasthan,North,25-34,Organic,Basic
+C0207,2026-03-19,Chennai,Tamil Nadu,South,25-34,Instagram,Basic
+C0208,2025-12-01,Mumbai,Maharashtra,West,18-24,Instagram,Basic
+C0209,2025-11-29,Bengaluru,Karnataka,South,18-24,Referral,Gold
+C0210,2026-03-19,Jaipur,Rajasthan,North,25-34,Referral,Basic
+C0211,2026-04-28,Hyderabad,Telangana,South,25-34,Marketplace,Silver
+C0212,2026-03-01,Mumbai,Maharashtra,West,18-24,Referral,Basic
+C0213,2026-03-13,Jaipur,Rajasthan,North,25-34,Instagram,Silver
+C0214,2026-05-09,Hyderabad,Telangana,South,25-34,Google Search,Silver
+C0215,2026-02-04,Kochi,Kerala,South,25-34,Email,Basic
+C0216,2026-01-18,Delhi NCR,Delhi,North,35-44,Organic,Silver
+C0217,2025-11-22,Ahmedabad,Gujarat,West,18-24,Email,Basic
+C0218,2026-03-23,Chennai,Tamil Nadu,South,45-54,Instagram,Basic
+C0219,2025-10-29,Ahmedabad,Gujarat,West,18-24,Instagram,Basic
+C0220,2025-11-29,Kochi,Kerala,South,45-54,Google Search,Gold
+C0221,2026-05-29,Kochi,Kerala,South,35-44,Google Search,Basic
+C0222,2026-03-27,Hyderabad,Telangana,South,45-54,Instagram,Silver
+C0223,2026-01-24,Kochi,Kerala,South,25-34,Referral,Basic
+C0224,2026-05-07,Mumbai,Maharashtra,West,25-34,Google Search,Basic
+C0225,2026-05-10,Bengaluru,Karnataka,South,55+,Instagram,Silver
+C0226,2026-02-20,Kochi,Kerala,South,55+,Instagram,Silver
+C0227,2026-01-10,Pune,Maharashtra,West,45-54,Google Search,Basic
+C0228,2026-03-08,Delhi NCR,Delhi,North,35-44,Google Search,Basic
+C0229,2026-04-18,Chennai,Tamil Nadu,South,35-44,Instagram,Basic
+C0230,2026-02-21,Mumbai,Maharashtra,West,35-44,Google Search,Silver
+C0231,2026-04-11,Delhi NCR,Delhi,North,35-44,Instagram,Basic
+C0232,2025-12-31,Chennai,Tamil Nadu,South,25-34,Referral,Silver
+C0233,2026-03-17,Mumbai,Maharashtra,West,45-54,Marketplace,Basic
+C0234,2026-03-21,Ahmedabad,Gujarat,West,25-34,Referral,Basic
+C0235,2025-11-11,Pune,Maharashtra,West,35-44,Google Search,Silver
+C0236,2025-11-06,Pune,Maharashtra,West,25-34,Email,Silver
+C0237,2026-01-08,Chennai,Tamil Nadu,South,35-44,Organic,Basic
+C0238,2025-10-17,Mumbai,Maharashtra,West,35-44,Google Search,Silver
+C0239,2026-03-18,Bengaluru,Karnataka,South,18-24,Google Search,Silver
+C0240,2026-02-17,Hyderabad,Telangana,South,35-44,Email,Basic
+C0241,2025-10-13,Delhi NCR,Delhi,North,25-34,Instagram,Silver
+C0242,2026-02-17,Chennai,Tamil Nadu,South,45-54,Instagram,Basic
+C0243,2025-09-08,Chennai,Tamil Nadu,South,35-44,Google Search,Basic
+C0244,2026-03-15,Chennai,Tamil Nadu,South,25-34,Referral,Basic
+C0245,2025-12-08,Mumbai,Maharashtra,West,55+,Google Search,Silver
+C0246,2026-05-15,Delhi NCR,Delhi,North,18-24,Google Search,Basic
+C0247,2026-03-28,Chennai,Tamil Nadu,South,25-34,Organic,Basic
+C0248,2025-11-10,Delhi NCR,Delhi,North,35-44,Referral,Basic
+C0249,2025-11-25,Chennai,Tamil Nadu,South,25-34,Marketplace,Silver
+C0250,2026-05-31,Bengaluru,Karnataka,South,18-24,Email,Silver
+C0251,2025-09-28,Mumbai,Maharashtra,West,35-44,Google Search,Gold
+C0252,2026-03-07,Pune,Maharashtra,West,25-34,Google Search,Gold
+C0253,2025-12-28,Bengaluru,Karnataka,South,25-34,Instagram,Basic
+C0254,2025-11-21,Pune,Maharashtra,West,35-44,Referral,Basic
+C0255,2026-01-31,Pune,Maharashtra,West,35-44,Referral,Silver
+C0256,2026-04-22,Pune,Maharashtra,West,25-34,Email,Gold
+C0257,2025-10-17,Chennai,Tamil Nadu,South,55+,Organic,Basic
+C0258,2025-10-02,Bengaluru,Karnataka,South,55+,Email,Basic
+C0259,2026-02-25,Bengaluru,Karnataka,South,25-34,Organic,Basic
+C0260,2025-09-16,Mumbai,Maharashtra,West,45-54,Google Search,Silver
+C0261,2026-02-13,Ahmedabad,Gujarat,West,45-54,Google Search,Silver
+C0262,2025-10-27,Mumbai,Maharashtra,West,25-34,Email,Silver
+C0263,2025-12-11,Bengaluru,Karnataka,South,18-24,Email,Silver
+C0264,2025-09-24,Mumbai,Maharashtra,West,55+,Instagram,Basic
+C0265,2025-09-27,Kochi,Kerala,South,35-44,Referral,Silver
+C0266,2026-05-16,Chennai,Tamil Nadu,South,35-44,Organic,Basic
+C0267,2025-12-17,Mumbai,Maharashtra,West,35-44,Instagram,Basic
+C0268,2025-09-29,Ahmedabad,Gujarat,West,18-24,Instagram,Gold
+C0269,2026-01-12,Hyderabad,Telangana,South,25-34,Email,Basic
+C0270,2026-04-17,Hyderabad,Telangana,South,18-24,Organic,Gold
+C0271,2026-03-29,Delhi NCR,Delhi,North,55+,Instagram,Silver
+C0272,2026-05-13,Delhi NCR,Delhi,North,25-34,Organic,Basic
+C0273,2025-12-09,Ahmedabad,Gujarat,West,25-34,Google Search,Basic
+C0274,2026-05-11,Pune,Maharashtra,West,25-34,Organic,Basic
+C0275,2025-09-29,Mumbai,Maharashtra,West,45-54,Organic,Basic
+C0276,2026-04-10,Hyderabad,Telangana,South,25-34,Email,Basic
+C0277,2025-10-19,Pune,Maharashtra,West,35-44,Instagram,Silver
+C0278,2026-01-05,Mumbai,Maharashtra,West,18-24,Email,Basic
+C0279,2026-05-12,Hyderabad,Telangana,South,55+,Google Search,Gold
+C0280,2025-09-02,Chennai,Tamil Nadu,South,25-34,Instagram,Basic
+C0281,2026-02-18,Bengaluru,Karnataka,South,18-24,Google Search,Basic
+C0282,2025-10-09,Bengaluru,Karnataka,South,18-24,Marketplace,Gold
+C0283,2026-03-23,Hyderabad,Telangana,South,45-54,Marketplace,Basic
+C0284,2026-01-13,Pune,Maharashtra,West,55+,Instagram,Basic
+C0285,2026-01-17,Pune,Maharashtra,West,25-34,Instagram,Basic
+C0286,2025-10-11,Bengaluru,Karnataka,South,55+,Instagram,Silver
+C0287,2025-09-30,Chennai,Tamil Nadu,South,25-34,Google Search,Basic
+C0288,2026-03-09,Mumbai,Maharashtra,West,35-44,Email,Basic
+C0289,2026-03-07,Kochi,Kerala,South,18-24,Instagram,Basic
+C0290,2026-02-08,Mumbai,Maharashtra,West,18-24,Referral,Gold
+C0291,2026-04-14,Mumbai,Maharashtra,West,45-54,Instagram,Silver
+C0292,2026-01-13,Bengaluru,Karnataka,South,55+,Instagram,Silver
+C0293,2026-05-09,Chennai,Tamil Nadu,South,35-44,Instagram,Gold
+C0294,2026-02-07,Mumbai,Maharashtra,West,45-54,Referral,Basic
+C0295,2026-01-25,Ahmedabad,Gujarat,West,18-24,Referral,Basic
+C0296,2026-01-06,Hyderabad,Telangana,South,35-44,Google Search,Basic
+C0297,2026-05-13,Bengaluru,Karnataka,South,18-24,Organic,Basic
+C0298,2025-12-15,Bengaluru,Karnataka,South,18-24,Instagram,Silver
+C0299,2025-12-07,Hyderabad,Telangana,South,18-24,Instagram,Basic
+C0300,2026-04-22,Hyderabad,Telangana,South,35-44,Organic,Basic
+C0301,2025-10-22,Kochi,Kerala,South,35-44,Google Search,Basic
+C0302,2025-12-10,Jaipur,Rajasthan,North,25-34,Email,Silver
+C0303,2025-12-10,Jaipur,Rajasthan,North,18-24,Instagram,Basic
+C0304,2026-01-07,Delhi NCR,Delhi,North,35-44,Referral,Gold
+C0305,2026-02-16,Ahmedabad,Gujarat,West,25-34,Organic,Basic
+C0306,2026-05-03,Delhi NCR,Delhi,North,35-44,Organic,Basic
+C0307,2025-11-10,Bengaluru,Karnataka,South,45-54,Email,Basic
+C0308,2025-11-02,Jaipur,Rajasthan,North,35-44,Instagram,Basic
+C0309,2026-02-19,Mumbai,Maharashtra,West,35-44,Referral,Silver
+C0310,2025-12-19,Kochi,Kerala,South,35-44,Marketplace,Basic
+C0311,2025-09-08,Mumbai,Maharashtra,West,35-44,Referral,Basic
+C0312,2025-12-22,Bengaluru,Karnataka,South,35-44,Instagram,Basic
+C0313,2026-04-12,Delhi NCR,Delhi,North,25-34,Organic,Silver
+C0314,2026-01-02,Delhi NCR,Delhi,North,25-34,Google Search,Basic
+C0315,2026-02-20,Bengaluru,Karnataka,South,18-24,Email,Gold
+C0316,2026-05-13,Jaipur,Rajasthan,North,25-34,Instagram,Basic
+C0317,2025-11-08,Mumbai,Maharashtra,West,18-24,Organic,Basic
+C0318,2026-01-31,Delhi NCR,Delhi,North,45-54,Marketplace,Basic
+C0319,2026-04-01,Kochi,Kerala,South,45-54,Instagram,Gold
+C0320,2026-02-28,Mumbai,Maharashtra,West,18-24,Marketplace,Basic
+C0321,2026-02-08,Bengaluru,Karnataka,South,55+,Instagram,Basic
+C0322,2026-05-09,Mumbai,Maharashtra,West,45-54,Email,Basic
+C0323,2026-05-25,Bengaluru,Karnataka,South,35-44,Google Search,Basic
+C0324,2026-05-10,Bengaluru,Karnataka,South,25-34,Marketplace,Basic
+C0325,2025-11-29,Delhi NCR,Delhi,North,25-34,Instagram,Silver
+C0326,2026-01-08,Mumbai,Maharashtra,West,18-24,Organic,Basic
+C0327,2026-03-18,Bengaluru,Karnataka,South,18-24,Referral,Silver
+C0328,2025-12-26,Mumbai,Maharashtra,West,45-54,Instagram,Basic
+C0329,2025-11-12,Mumbai,Maharashtra,West,35-44,Organic,Basic
+C0330,2026-05-14,Chennai,Tamil Nadu,South,25-34,Referral,Gold
+C0331,2026-03-08,Kochi,Kerala,South,35-44,Google Search,Silver
+C0332,2026-04-16,Mumbai,Maharashtra,West,35-44,Instagram,Basic
+C0333,2026-01-10,Hyderabad,Telangana,South,35-44,Google Search,Basic
+C0334,2026-03-25,Mumbai,Maharashtra,West,25-34,Referral,Basic
+C0335,2026-03-07,Ahmedabad,Gujarat,West,35-44,Google Search,Basic
+C0336,2026-03-09,Bengaluru,Karnataka,South,25-34,Referral,Silver
+C0337,2025-10-10,Pune,Maharashtra,West,25-34,Instagram,Basic
+C0338,2026-03-17,Hyderabad,Telangana,South,45-54,Instagram,Basic
+C0339,2025-11-29,Hyderabad,Telangana,South,45-54,Referral,Basic
+C0340,2026-01-18,Mumbai,Maharashtra,West,18-24,Organic,Silver
+C0341,2026-03-09,Bengaluru,Karnataka,South,35-44,Referral,Basic
+C0342,2026-01-29,Bengaluru,Karnataka,South,25-34,Referral,Basic
+C0343,2025-11-08,Mumbai,Maharashtra,West,35-44,Organic,Basic
+C0344,2026-04-10,Kochi,Kerala,South,25-34,Instagram,Gold
+C0345,2026-02-07,Pune,Maharashtra,West,25-34,Organic,Silver
+C0346,2026-01-16,Mumbai,Maharashtra,West,35-44,Instagram,Basic
+C0347,2026-03-22,Bengaluru,Karnataka,South,35-44,Instagram,Basic
+C0348,2026-04-25,Mumbai,Maharashtra,West,25-34,Organic,Basic
+C0349,2026-05-29,Hyderabad,Telangana,South,45-54,Google Search,Silver
+C0350,2026-03-14,Jaipur,Rajasthan,North,35-44,Referral,Basic
+C0351,2026-01-24,Delhi NCR,Delhi,North,45-54,Instagram,Basic
+C0352,2026-02-16,Pune,Maharashtra,West,25-34,Email,Basic
+C0353,2026-02-22,Jaipur,Rajasthan,North,55+,Google Search,Basic
+C0354,2025-12-26,Hyderabad,Telangana,South,18-24,Google Search,Basic
+C0355,2026-01-26,Ahmedabad,Gujarat,West,35-44,Marketplace,Basic
+C0356,2026-05-27,Delhi NCR,Delhi,North,55+,Google Search,Gold
+C0357,2026-03-04,Chennai,Tamil Nadu,South,35-44,Google Search,Basic
+C0358,2025-12-15,Ahmedabad,Gujarat,West,35-44,Referral,Basic
+C0359,2025-10-03,Delhi NCR,Delhi,North,45-54,Referral,Basic
+C0360,2026-05-18,Delhi NCR,Delhi,North,25-34,Instagram,Basic
+C0361,2026-05-28,Delhi NCR,Delhi,North,45-54,Instagram,Basic
+C0362,2025-09-21,Chennai,Tamil Nadu,South,25-34,Email,Basic
+C0363,2026-04-11,Mumbai,Maharashtra,West,25-34,Referral,Basic
+C0364,2026-04-16,Chennai,Tamil Nadu,South,35-44,Marketplace,Basic
+C0365,2026-01-27,Kochi,Kerala,South,25-34,Google Search,Basic
+C0366,2026-03-20,Delhi NCR,Delhi,North,18-24,Instagram,Basic
+C0367,2025-12-01,Mumbai,Maharashtra,West,18-24,Referral,Basic
+C0368,2025-11-29,Delhi NCR,Delhi,North,18-24,Marketplace,Basic
+C0369,2026-03-05,Bengaluru,Karnataka,South,25-34,Referral,Basic
+C0370,2025-10-12,Pune,Maharashtra,West,25-34,Email,Basic
+C0371,2025-09-13,Chennai,Tamil Nadu,South,25-34,Instagram,Basic
+C0372,2026-05-22,Kochi,Kerala,South,25-34,Referral,Gold
+C0373,2026-05-21,Pune,Maharashtra,West,25-34,Marketplace,Silver
+C0374,2026-01-20,Pune,Maharashtra,West,45-54,Referral,Silver
+C0375,2026-05-15,Jaipur,Rajasthan,North,35-44,Organic,Silver
+C0376,2026-02-11,Delhi NCR,Delhi,North,35-44,Instagram,Basic
+C0377,2025-11-23,Pune,Maharashtra,West,25-34,Google Search,Basic
+C0378,2026-05-17,Hyderabad,Telangana,South,35-44,Instagram,Silver
+C0379,2026-01-28,Pune,Maharashtra,West,25-34,Google Search,Basic
+C0380,2025-11-13,Jaipur,Rajasthan,North,45-54,Instagram,Basic
+C0381,2025-12-12,Delhi NCR,Delhi,North,18-24,Email,Silver
+C0382,2026-04-10,Pune,Maharashtra,West,35-44,Referral,Basic
+C0383,2026-05-06,Bengaluru,Karnataka,South,25-34,Instagram,Silver
+C0384,2025-09-26,Delhi NCR,Delhi,North,45-54,Instagram,Gold
+C0385,2026-04-26,Jaipur,Rajasthan,North,35-44,Organic,Basic
+C0386,2026-05-23,Hyderabad,Telangana,South,18-24,Google Search,Basic
+C0387,2025-10-14,Hyderabad,Telangana,South,55+,Google Search,Basic
+C0388,2026-02-22,Hyderabad,Telangana,South,45-54,Google Search,Basic
+C0389,2026-02-02,Pune,Maharashtra,West,25-34,Instagram,Basic
+C0390,2025-12-15,Pune,Maharashtra,West,18-24,Instagram,Basic
+C0391,2026-01-24,Chennai,Tamil Nadu,South,25-34,Google Search,Basic
+C0392,2025-10-23,Kochi,Kerala,South,25-34,Referral,Gold
+C0393,2026-03-05,Ahmedabad,Gujarat,West,25-34,Referral,Basic
+C0394,2026-01-09,Bengaluru,Karnataka,South,18-24,Referral,Basic
+C0395,2026-01-27,Bengaluru,Karnataka,South,35-44,Referral,Basic
+C0396,2026-03-10,Delhi NCR,Delhi,North,55+,Instagram,Basic
+C0397,2025-11-30,Jaipur,Rajasthan,North,18-24,Marketplace,Basic
+C0398,2025-12-19,Kochi,Kerala,South,25-34,Google Search,Basic
+C0399,2025-09-17,Mumbai,Maharashtra,West,45-54,Organic,Basic
+C0400,2026-03-12,Mumbai,Maharashtra,West,35-44,Instagram,Basic
+C0401,2026-01-01,Pune,Maharashtra,West,35-44,Organic,Basic
+C0402,2025-10-13,Mumbai,Maharashtra,West,18-24,Organic,Silver
+C0403,2025-11-19,Bengaluru,Karnataka,South,35-44,Email,Gold
+C0404,2025-11-03,Chennai,Tamil Nadu,South,45-54,Instagram,Silver
+C0405,2026-04-13,Bengaluru,Karnataka,South,45-54,Marketplace,Basic
+C0406,2026-04-16,Kochi,Kerala,South,25-34,Instagram,Basic
+C0407,2025-09-02,Hyderabad,Telangana,South,35-44,Marketplace,Basic
+C0408,2025-10-08,Chennai,Tamil Nadu,South,35-44,Organic,Silver
+C0409,2026-02-28,Mumbai,Maharashtra,West,45-54,Instagram,Silver
+C0410,2026-03-22,Delhi NCR,Delhi,North,45-54,Referral,Basic
+C0411,2026-04-17,Bengaluru,Karnataka,South,25-34,Organic,Basic
+C0412,2026-04-01,Chennai,Tamil Nadu,South,25-34,Google Search,Basic
+C0413,2025-10-06,Pune,Maharashtra,West,45-54,Referral,Silver
+C0414,2026-05-31,Delhi NCR,Delhi,North,55+,Email,Silver
+C0415,2025-11-08,Bengaluru,Karnataka,South,25-34,Email,Basic
+C0416,2026-03-20,Mumbai,Maharashtra,West,25-34,Instagram,Gold
+C0417,2025-10-19,Delhi NCR,Delhi,North,55+,Google Search,Basic
+C0418,2025-12-25,Chennai,Tamil Nadu,South,55+,Instagram,Silver
+C0419,2026-01-31,Delhi NCR,Delhi,North,25-34,Instagram,Basic
+C0420,2026-05-12,Bengaluru,Karnataka,South,25-34,Google Search,Basic
+C0421,2025-11-21,Mumbai,Maharashtra,West,45-54,Google Search,Basic
+C0422,2026-03-22,Kochi,Kerala,South,45-54,Instagram,Basic
+C0423,2025-10-10,Pune,Maharashtra,West,25-34,Referral,Basic
+C0424,2025-09-12,Delhi NCR,Delhi,North,25-34,Referral,Basic
+C0425,2026-04-01,Ahmedabad,Gujarat,West,18-24,Organic,Basic
+C0426,2025-11-17,Ahmedabad,Gujarat,West,25-34,Email,Gold
+C0427,2026-03-21,Chennai,Tamil Nadu,South,25-34,Google Search,Silver
+C0428,2026-03-29,Bengaluru,Karnataka,South,25-34,Instagram,Basic
+C0429,2025-10-20,Pune,Maharashtra,West,55+,Email,Gold
+C0430,2025-09-12,Delhi NCR,Delhi,North,25-34,Google Search,Gold
+C0431,2026-03-30,Mumbai,Maharashtra,West,18-24,Email,Basic
+C0432,2025-12-25,Mumbai,Maharashtra,West,25-34,Organic,Basic
+C0433,2026-03-02,Jaipur,Rajasthan,North,45-54,Organic,Silver
+C0434,2025-09-09,Pune,Maharashtra,West,35-44,Organic,Gold
+C0435,2025-09-12,Delhi NCR,Delhi,North,18-24,Instagram,Basic
+C0436,2026-02-25,Pune,Maharashtra,West,18-24,Instagram,Basic
+C0437,2026-03-22,Bengaluru,Karnataka,South,55+,Instagram,Silver
+C0438,2026-01-10,Mumbai,Maharashtra,West,35-44,Instagram,Basic
+C0439,2026-05-31,Delhi NCR,Delhi,North,18-24,Referral,Silver
+C0440,2025-10-19,Bengaluru,Karnataka,South,18-24,Referral,Silver
+C0441,2025-09-03,Chennai,Tamil Nadu,South,35-44,Marketplace,Basic
+C0442,2025-09-13,Mumbai,Maharashtra,West,35-44,Instagram,Basic
+C0443,2025-12-21,Kochi,Kerala,South,25-34,Google Search,Basic
+C0444,2026-02-27,Mumbai,Maharashtra,West,45-54,Marketplace,Silver
+C0445,2026-03-19,Chennai,Tamil Nadu,South,25-34,Google Search,Basic
+C0446,2025-12-09,Ahmedabad,Gujarat,West,18-24,Instagram,Basic
+C0447,2026-03-13,Mumbai,Maharashtra,West,45-54,Google Search,Basic
+C0448,2026-05-31,Mumbai,Maharashtra,West,25-34,Google Search,Basic
+C0449,2026-03-11,Chennai,Tamil Nadu,South,25-34,Organic,Silver
+C0450,2026-02-06,Mumbai,Maharashtra,West,35-44,Email,Gold
+C0451,2026-02-07,Mumbai,Maharashtra,West,35-44,Google Search,Basic
+C0452,2025-10-06,Hyderabad,Telangana,South,35-44,Google Search,Basic
+C0453,2025-09-27,Chennai,Tamil Nadu,South,45-54,Organic,Silver
+C0454,2026-05-08,Hyderabad,Telangana,South,45-54,Instagram,Basic
+C0455,2026-04-27,Ahmedabad,Gujarat,West,35-44,Instagram,Basic
+C0456,2026-03-01,Bengaluru,Karnataka,South,18-24,Referral,Basic
+C0457,2026-02-24,Delhi NCR,Delhi,North,25-34,Referral,Silver
+C0458,2026-01-30,Bengaluru,Karnataka,South,25-34,Organic,Basic
+C0459,2026-04-12,Pune,Maharashtra,West,25-34,Organic,Silver
+C0460,2026-05-11,Chennai,Tamil Nadu,South,25-34,Organic,Basic
+C0461,2026-03-01,Bengaluru,Karnataka,South,35-44,Referral,Basic
+C0462,2025-10-28,Pune,Maharashtra,West,25-34,Instagram,Silver
+C0463,2025-12-09,Kochi,Kerala,South,25-34,Referral,Basic
+C0464,2026-04-19,Chennai,Tamil Nadu,South,45-54,Marketplace,Basic
+C0465,2026-04-29,Chennai,Tamil Nadu,South,25-34,Google Search,Silver
+C0466,2025-10-31,Kochi,Kerala,South,45-54,Instagram,Basic
+C0467,2026-02-28,Bengaluru,Karnataka,South,45-54,Referral,Basic
+C0468,2025-11-11,Hyderabad,Telangana,South,25-34,Google Search,Silver
+C0469,2025-10-31,Chennai,Tamil Nadu,South,25-34,Instagram,Gold
+C0470,2026-03-05,Ahmedabad,Gujarat,West,35-44,Instagram,Silver
+C0471,2025-12-12,Bengaluru,Karnataka,South,18-24,Organic,Basic
+C0472,2026-03-23,Delhi NCR,Delhi,North,35-44,Marketplace,Gold
+C0473,2026-05-06,Bengaluru,Karnataka,South,18-24,Organic,Basic
+C0474,2026-05-07,Hyderabad,Telangana,South,18-24,Instagram,Basic
+C0475,2025-09-19,Ahmedabad,Gujarat,West,45-54,Organic,Silver
+C0476,2026-03-14,Hyderabad,Telangana,South,35-44,Organic,Basic
+C0477,2025-09-09,Hyderabad,Telangana,South,18-24,Google Search,Basic
+C0478,2025-09-24,Ahmedabad,Gujarat,West,35-44,Google Search,Basic
+C0479,2025-10-16,Delhi NCR,Delhi,North,18-24,Marketplace,Basic
+C0480,2025-12-08,Mumbai,Maharashtra,West,25-34,Referral,Basic
+C0481,2026-01-25,Pune,Maharashtra,West,35-44,Referral,Basic
+C0482,2026-04-24,Bengaluru,Karnataka,South,25-34,Google Search,Basic
+C0483,2026-03-08,Hyderabad,Telangana,South,55+,Referral,Silver
+C0484,2026-05-31,Hyderabad,Telangana,South,18-24,Referral,Basic
+C0485,2026-05-06,Delhi NCR,Delhi,North,18-24,Organic,Basic
+C0486,2026-05-26,Bengaluru,Karnataka,South,18-24,Email,Basic
+C0487,2026-03-09,Hyderabad,Telangana,South,55+,Google Search,Silver
+C0488,2025-12-29,Mumbai,Maharashtra,West,55+,Google Search,Gold
+C0489,2025-12-27,Chennai,Tamil Nadu,South,45-54,Marketplace,Basic
+C0490,2025-11-29,Mumbai,Maharashtra,West,25-34,Google Search,Gold
+C0491,2025-11-11,Pune,Maharashtra,West,45-54,Marketplace,Silver
+C0492,2026-01-26,Jaipur,Rajasthan,North,25-34,Instagram,Basic
+C0493,2025-10-20,Jaipur,Rajasthan,North,18-24,Instagram,Basic
+C0494,2025-09-24,Hyderabad,Telangana,South,45-54,Email,Basic
+C0495,2026-03-11,Chennai,Tamil Nadu,South,35-44,Google Search,Basic
+C0496,2025-12-18,Hyderabad,Telangana,South,18-24,Instagram,Basic
+C0497,2026-05-23,Mumbai,Maharashtra,West,25-34,Instagram,Basic
+C0498,2025-10-30,Bengaluru,Karnataka,South,45-54,Instagram,Silver
+C0499,2026-03-23,Pune,Maharashtra,West,25-34,Email,Basic
+C0500,2025-11-15,Bengaluru,Karnataka,South,35-44,Referral,Silver
+C0501,2025-10-03,Chennai,Tamil Nadu,South,35-44,Organic,Basic
+C0502,2026-05-05,Chennai,Tamil Nadu,South,25-34,Email,Basic
+C0503,2025-11-13,Bengaluru,Karnataka,South,18-24,Referral,Basic
+C0504,2026-01-31,Pune,Maharashtra,West,35-44,Organic,Silver
+C0505,2026-04-20,Chennai,Tamil Nadu,South,25-34,Instagram,Silver
+C0506,2025-10-19,Mumbai,Maharashtra,West,25-34,Email,Basic
+C0507,2025-09-27,Chennai,Tamil Nadu,South,55+,Email,Silver
+C0508,2026-05-11,Chennai,Tamil Nadu,South,25-34,Email,Silver
+C0509,2026-01-23,Mumbai,Maharashtra,West,55+,Referral,Basic
+C0510,2026-04-11,Hyderabad,Telangana,South,35-44,Organic,Silver
+C0511,2026-03-03,Kochi,Kerala,South,55+,Instagram,Basic
+C0512,2026-05-17,Hyderabad,Telangana,South,45-54,Referral,Gold
+C0513,2026-05-28,Pune,Maharashtra,West,25-34,Referral,Silver
+C0514,2026-01-28,Mumbai,Maharashtra,West,25-34,Google Search,Gold
+C0515,2025-10-24,Pune,Maharashtra,West,35-44,Email,Gold
+C0516,2026-02-18,Mumbai,Maharashtra,West,45-54,Organic,Basic
+C0517,2026-03-16,Delhi NCR,Delhi,North,45-54,Google Search,Basic
+C0518,2026-04-24,Mumbai,Maharashtra,West,25-34,Referral,Silver
+C0519,2026-05-31,Mumbai,Maharashtra,West,35-44,Organic,Silver
+C0520,2025-11-28,Mumbai,Maharashtra,West,25-34,Referral,Gold
+C0521,2026-02-25,Hyderabad,Telangana,South,25-34,Referral,Basic
+C0522,2026-03-07,Pune,Maharashtra,West,18-24,Instagram,Basic
+C0523,2025-10-23,Chennai,Tamil Nadu,South,25-34,Organic,Basic
+C0524,2026-03-27,Bengaluru,Karnataka,South,18-24,Email,Gold
+C0525,2026-01-27,Ahmedabad,Gujarat,West,35-44,Organic,Basic
+C0526,2026-01-25,Mumbai,Maharashtra,West,25-34,Instagram,Silver
+C0527,2025-10-26,Mumbai,Maharashtra,West,35-44,Organic,Basic
+C0528,2026-05-13,Delhi NCR,Delhi,North,45-54,Instagram,Silver
+C0529,2026-02-07,Mumbai,Maharashtra,West,25-34,Instagram,Silver
+C0530,2025-12-25,Delhi NCR,Delhi,North,35-44,Instagram,Basic
+C0531,2026-03-09,Mumbai,Maharashtra,West,35-44,Email,Gold
+C0532,2026-02-24,Delhi NCR,Delhi,North,25-34,Instagram,Gold
+C0533,2026-05-15,Kochi,Kerala,South,35-44,Google Search,Basic
+C0534,2025-09-23,Kochi,Kerala,South,25-34,Referral,Silver
+C0535,2025-09-29,Mumbai,Maharashtra,West,25-34,Email,Basic
+C0536,2026-05-01,Delhi NCR,Delhi,North,35-44,Referral,Basic
+C0537,2025-10-11,Kochi,Kerala,South,25-34,Referral,Silver
+C0538,2026-05-05,Mumbai,Maharashtra,West,25-34,Marketplace,Basic
+C0539,2026-04-25,Bengaluru,Karnataka,South,45-54,Organic,Basic
+C0540,2025-12-17,Delhi NCR,Delhi,North,25-34,Instagram,Silver
+C0541,2026-03-24,Delhi NCR,Delhi,North,35-44,Instagram,Silver
+C0542,2025-09-20,Kochi,Kerala,South,45-54,Instagram,Basic
+C0543,2025-12-27,Mumbai,Maharashtra,West,18-24,Referral,Gold
+C0544,2025-12-28,Hyderabad,Telangana,South,35-44,Instagram,Basic
+C0545,2026-03-11,Bengaluru,Karnataka,South,45-54,Referral,Gold
+C0546,2025-11-08,Hyderabad,Telangana,South,35-44,Google Search,Basic
+C0547,2026-05-15,Ahmedabad,Gujarat,West,45-54,Instagram,Silver
+C0548,2025-12-29,Ahmedabad,Gujarat,West,18-24,Referral,Silver
+C0549,2025-10-25,Mumbai,Maharashtra,West,35-44,Referral,Basic
+C0550,2025-09-16,Mumbai,Maharashtra,West,35-44,Organic,Silver

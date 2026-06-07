@@ -1,0 +1,36 @@
+product_id,category,sub_category,product_name,brand,list_price,cost_price,base_return_rate,launch_month
+P001,Fitness,Equipment,Smart Skipping Rope,FitPulse,1299,610,0.055,Jan-2026
+P002,Fitness,Equipment,Resistance Band Set,FitPulse,899,320,0.04,Existing
+P003,Fitness,Equipment,Adjustable Dumbbell Pair,IronFlex,3999,2250,0.03,Existing
+P004,Fitness,Accessories,Yoga Mat Pro,ZenMove,1599,760,0.07,Existing
+P005,Fitness,Accessories,Foam Roller,ZenMove,999,410,0.045,Existing
+P006,Fitness,Wearables,Heart Rate Band,PulseTrack,2499,1420,0.06,Existing
+P007,Fitness,Apparel,Activewear Set,MoveWear,2199,1020,0.145,Existing
+P008,Fitness,Apparel,Compression T-Shirt,MoveWear,1199,520,0.12,Existing
+P009,Home,Kitchen,Air Fryer 4L,HomeJoy,5999,3950,0.055,Existing
+P010,Home,Kitchen,Smoothie Blender,HomeJoy,2999,1710,0.045,Existing
+P011,Home,Storage,Foldable Storage Box,NestEasy,749,250,0.035,Existing
+P012,Home,Lighting,Smart Desk Lamp,LumaHome,2199,1180,0.065,Existing
+P013,Home,Cleaning,Handheld Vacuum,HomeJoy,4499,2950,0.05,Existing
+P014,Home,Decor,Aroma Diffuser,LumaHome,1499,620,0.075,Existing
+P015,Office,Furniture,Ergonomic Chair,WorkNest,8999,6100,0.04,Existing
+P016,Office,Accessories,Laptop Stand,WorkNest,1299,520,0.025,Existing
+P017,Office,Accessories,Wireless Keyboard,KeyCraft,1899,1040,0.035,Existing
+P018,Office,Accessories,Vertical Mouse,KeyCraft,1499,760,0.03,Existing
+P019,Office,Stationery,Planner Notebook,PaperTrail,499,140,0.02,Existing
+P020,Office,Tech,USB-C Hub,ConnectPro,2499,1330,0.045,Existing
+P021,Wellness,Personal Care,Sleep Mask,CalmCare,699,220,0.03,Existing
+P022,Wellness,Personal Care,Neck Massager,CalmCare,3499,2070,0.06,Existing
+P023,Wellness,Hydration,Copper Bottle,PureSip,999,360,0.04,Existing
+P024,Wellness,Hydration,Infuser Water Bottle,PureSip,799,260,0.035,Existing
+P025,Wellness,Mindfulness,Meditation Cushion,ZenMove,1799,850,0.055,Existing
+P026,Travel,Bags,Cabin Backpack,TripEase,2999,1350,0.05,Jan-2026
+P027,Travel,Accessories,Packing Cube Set,TripEase,1199,410,0.03,Existing
+P028,Travel,Accessories,Travel Neck Pillow,TripEase,899,300,0.035,Existing
+P029,Travel,Tech,Universal Travel Adapter,ConnectPro,1599,700,0.04,Existing
+P030,Travel,Bags,Anti-Theft Sling Bag,TripEase,1899,760,0.065,Jan-2026
+P031,Fitness,Equipment,Kettlebell 8KG,IronFlex,2599,1600,0.04,Existing
+P032,Home,Bedding,Cooling Pillow,NestEasy,1999,900,0.08,Existing
+P033,Office,Furniture,Standing Desk Converter,WorkNest,6999,4450,0.035,Existing
+P034,Wellness,Personal Care,Posture Corrector,CalmCare,1299,540,0.09,Existing
+P035,Travel,Accessories,Luggage Scale,TripEase,799,210,0.025,Existing

@@ -1,0 +1,1651 @@
+order_id,customer_id,order_date,sales_channel,city,region,payment_method,order_status,delivery_days,shipping_fee,campaign_id,promo_code,customer_rating,has_return
+O00001,C0398,2026-02-12,App,Kochi,South,UPI,Delivered,4,0,,,4.6,0
+O00002,C0466,2026-05-18,Website,Kochi,South,Credit Card,Delivered,4,0,CAMP007,UC007,4.8,0
+O00003,C0223,2026-02-18,Website,Kochi,South,UPI,Cancelled,,0,,SAVE10,,0
+O00004,C0157,2026-01-03,Website,Chennai,South,Credit Card,Delivered,3,0,,SAVE5,4.5,0
+O00005,C0045,2026-05-16,App,Hyderabad,South,Net Banking,Delivered,1,99,,SAVE10,4.7,0
+O00006,C0111,2026-02-10,App,Pune,West,Credit Card,Delivered,4,79,,,4.2,0
+O00007,C0441,2026-03-12,App,Chennai,South,UPI,Delivered,3,0,CAMP004,UC004,4.2,0
+O00008,C0021,2026-01-12,Website,Bengaluru,South,Credit Card,Delivered,3,0,,SAVE8,4.5,0
+O00009,C0520,2026-01-19,Website,Mumbai,West,Credit Card,Delivered,4,79,CAMP008,UC008,4.5,0
+O00010,C0403,2026-04-07,Website,Bengaluru,South,UPI,Delivered,5,49,,,4.8,0
+O00011,C0252,2026-05-26,Marketplace,Pune,West,UPI,Delivered,4,0,,,4.3,0
+O00012,C0535,2026-03-05,Website,Mumbai,West,UPI,Delivered,4,79,,SAVE10,3.9,0
+O00013,C0080,2026-05-01,Website,Pune,West,UPI,Delivered,6,0,CAMP006,UC006,4.0,0
+O00014,C0035,2026-03-13,Website,Hyderabad,South,UPI,Delivered,6,49,,SAVE5,4.0,0
+O00015,C0235,2026-01-07,Website,Pune,West,UPI,Delivered,4,0,,,4.7,0
+O00016,C0007,2026-01-24,App,Jaipur,North,Credit Card,Delivered,5,0,CAMP002,UC002,3.8,0
+O00017,C0441,2026-01-14,App,Chennai,South,Credit Card,Delivered,2,0,,,5.0,0
+O00018,C0218,2026-05-19,Website,Chennai,South,Debit Card,Delivered,4,49,,,4.5,0
+O00019,C0425,2026-04-11,App,Ahmedabad,West,Debit Card,Delivered,6,0,,,3.2,0
+O00020,C0300,2026-05-18,Marketplace,Hyderabad,South,UPI,Delivered,5,0,,,3.7,1
+O00021,C0066,2026-03-16,Marketplace,Bengaluru,South,UPI,Delivered,8,49,,,3.1,0
+O00022,C0268,2026-01-06,Website,Ahmedabad,West,Credit Card,Cancelled,,0,CAMP001,UC001,,0
+O00023,C0034,2026-03-02,App,Delhi NCR,North,UPI,Delivered,5,0,,,3.8,0
+O00024,C0438,2026-02-21,App,Mumbai,West,Debit Card,Delivered,5,149,,SAVE5,5.0,0
+O00025,C0262,2026-04-07,App,Mumbai,West,Debit Card,Delivered,3,149,,,4.7,0
+O00026,C0191,2026-03-28,Website,Mumbai,West,Cash on Delivery,Delivered,3,0,,,4.9,0
+O00027,C0365,2026-05-23,App,Kochi,South,Credit Card,Delivered,5,0,CAMP009,UC009,3.9,0
+O00028,C0355,2026-03-04,Website,Ahmedabad,West,Credit Card,Delivered,6,0,,,3.2,0
+O00029,C0294,2026-03-10,App,Mumbai,West,Credit Card,Delivered,5,0,,,4.0,0
+O00030,C0045,2026-05-22,App,Hyderabad,South,UPI,Delivered,3,99,CAMP009,UC009,4.9,0
+O00031,C0061,2026-03-15,Marketplace,Pune,West,UPI,Delivered,4,0,,,4.9,0
+O00032,C0218,2026-03-27,Website,Chennai,South,Cash on Delivery,Delivered,3,0,CAMP005,UC005,4.6,1
+O00033,C0402,2026-02-10,App,Mumbai,West,Debit Card,Delivered,4,0,CAMP003,UC003,3.9,1
+O00034,C0263,2026-03-16,Marketplace,Bengaluru,South,Debit Card,Delivered,3,0,,SAVE5,4.2,0
+O00035,C0187,2026-03-10,Website,Bengaluru,South,Credit Card,Delivered,6,0,,,4.2,0
+O00036,C0162,2026-05-31,Website,Chennai,South,UPI,Delivered,3,0,,SAVE8,4.2,0
+O00037,C0026,2026-03-19,Marketplace,Chennai,South,Debit Card,Cancelled,,0,,SAVE10,,0
+O00038,C0517,2026-04-17,Website,Delhi NCR,North,Debit Card,Delivered,5,0,,SAVE8,4.4,0
+O00039,C0475,2026-04-08,Marketplace,Ahmedabad,West,UPI,Delivered,7,0,CAMP005,UC005,3.6,0
+O00040,C0370,2026-02-19,Website,Pune,West,Credit Card,Delivered,4,149,,SAVE10,4.5,0
+O00041,C0520,2026-03-21,App,Mumbai,West,UPI,Delivered,6,0,,SAVE5,3.1,0
+O00042,C0500,2026-03-08,Website,Bengaluru,South,Debit Card,Delivered,1,0,,SAVE10,3.6,0
+O00043,C0042,2026-04-21,Marketplace,Bengaluru,South,UPI,Cancelled,,0,,,,0
+O00044,C0298,2026-03-11,App,Bengaluru,South,Debit Card,Delivered,2,0,CAMP004,UC004,4.2,0
+O00045,C0235,2026-01-15,App,Pune,West,UPI,Delivered,5,0,CAMP001,UC001,4.0,0
+O00046,C0314,2026-05-02,App,Delhi NCR,North,Credit Card,Delivered,4,99,CAMP006,UC006,4.3,0
+O00047,C0251,2026-01-02,Website,Mumbai,West,UPI,Delivered,4,0,CAMP001,UC001,4.8,0
+O00048,C0064,2026-01-19,App,Kochi,South,UPI,Delivered,5,0,,,4.1,0
+O00049,C0446,2026-03-16,App,Ahmedabad,West,Credit Card,Delivered,6,99,,,3.9,0
+O00050,C0509,2026-03-18,Website,Mumbai,West,Credit Card,Delivered,7,0,CAMP004,UC004,3.8,0
+O00051,C0057,2026-04-14,Website,Delhi NCR,North,Debit Card,Delivered,7,0,,,4.1,0
+O00052,C0446,2026-01-12,App,Ahmedabad,West,Credit Card,Delivered,4,0,,,3.4,1
+O00053,C0298,2026-01-26,Marketplace,Bengaluru,South,Credit Card,Delivered,6,0,CAMP002,UC002,3.8,0
+O00054,C0358,2026-02-09,App,Ahmedabad,West,UPI,Delivered,6,149,CAMP008,UC008,3.9,0
+O00055,C0034,2026-03-19,Website,Delhi NCR,North,Credit Card,Delivered,6,79,,SAVE5,4.0,0
+O00056,C0251,2026-01-24,Website,Mumbai,West,UPI,Delivered,5,49,CAMP002,UC002,4.0,0
+O00057,C0129,2026-04-01,Website,Kochi,South,Debit Card,Delivered,4,0,,,3.9,0
+O00058,C0423,2026-03-24,Marketplace,Pune,West,UPI,Delivered,6,0,CAMP005,UC005,4.2,0
+O00059,C0099,2026-03-28,Website,Chennai,South,Debit Card,Delivered,4,0,CAMP005,UC005,4.6,0
+O00060,C0042,2026-04-23,App,Bengaluru,South,Net Banking,Delivered,2,0,,,4.8,0
+O00061,C0537,2026-01-02,Website,Kochi,South,Credit Card,Delivered,4,0,,SAVE8,4.5,0
+O00062,C0377,2026-01-08,Website,Pune,West,Cash on Delivery,Delivered,3,0,CAMP001,UC001,4.3,0
+O00063,C0527,2026-02-20,App,Mumbai,West,UPI,Delivered,4,0,,SAVE10,4.1,0
+O00064,C0064,2026-01-26,Website,Kochi,South,Credit Card,Delivered,5,0,CAMP002,UC002,4.5,0
+O00065,C0392,2026-03-10,Website,Kochi,South,Credit Card,Delivered,5,0,,,4.4,0
+O00066,C0154,2026-05-29,App,Delhi NCR,North,UPI,Delivered,8,79,,SAVE5,3.3,0
+O00067,C0294,2026-03-17,App,Mumbai,West,Credit Card,Delivered,3,0,CAMP004,UC004,4.3,0
+O00068,C0426,2026-05-12,App,Ahmedabad,West,Net Banking,Delivered,4,49,,SAVE10,4.5,0
+O00069,C0144,2026-03-29,App,Mumbai,West,Debit Card,Delivered,4,0,,SAVE5,4.7,0
+O00070,C0045,2026-05-19,Website,Hyderabad,South,Credit Card,Delivered,4,0,CAMP009,UC009,3.9,0
+O00071,C0184,2026-04-16,Website,Delhi NCR,North,UPI,Delivered,6,0,,SAVE10,4.9,0
+O00072,C0500,2026-03-05,App,Bengaluru,South,Credit Card,Delivered,1,0,CAMP004,UC004,5.0,0
+O00073,C0487,2026-04-07,App,Hyderabad,South,Credit Card,Delivered,5,99,,,4.5,0
+O00074,C0376,2026-04-16,Website,Delhi NCR,North,Credit Card,Delivered,6,49,,,4.0,0
+O00075,C0209,2026-03-20,Website,Bengaluru,South,Debit Card,Delivered,1,0,CAMP004,UC004,4.8,0
+O00076,C0007,2026-02-22,Website,Jaipur,North,Cash on Delivery,Delivered,6,49,,,3.6,0
+O00077,C0080,2026-01-27,Website,Pune,West,Debit Card,Delivered,6,0,CAMP002,UC002,4.1,0
+O00078,C0339,2026-05-16,App,Hyderabad,South,Debit Card,Delivered,4,99,CAMP008,UC008,3.3,1
+O00079,C0500,2026-02-02,Marketplace,Bengaluru,South,UPI,Delivered,5,0,,SAVE8,4.2,0
+O00080,C0462,2026-01-10,Marketplace,Pune,West,UPI,Delivered,3,49,,SAVE5,4.2,0
+O00081,C0304,2026-03-22,App,Delhi NCR,North,Credit Card,Delivered,6,0,CAMP004,UC004,3.8,0
+O00082,C0514,2026-05-07,Website,Mumbai,West,UPI,Delivered,2,0,,,4.4,0
+O00083,C0182,2026-03-11,App,Pune,West,Cash on Delivery,Delivered,7,0,CAMP004,UC004,3.6,0
+O00084,C0398,2026-05-11,App,Kochi,South,UPI,Delivered,5,49,CAMP009,UC009,3.8,0
+O00085,C0458,2026-04-04,App,Bengaluru,South,Cash on Delivery,Delivered,3,0,,SAVE5,3.7,1
+O00086,C0090,2026-01-29,Website,Chennai,South,UPI,Delivered,2,0,CAMP002,UC002,4.7,0
+O00087,C0081,2026-02-09,App,Hyderabad,South,UPI,Delivered,4,0,,SAVE8,4.5,0
+O00088,C0496,2026-04-07,Website,Hyderabad,South,UPI,Delivered,3,149,,,4.3,0
+O00089,C0011,2026-01-22,Website,Hyderabad,South,Net Banking,Delivered,3,49,,,5.0,0
+O00090,C0263,2026-04-27,App,Bengaluru,South,Debit Card,Delivered,2,49,CAMP006,UC006,4.4,0
+O00091,C0481,2026-02-22,App,Pune,West,Credit Card,Delivered,5,99,CAMP008,UC008,4.7,0
+O00092,C0057,2026-02-23,App,Delhi NCR,North,Cash on Delivery,Delivered,4,49,,SAVE8,4.7,0
+O00093,C0337,2026-03-07,App,Pune,West,Credit Card,Delivered,4,49,CAMP004,UC004,4.3,0
+O00094,C0135,2026-04-25,Website,Bengaluru,South,UPI,Delivered,3,0,,,4.5,0
+O00095,C0209,2026-03-19,Marketplace,Bengaluru,South,Cash on Delivery,Delivered,6,79,CAMP008,UC008,4.0,0
+O00096,C0175,2026-05-10,Website,Bengaluru,South,UPI,Delivered,2,49,CAMP007,UC007,4.5,0
+O00097,C0307,2026-01-09,Marketplace,Bengaluru,South,Cash on Delivery,Delivered,3,0,,,5.0,0
+O00098,C0491,2026-05-19,Website,Pune,West,UPI,Delivered,5,0,CAMP007,UC007,4.0,0
+O00099,C0518,2026-05-12,Marketplace,Mumbai,West,Debit Card,Delivered,3,79,,,4.7,0
+O00100,C0462,2026-02-25,Website,Pune,West,Net Banking,Delivered,3,49,,SAVE8,4.8,0
+O00101,C0040,2026-02-11,Website,Hyderabad,South,Credit Card,Delivered,4,0,CAMP003,UC003,5.0,0
+O00102,C0059,2026-05-12,Marketplace,Mumbai,West,Credit Card,Delivered,6,49,CAMP009,UC009,4.3,0
+O00103,C0317,2026-02-06,App,Mumbai,West,Credit Card,Delivered,5,0,,,4.1,0
+O00104,C0114,2026-01-09,Website,Hyderabad,South,Credit Card,Delivered,6,49,CAMP001,UC001,3.9,0
+O00105,C0433,2026-03-21,Website,Jaipur,North,UPI,Delivered,6,79,,SAVE10,4.1,0
+O00106,C0101,2026-02-13,Website,Hyderabad,South,UPI,Delivered,4,0,,,4.3,0
+O00107,C0450,2026-03-25,App,Mumbai,West,UPI,Cancelled,,0,CAMP005,UC005,,0
+O00108,C0435,2026-01-30,Website,Delhi NCR,North,Cash on Delivery,Delivered,6,79,CAMP002,UC002,4.4,0
+O00109,C0098,2026-05-23,Website,Mumbai,West,UPI,Delivered,4,49,CAMP009,UC009,4.3,0
+O00110,C0064,2026-01-11,Website,Kochi,South,Net Banking,Delivered,6,0,CAMP001,UC001,3.9,0
+O00111,C0249,2026-01-24,App,Chennai,South,Net Banking,Delivered,4,0,,,4.4,0
+O00112,C0331,2026-05-31,Website,Kochi,South,Cash on Delivery,Delivered,5,0,,,4.4,0
+O00113,C0069,2026-03-03,Marketplace,Hyderabad,South,UPI,Delivered,5,0,,SAVE5,3.7,0
+O00114,C0337,2026-03-20,Website,Pune,West,Net Banking,Delivered,3,49,CAMP004,UC004,5.0,0
+O00115,C0008,2026-02-15,Website,Mumbai,West,UPI,Delivered,4,149,CAMP003,UC003,4.3,0
+O00116,C0433,2026-03-07,App,Jaipur,North,Cash on Delivery,Delivered,6,0,,,4.0,0
+O00117,C0026,2026-05-19,App,Chennai,South,UPI,Delivered,4,99,CAMP007,UC007,4.6,0
+O00118,C0101,2026-01-13,Website,Hyderabad,South,Debit Card,Delivered,5,49,CAMP001,UC001,4.7,0
+O00119,C0445,2026-03-30,Website,Chennai,South,UPI,Delivered,4,99,CAMP005,UC005,4.5,0
+O00120,C0179,2026-04-14,Website,Bengaluru,South,Credit Card,Delivered,4,49,CAMP008,UC008,4.0,0
+O00121,C0393,2026-04-27,Website,Ahmedabad,West,UPI,Delivered,3,0,CAMP008,UC008,4.7,0
+O00122,C0215,2026-05-27,Website,Kochi,South,Net Banking,Delivered,2,0,,,5.0,0
+O00123,C0535,2026-02-17,Marketplace,Mumbai,West,UPI,Delivered,5,0,,SAVE10,2.9,1
+O00124,C0008,2026-04-29,App,Mumbai,West,UPI,Delivered,4,79,CAMP006,UC006,4.3,0
+O00125,C0470,2026-05-19,Website,Ahmedabad,West,UPI,Delivered,5,79,,,4.5,0
+O00126,C0262,2026-01-25,App,Mumbai,West,UPI,Delivered,4,149,,,4.6,0
+O00127,C0092,2026-03-16,Website,Hyderabad,South,Net Banking,Delivered,3,0,,,4.8,0
+O00128,C0060,2026-03-06,Website,Delhi NCR,North,UPI,Delivered,5,99,CAMP004,UC004,4.4,0
+O00129,C0056,2026-03-05,App,Delhi NCR,North,Debit Card,Delivered,4,99,,,4.8,0
+O00130,C0242,2026-02-19,Website,Chennai,South,Credit Card,Delivered,5,0,,SAVE10,4.0,0
+O00131,C0293,2026-05-22,Marketplace,Chennai,South,Debit Card,Delivered,5,0,,SAVE8,4.6,0
+O00132,C0500,2026-02-16,Website,Bengaluru,South,UPI,Delivered,3,0,CAMP003,UC003,5.0,0
+O00133,C0438,2026-03-13,Website,Mumbai,West,Cash on Delivery,Delivered,5,0,,,4.0,0
+O00134,C0249,2026-01-16,App,Chennai,South,Credit Card,Delivered,4,79,,,5.0,0
+O00135,C0210,2026-04-27,App,Jaipur,North,Credit Card,Delivered,6,0,,,3.9,0
+O00136,C0303,2026-04-13,App,Jaipur,North,UPI,Delivered,5,99,,SAVE8,4.4,0
+O00137,C0468,2026-03-17,Website,Hyderabad,South,Credit Card,Delivered,5,0,,SAVE5,5.0,0
+O00138,C0190,2026-02-02,Website,Bengaluru,South,Debit Card,Delivered,4,0,,,3.4,1
+O00139,C0101,2026-03-19,Website,Hyderabad,South,UPI,Delivered,4,0,,SAVE10,4.8,0
+O00140,C0064,2026-01-23,App,Kochi,South,Debit Card,Delivered,5,0,CAMP002,UC002,4.1,0
+O00141,C0007,2026-01-31,App,Jaipur,North,Debit Card,Delivered,5,0,,,4.4,0
+O00142,C0549,2026-03-17,Website,Mumbai,West,Credit Card,Delivered,5,79,CAMP004,UC004,4.1,0
+O00143,C0500,2026-02-07,Website,Bengaluru,South,Debit Card,Delivered,4,0,CAMP008,UC008,5.0,0
+O00144,C0496,2026-04-02,Website,Hyderabad,South,Net Banking,Delivered,3,79,,SAVE5,5.0,0
+O00145,C0265,2026-02-16,Marketplace,Kochi,South,UPI,Delivered,5,0,CAMP003,UC003,4.0,0
+O00146,C0333,2026-03-22,Website,Hyderabad,South,UPI,Delivered,5,0,CAMP004,UC004,2.9,1
+O00147,C0066,2026-03-24,App,Bengaluru,South,Net Banking,Delivered,4,0,,,4.5,0
+O00148,C0155,2026-05-08,Website,Delhi NCR,North,Debit Card,Delivered,5,0,CAMP007,UC007,4.6,0
+O00149,C0543,2026-04-02,Website,Mumbai,West,Cash on Delivery,Delivered,5,0,CAMP005,UC005,4.4,0
+O00150,C0472,2026-04-04,App,Delhi NCR,North,UPI,Delivered,5,49,CAMP005,UC005,3.8,0
+O00151,C0530,2026-03-14,App,Delhi NCR,North,Debit Card,Delivered,7,0,,SAVE10,3.8,0
+O00152,C0487,2026-03-15,App,Hyderabad,South,Debit Card,Delivered,5,49,,,4.0,0
+O00153,C0177,2026-02-16,Website,Bengaluru,South,UPI,Delivered,5,49,CAMP003,UC003,4.4,0
+O00154,C0483,2026-04-08,App,Hyderabad,South,Debit Card,Delivered,4,0,CAMP005,UC005,4.7,0
+O00155,C0543,2026-02-02,Website,Mumbai,West,Debit Card,Delivered,3,79,,SAVE5,4.8,0
+O00156,C0542,2026-04-10,Website,Kochi,South,Debit Card,Delivered,5,0,,SAVE5,4.1,0
+O00157,C0105,2026-04-06,Marketplace,Hyderabad,South,Credit Card,Delivered,7,0,,,3.8,0
+O00158,C0180,2026-03-06,Website,Delhi NCR,North,Credit Card,Delivered,6,0,CAMP004,UC004,4.3,0
+O00159,C0060,2026-05-16,App,Delhi NCR,North,UPI,Delivered,5,0,CAMP007,UC007,4.7,0
+O00160,C0418,2026-01-25,App,Chennai,South,UPI,Delivered,2,0,CAMP002,UC002,5.0,0
+O00161,C0265,2026-02-27,Website,Kochi,South,Debit Card,Delivered,6,0,CAMP008,UC008,2.9,1
+O00162,C0483,2026-03-17,App,Hyderabad,South,Net Banking,Delivered,4,0,CAMP004,UC004,3.5,1
+O00163,C0492,2026-02-15,Website,Jaipur,North,Net Banking,Delivered,6,49,,,3.9,0
+O00164,C0490,2026-01-28,Website,Mumbai,West,UPI,Delivered,2,49,,,4.6,0
+O00165,C0435,2026-02-22,App,Delhi NCR,North,UPI,Delivered,8,99,,,3.6,0
+O00166,C0007,2026-03-08,Website,Jaipur,North,Credit Card,Delivered,8,149,CAMP004,UC004,2.9,1
+O00167,C0483,2026-04-21,Website,Hyderabad,South,Credit Card,Delivered,2,79,,,5.0,0
+O00168,C0013,2026-02-25,Marketplace,Delhi NCR,North,Cash on Delivery,Delivered,9,0,,SAVE5,3.5,0
+O00169,C0546,2026-02-20,Website,Hyderabad,South,Cash on Delivery,Delivered,3,0,,SAVE5,4.8,0
+O00170,C0011,2026-03-05,App,Hyderabad,South,UPI,Delivered,5,49,CAMP004,UC004,4.3,0
+O00171,C0235,2026-05-02,App,Pune,West,Credit Card,Delivered,3,99,,SAVE5,4.5,0
+O00172,C0530,2026-03-01,App,Delhi NCR,North,UPI,Delivered,7,0,,SAVE5,3.6,0
+O00173,C0031,2026-03-03,Website,Mumbai,West,Cash on Delivery,Delivered,3,0,,,5.0,0
+O00174,C0537,2026-01-03,Website,Kochi,South,UPI,Delivered,7,0,CAMP001,UC001,3.9,0
+O00175,C0520,2026-03-26,App,Mumbai,West,Credit Card,Delivered,2,0,CAMP005,UC005,3.7,1
+O00176,C0354,2026-02-17,App,Hyderabad,South,Cash on Delivery,Delivered,4,49,,SAVE5,4.3,0
+O00177,C0219,2026-05-13,Marketplace,Ahmedabad,West,Debit Card,Delivered,7,0,CAMP007,UC007,3.7,0
+O00178,C0248,2026-01-10,Website,Delhi NCR,North,UPI,Delivered,4,0,CAMP008,UC008,4.8,0
+O00179,C0175,2026-05-12,Website,Bengaluru,South,UPI,Delivered,3,0,,,4.3,0
+O00180,C0119,2026-03-07,Website,Chennai,South,UPI,Delivered,4,0,CAMP004,UC004,4.5,0
+O00181,C0134,2026-01-28,App,Jaipur,North,UPI,Delivered,8,0,CAMP002,UC002,3.1,0
+O00182,C0007,2026-04-26,App,Jaipur,North,Credit Card,Delivered,5,0,,,4.4,0
+O00183,C0458,2026-02-12,App,Bengaluru,South,Net Banking,Delivered,3,0,,SAVE5,4.9,0
+O00184,C0008,2026-01-13,Website,Mumbai,West,UPI,Delivered,4,0,CAMP001,UC001,5.0,0
+O00185,C0109,2026-03-11,Website,Pune,West,Debit Card,Delivered,5,79,CAMP004,UC004,4.0,0
+O00186,C0351,2026-03-21,Website,Delhi NCR,North,UPI,Delivered,6,0,CAMP005,UC005,4.0,0
+O00187,C0337,2026-04-16,Website,Pune,West,Credit Card,Delivered,5,0,,SAVE5,5.0,0
+O00188,C0488,2026-04-07,Marketplace,Mumbai,West,UPI,Delivered,6,49,,SAVE8,4.3,0
+O00189,C0374,2026-03-06,App,Pune,West,Credit Card,Delivered,6,0,CAMP008,UC008,4.2,0
+O00190,C0421,2026-01-31,Website,Mumbai,West,Cash on Delivery,Delivered,4,0,CAMP002,UC002,4.1,0
+O00191,C0530,2026-03-24,Website,Delhi NCR,North,Credit Card,Delivered,5,0,,,4.3,0
+O00192,C0203,2026-01-22,Website,Pune,West,Net Banking,Cancelled,,0,,,,0
+O00193,C0205,2026-05-20,App,Bengaluru,South,Debit Card,Delivered,3,79,CAMP009,UC009,5.0,0
+O00194,C0413,2026-02-06,App,Pune,West,UPI,Delivered,5,0,,,3.9,1
+O00195,C0009,2026-03-26,Website,Delhi NCR,North,UPI,Delivered,8,49,CAMP005,UC005,2.9,1
+O00196,C0426,2026-04-06,Website,Ahmedabad,West,UPI,Cancelled,,0,CAMP005,UC005,,0
+O00197,C0498,2026-02-24,App,Bengaluru,South,Debit Card,Delivered,3,49,,SAVE5,4.4,0
+O00198,C0337,2026-04-05,App,Pune,West,UPI,Delivered,3,0,,,4.6,0
+O00199,C0493,2026-05-21,App,Jaipur,North,UPI,Delivered,5,0,CAMP009,UC009,4.1,0
+O00200,C0131,2026-02-10,Website,Ahmedabad,West,Credit Card,Delivered,6,99,,,4.0,0
+O00201,C0294,2026-05-24,Website,Mumbai,West,Debit Card,Delivered,5,0,CAMP009,UC009,4.3,0
+O00202,C0084,2026-03-10,App,Hyderabad,South,Credit Card,Delivered,2,0,CAMP004,UC004,4.2,0
+O00203,C0101,2026-03-19,Website,Hyderabad,South,Credit Card,Delivered,5,49,,,3.8,0
+O00204,C0086,2026-03-04,Website,Chennai,South,UPI,Delivered,5,0,,SAVE8,4.3,0
+O00205,C0189,2026-04-27,Marketplace,Bengaluru,South,Credit Card,Delivered,2,0,,SAVE5,4.5,0
+O00206,C0201,2026-02-26,App,Delhi NCR,North,UPI,Delivered,5,0,,SAVE5,4.0,0
+O00207,C0355,2026-05-11,App,Ahmedabad,West,Net Banking,Delivered,3,99,CAMP009,UC009,4.7,0
+O00208,C0269,2026-01-28,App,Hyderabad,South,UPI,Delivered,5,49,CAMP002,UC002,3.6,0
+O00209,C0462,2026-03-16,Website,Pune,West,UPI,Delivered,5,0,,SAVE8,4.6,0
+O00210,C0007,2026-05-17,Website,Jaipur,North,Credit Card,Delivered,4,79,CAMP007,UC007,4.1,1
+O00211,C0499,2026-05-08,Website,Pune,West,Credit Card,Delivered,5,0,,,4.3,0
+O00212,C0537,2026-01-19,Website,Kochi,South,Credit Card,Delivered,4,49,CAMP001,UC001,3.4,1
+O00213,C0013,2026-04-18,Marketplace,Delhi NCR,North,UPI,Delivered,7,49,,SAVE8,4.0,0
+O00214,C0500,2026-01-01,Website,Bengaluru,South,Debit Card,Delivered,5,0,CAMP008,UC008,4.4,0
+O00215,C0509,2026-03-09,App,Mumbai,West,Net Banking,Cancelled,,0,,,,0
+O00216,C0548,2026-01-25,App,Ahmedabad,West,UPI,Delivered,6,49,,,3.9,0
+O00217,C0073,2026-04-02,Website,Ahmedabad,West,UPI,Delivered,5,79,,,3.8,0
+O00218,C0141,2026-01-25,App,Ahmedabad,West,UPI,Delivered,5,0,CAMP002,UC002,5.0,0
+O00219,C0543,2026-04-04,Website,Mumbai,West,Net Banking,Delivered,4,0,,,4.4,1
+O00220,C0438,2026-02-25,Marketplace,Mumbai,West,Debit Card,Delivered,5,79,,,4.1,0
+O00221,C0158,2026-01-03,Website,Kochi,South,UPI,Delivered,5,0,,,4.8,0
+O00222,C0251,2026-01-16,Website,Mumbai,West,Credit Card,Delivered,4,49,CAMP001,UC001,4.7,0
+O00223,C0265,2026-03-02,App,Kochi,South,UPI,Delivered,5,149,,SAVE8,4.2,0
+O00224,C0435,2026-02-01,Website,Delhi NCR,North,Net Banking,Delivered,7,0,,,4.4,0
+O00225,C0049,2026-03-08,App,Bengaluru,South,Credit Card,Delivered,4,0,CAMP004,UC004,4.2,0
+O00226,C0056,2026-05-06,Marketplace,Delhi NCR,North,UPI,Delivered,8,0,,,3.5,0
+O00227,C0393,2026-05-06,App,Ahmedabad,West,UPI,Delivered,4,0,,SAVE5,4.6,0
+O00228,C0157,2026-04-21,Marketplace,Chennai,South,UPI,Delivered,4,0,,SAVE8,3.2,1
+O00229,C0262,2026-04-02,Marketplace,Mumbai,West,Credit Card,Delivered,6,0,,SAVE10,3.7,0
+O00230,C0129,2026-02-02,App,Kochi,South,Net Banking,Delivered,4,0,,,4.5,0
+O00231,C0166,2026-02-28,Website,Kochi,South,UPI,Delivered,6,79,,,3.1,0
+O00232,C0435,2026-01-27,App,Delhi NCR,North,Credit Card,Delivered,7,0,CAMP002,UC002,4.2,0
+O00233,C0345,2026-02-23,App,Pune,West,UPI,Delivered,5,0,,,4.7,0
+O00234,C0157,2026-03-20,Marketplace,Chennai,South,Debit Card,Delivered,3,0,,SAVE10,4.2,0
+O00235,C0462,2026-05-09,Website,Pune,West,Cash on Delivery,Delivered,4,0,CAMP007,UC007,4.8,0
+O00236,C0436,2026-03-01,Marketplace,Pune,West,Cash on Delivery,Delivered,7,0,,,3.9,0
+O00237,C0077,2026-05-23,Website,Mumbai,West,Cash on Delivery,Delivered,2,149,CAMP009,UC009,4.1,1
+O00238,C0012,2026-02-03,Marketplace,Delhi NCR,North,UPI,Delivered,7,0,,SAVE8,3.6,0
+O00239,C0087,2026-03-29,Website,Hyderabad,South,Debit Card,Delivered,7,49,CAMP005,UC005,3.8,0
+O00240,C0134,2026-02-22,App,Jaipur,North,UPI,Delivered,7,0,,,2.9,0
+O00241,C0007,2026-05-08,Website,Jaipur,North,UPI,Delivered,4,0,,,5.0,0
+O00242,C0100,2026-01-06,Website,Delhi NCR,North,Cash on Delivery,Delivered,6,0,,SAVE10,3.4,0
+O00243,C0337,2026-03-31,Website,Pune,West,Credit Card,Delivered,4,0,,,4.5,0
+O00244,C0035,2026-03-06,Website,Hyderabad,South,Credit Card,Delivered,4,0,CAMP004,UC004,4.3,0
+O00245,C0134,2026-03-08,Website,Jaipur,North,Credit Card,Delivered,6,0,,,3.7,0
+O00246,C0286,2026-02-08,Website,Bengaluru,South,Debit Card,Delivered,2,0,CAMP003,UC003,5.0,0
+O00247,C0466,2026-02-18,Website,Kochi,South,UPI,Delivered,5,0,,SAVE5,4.3,0
+O00248,C0026,2026-02-26,Website,Chennai,South,Net Banking,Delivered,6,0,,,4.2,0
+O00249,C0294,2026-02-09,Website,Mumbai,West,Cash on Delivery,Delivered,2,0,,SAVE5,5.0,0
+O00250,C0277,2026-04-04,Website,Pune,West,Debit Card,Delivered,5,49,CAMP005,UC005,3.8,1
+O00251,C0114,2026-01-24,App,Hyderabad,South,UPI,Delivered,5,99,,,4.2,0
+O00252,C0496,2026-04-22,Website,Hyderabad,South,Cash on Delivery,Delivered,6,0,,SAVE5,3.7,0
+O00253,C0491,2026-01-11,App,Pune,West,UPI,Cancelled,,0,CAMP001,UC001,,0
+O00254,C0201,2026-04-19,Website,Delhi NCR,North,Credit Card,Delivered,6,0,CAMP008,UC008,4.1,0
+O00255,C0392,2026-01-31,Website,Kochi,South,UPI,Delivered,4,49,,,4.7,0
+O00256,C0303,2026-03-27,Website,Jaipur,North,UPI,Delivered,6,0,CAMP005,UC005,4.1,0
+O00257,C0403,2026-02-24,Website,Bengaluru,South,Debit Card,Delivered,3,0,,SAVE5,5.0,0
+O00258,C0013,2026-01-20,App,Delhi NCR,North,UPI,Delivered,6,0,CAMP001,UC001,4.5,0
+O00259,C0249,2026-01-05,Website,Chennai,South,Credit Card,Delivered,3,0,CAMP001,UC001,4.8,0
+O00260,C0427,2026-04-25,App,Chennai,South,UPI,Delivered,3,49,CAMP006,UC006,4.3,0
+O00261,C0262,2026-01-08,App,Mumbai,West,Debit Card,Delivered,3,0,CAMP001,UC001,5.0,0
+O00262,C0391,2026-02-10,Website,Chennai,South,UPI,Delivered,4,0,,SAVE10,4.8,0
+O00263,C0195,2026-03-07,Website,Bengaluru,South,UPI,Delivered,2,0,CAMP004,UC004,5.0,0
+O00264,C0279,2026-05-20,App,Hyderabad,South,Cash on Delivery,Delivered,4,79,CAMP007,UC007,4.3,0
+O00265,C0090,2026-05-01,Website,Chennai,South,Net Banking,Delivered,3,0,CAMP007,UC007,4.8,0
+O00266,C0351,2026-05-09,Website,Delhi NCR,North,UPI,Delivered,7,0,CAMP007,UC007,4.0,0
+O00267,C0093,2026-01-25,App,Chennai,South,Credit Card,Delivered,4,0,,,4.5,0
+O00268,C0298,2026-03-27,Marketplace,Bengaluru,South,Debit Card,Delivered,5,0,CAMP005,UC005,4.5,0
+O00269,C0441,2026-03-16,Marketplace,Chennai,South,UPI,Delivered,5,0,,,3.7,0
+O00270,C0055,2026-05-26,Website,Hyderabad,South,Debit Card,Delivered,4,99,CAMP009,UC009,4.2,0
+O00271,C0374,2026-04-25,App,Pune,West,UPI,Delivered,4,49,,SAVE10,4.9,0
+O00272,C0292,2026-02-11,Website,Bengaluru,South,Credit Card,Delivered,5,0,,SAVE5,5.0,0
+O00273,C0518,2026-05-12,Website,Mumbai,West,Cash on Delivery,Delivered,2,0,,,4.4,0
+O00274,C0477,2026-01-15,App,Hyderabad,South,Debit Card,Delivered,4,0,,,4.9,0
+O00275,C0345,2026-05-08,App,Pune,West,UPI,Delivered,6,0,CAMP007,UC007,4.2,0
+O00276,C0077,2026-04-21,Website,Mumbai,West,UPI,Delivered,5,0,,SAVE5,3.7,1
+O00277,C0073,2026-02-03,App,Ahmedabad,West,Net Banking,Delivered,5,0,,SAVE5,4.1,0
+O00278,C0358,2026-04-09,Website,Ahmedabad,West,Credit Card,Delivered,3,0,CAMP005,UC005,5.0,0
+O00279,C0345,2026-02-13,Marketplace,Pune,West,Debit Card,Delivered,6,0,,SAVE5,2.7,1
+O00280,C0312,2026-01-28,Website,Bengaluru,South,UPI,Delivered,2,0,,SAVE5,5.0,0
+O00281,C0134,2026-01-31,Website,Jaipur,North,UPI,Delivered,6,0,,SAVE5,3.5,0
+O00282,C0093,2026-03-02,App,Chennai,South,Debit Card,Delivered,3,0,,SAVE5,4.6,0
+O00283,C0065,2026-02-15,App,Mumbai,West,Debit Card,Delivered,3,49,CAMP003,UC003,5.0,0
+O00284,C0546,2026-01-24,App,Hyderabad,South,Credit Card,Delivered,3,79,,,4.8,0
+O00285,C0013,2026-02-03,App,Delhi NCR,North,Cash on Delivery,Delivered,7,79,,,3.9,0
+O00286,C0340,2026-03-21,App,Mumbai,West,Cash on Delivery,Delivered,5,0,CAMP004,UC004,4.0,0
+O00287,C0098,2026-04-14,Website,Mumbai,West,Debit Card,Delivered,5,49,,SAVE5,4.4,0
+O00288,C0477,2026-02-03,Website,Hyderabad,South,Debit Card,Delivered,4,0,,SAVE5,4.1,0
+O00289,C0012,2026-04-26,App,Delhi NCR,North,Credit Card,Delivered,5,49,CAMP006,UC006,4.8,0
+O00290,C0500,2026-05-07,App,Bengaluru,South,Credit Card,Delivered,5,0,CAMP007,UC007,4.1,0
+O00291,C0421,2026-02-15,Website,Mumbai,West,Debit Card,Cancelled,,0,,SAVE5,,0
+O00292,C0503,2026-04-03,Website,Bengaluru,South,Cash on Delivery,Delivered,3,99,CAMP005,UC005,4.7,0
+O00293,C0398,2026-02-24,Website,Kochi,South,UPI,Delivered,4,0,,SAVE5,4.1,0
+O00294,C0223,2026-03-05,App,Kochi,South,UPI,Delivered,7,0,CAMP004,UC004,4.2,0
+O00295,C0235,2026-05-04,App,Pune,West,UPI,Delivered,6,79,,SAVE8,3.5,1
+O00296,C0325,2026-03-05,Marketplace,Delhi NCR,North,UPI,Delivered,6,0,CAMP004,UC004,3.2,0
+O00297,C0230,2026-04-14,Website,Mumbai,West,Debit Card,Delivered,3,0,,,5.0,0
+O00298,C0374,2026-02-07,Marketplace,Pune,West,Credit Card,Delivered,5,49,,,4.2,0
+O00299,C0488,2026-03-05,App,Mumbai,West,UPI,Delivered,6,49,,SAVE8,4.3,0
+O00300,C0347,2026-05-13,App,Bengaluru,South,Net Banking,Delivered,5,0,CAMP007,UC007,4.2,0
+O00301,C0516,2026-04-04,App,Mumbai,West,UPI,Delivered,4,0,,,4.3,0
+O00302,C0197,2026-04-24,App,Mumbai,West,UPI,Delivered,3,0,,,4.7,0
+O00303,C0096,2026-03-02,Marketplace,Pune,West,UPI,Delivered,5,49,,SAVE5,3.5,0
+O00304,C0265,2026-01-23,Marketplace,Kochi,South,Net Banking,Delivered,7,0,,SAVE5,3.2,1
+O00305,C0121,2026-03-10,Marketplace,Mumbai,West,UPI,Delivered,6,0,,SAVE5,3.7,0
+O00306,C0314,2026-01-07,App,Delhi NCR,North,Cash on Delivery,Delivered,6,0,CAMP001,UC001,4.2,0
+O00307,C0157,2026-01-04,Website,Chennai,South,UPI,Cancelled,,0,,SAVE8,,0
+O00308,C0189,2026-04-30,Marketplace,Bengaluru,South,Credit Card,Delivered,4,0,,,4.9,0
+O00309,C0096,2026-02-19,Website,Pune,West,Debit Card,Delivered,2,0,,,4.9,0
+O00310,C0481,2026-03-13,App,Pune,West,Debit Card,Delivered,4,0,,,4.7,0
+O00311,C0042,2026-03-07,App,Bengaluru,South,UPI,Delivered,2,79,CAMP004,UC004,4.4,0
+O00312,C0158,2026-02-26,App,Kochi,South,Credit Card,Delivered,3,0,,,4.8,0
+O00313,C0026,2026-04-21,Website,Chennai,South,Debit Card,Delivered,5,0,,SAVE5,4.2,0
+O00314,C0222,2026-03-29,Website,Hyderabad,South,UPI,Delivered,2,0,,SAVE5,5.0,0
+O00315,C0321,2026-02-17,Website,Bengaluru,South,Net Banking,Delivered,3,49,,SAVE5,4.0,1
+O00316,C0358,2026-02-19,Website,Ahmedabad,West,UPI,Delivered,6,49,,SAVE5,4.3,0
+O00317,C0064,2026-03-25,Website,Kochi,South,UPI,Delivered,5,0,CAMP005,UC005,4.1,0
+O00318,C0418,2026-01-21,Marketplace,Chennai,South,Debit Card,Delivered,5,0,,,3.3,0
+O00319,C0257,2026-03-08,App,Chennai,South,Debit Card,Delivered,3,99,CAMP004,UC004,5.0,0
+O00320,C0549,2026-01-20,App,Mumbai,West,Debit Card,Delivered,4,79,CAMP001,UC001,4.2,0
+O00321,C0055,2026-04-23,Website,Hyderabad,South,Cash on Delivery,Delivered,2,0,,,4.8,0
+O00322,C0170,2026-03-13,App,Delhi NCR,North,Debit Card,Delivered,8,0,,SAVE5,3.3,0
+O00323,C0087,2026-03-07,App,Hyderabad,South,UPI,Delivered,4,0,,,3.9,0
+O00324,C0321,2026-03-08,App,Bengaluru,South,UPI,Delivered,5,99,CAMP004,UC004,4.4,0
+O00325,C0176,2026-05-22,Website,Bengaluru,South,Debit Card,Delivered,6,79,CAMP009,UC009,2.8,1
+O00326,C0500,2026-02-01,Marketplace,Bengaluru,South,Credit Card,Delivered,2,49,,,4.6,0
+O00327,C0462,2026-01-18,App,Pune,West,Credit Card,Delivered,4,49,CAMP001,UC001,4.4,0
+O00328,C0040,2026-03-09,Website,Hyderabad,South,UPI,Delivered,5,49,CAMP004,UC004,3.7,1
+O00329,C0500,2026-03-01,App,Bengaluru,South,Cash on Delivery,Delivered,5,0,,,4.7,0
+O00330,C0483,2026-04-17,App,Hyderabad,South,UPI,Delivered,6,0,CAMP008,UC008,4.4,0
+O00331,C0354,2026-01-29,App,Hyderabad,South,UPI,Delivered,3,99,,,4.5,0
+O00332,C0012,2026-02-03,Website,Delhi NCR,North,UPI,Delivered,5,79,,SAVE10,4.3,0
+O00333,C0090,2026-01-16,App,Chennai,South,UPI,Delivered,2,0,CAMP008,UC008,4.6,0
+O00334,C0084,2026-01-27,Marketplace,Hyderabad,South,UPI,Delivered,4,0,,,4.5,0
+O00335,C0514,2026-03-19,Website,Mumbai,West,UPI,Delivered,3,0,CAMP004,UC004,5.0,0
+O00336,C0038,2026-01-01,Marketplace,Delhi NCR,North,Debit Card,Delivered,5,0,CAMP001,UC001,4.6,0
+O00337,C0066,2026-04-13,App,Bengaluru,South,Debit Card,Delivered,3,0,,SAVE8,4.5,0
+O00338,C0111,2026-05-22,App,Pune,West,Net Banking,Delivered,3,0,CAMP009,UC009,4.3,0
+O00339,C0093,2026-01-20,Website,Chennai,South,UPI,Delivered,2,0,,SAVE5,4.8,0
+O00340,C0537,2026-01-15,Website,Kochi,South,Cash on Delivery,Delivered,6,0,CAMP001,UC001,4.4,0
+O00341,C0120,2026-04-29,Website,Delhi NCR,North,Debit Card,Delivered,6,0,,SAVE8,3.8,0
+O00342,C0490,2026-04-01,App,Mumbai,West,Net Banking,Delivered,5,79,,,4.6,0
+O00343,C0320,2026-04-03,Website,Mumbai,West,UPI,Delivered,3,49,,SAVE10,4.9,0
+O00344,C0426,2026-02-06,App,Ahmedabad,West,Credit Card,Delivered,5,0,,SAVE5,4.7,0
+O00345,C0500,2026-01-27,Website,Bengaluru,South,Debit Card,Delivered,5,0,CAMP002,UC002,4.6,0
+O00346,C0134,2026-03-12,Website,Jaipur,North,UPI,Delivered,5,49,,SAVE5,3.8,0
+O00347,C0392,2026-01-09,Website,Kochi,South,Cash on Delivery,Delivered,3,0,,,4.4,0
+O00348,C0421,2026-02-06,Website,Mumbai,West,Net Banking,Delivered,4,49,,SAVE10,4.0,0
+O00349,C0514,2026-05-06,Website,Mumbai,West,Cash on Delivery,Delivered,4,0,CAMP007,UC007,4.0,0
+O00350,C0111,2026-03-11,Website,Pune,West,Credit Card,Delivered,7,0,CAMP004,UC004,4.1,0
+O00351,C0247,2026-05-01,App,Chennai,South,UPI,Delivered,3,0,,SAVE5,4.5,0
+O00352,C0251,2026-01-31,App,Mumbai,West,Credit Card,Delivered,4,99,CAMP002,UC002,4.6,0
+O00353,C0007,2026-03-02,App,Jaipur,North,UPI,Delivered,5,0,,SAVE10,4.1,0
+O00354,C0114,2026-01-01,Website,Hyderabad,South,Credit Card,Delivered,2,0,,SAVE5,4.2,0
+O00355,C0251,2026-01-12,Website,Mumbai,West,Debit Card,Delivered,4,0,CAMP001,UC001,4.9,0
+O00356,C0520,2026-03-17,Website,Mumbai,West,Debit Card,Delivered,6,0,CAMP004,UC004,4.0,0
+O00357,C0500,2026-02-28,App,Bengaluru,South,UPI,Delivered,2,49,CAMP008,UC008,5.0,0
+O00358,C0333,2026-05-20,Marketplace,Hyderabad,South,UPI,Delivered,6,79,,SAVE8,4.2,0
+O00359,C0278,2026-01-31,Marketplace,Mumbai,West,Credit Card,Delivered,5,0,,,4.5,0
+O00360,C0082,2026-01-30,Website,Hyderabad,South,Credit Card,Delivered,2,99,CAMP002,UC002,5.0,0
+O00361,C0549,2026-01-10,Marketplace,Mumbai,West,UPI,Delivered,3,0,CAMP001,UC001,4.2,0
+O00362,C0456,2026-04-27,App,Bengaluru,South,Credit Card,Delivered,4,149,CAMP006,UC006,4.6,0
+O00363,C0549,2026-01-25,App,Mumbai,West,Debit Card,Delivered,4,0,CAMP002,UC002,4.8,0
+O00364,C0008,2026-03-29,App,Mumbai,West,Net Banking,Delivered,3,0,,SAVE5,4.3,0
+O00365,C0218,2026-05-28,App,Chennai,South,Credit Card,Delivered,3,0,CAMP009,UC009,5.0,0
+O00366,C0248,2026-01-08,App,Delhi NCR,North,Debit Card,Delivered,6,99,CAMP001,UC001,4.2,0
+O00367,C0355,2026-03-27,App,Ahmedabad,West,Credit Card,Delivered,5,0,CAMP005,UC005,3.7,0
+O00368,C0265,2026-01-28,Marketplace,Kochi,South,UPI,Delivered,7,0,CAMP002,UC002,2.7,0
+O00369,C0549,2026-02-11,Website,Mumbai,West,UPI,Delivered,4,0,CAMP003,UC003,5.0,0
+O00370,C0518,2026-05-14,App,Mumbai,West,Debit Card,Delivered,2,79,CAMP007,UC007,5.0,0
+O00371,C0302,2026-01-15,Website,Jaipur,North,UPI,Delivered,6,79,CAMP001,UC001,3.9,0
+O00372,C0158,2026-02-22,Website,Kochi,South,Credit Card,Delivered,4,0,,SAVE8,5.0,0
+O00373,C0144,2026-05-02,App,Mumbai,West,Cash on Delivery,Delivered,4,0,,SAVE8,4.3,0
+O00374,C0044,2026-01-30,Website,Chennai,South,Credit Card,Delivered,4,0,CAMP002,UC002,4.8,0
+O00375,C0099,2026-04-11,Marketplace,Chennai,South,Credit Card,Delivered,7,79,,SAVE5,4.0,0
+O00376,C0535,2026-01-31,App,Mumbai,West,Net Banking,Delivered,6,99,CAMP002,UC002,4.1,0
+O00377,C0299,2026-01-25,App,Hyderabad,South,UPI,Delivered,3,0,CAMP002,UC002,4.8,0
+O00378,C0262,2026-02-17,App,Mumbai,West,Cash on Delivery,Delivered,2,0,,,5.0,0
+O00379,C0392,2026-02-06,Marketplace,Kochi,South,UPI,Delivered,7,0,,SAVE8,3.4,0
+O00380,C0258,2026-03-12,App,Bengaluru,South,UPI,Delivered,3,79,CAMP004,UC004,5.0,0
+O00381,C0311,2026-02-15,Website,Mumbai,West,Credit Card,Delivered,4,0,CAMP003,UC003,4.4,0
+O00382,C0098,2026-03-23,App,Mumbai,West,Net Banking,Delivered,5,0,,SAVE8,3.7,0
+O00383,C0496,2026-05-09,App,Hyderabad,South,Credit Card,Delivered,4,0,,SAVE5,4.1,0
+O00384,C0370,2026-02-19,App,Pune,West,UPI,Delivered,4,0,,,4.2,0
+O00385,C0294,2026-05-11,Website,Mumbai,West,Debit Card,Delivered,3,0,CAMP009,UC009,3.9,1
+O00386,C0315,2026-05-02,Website,Bengaluru,South,Credit Card,Delivered,4,99,CAMP007,UC007,4.6,0
+O00387,C0442,2026-03-08,Website,Mumbai,West,Debit Card,Delivered,6,0,,SAVE5,4.0,1
+O00388,C0119,2026-05-30,App,Chennai,South,UPI,Delivered,3,0,,,4.5,0
+O00389,C0398,2026-02-10,Website,Kochi,South,Credit Card,Delivered,6,79,CAMP003,UC003,4.5,0
+O00390,C0443,2026-01-29,App,Kochi,South,Cash on Delivery,Delivered,5,0,CAMP002,UC002,3.6,0
+O00391,C0168,2026-01-05,Website,Bengaluru,South,UPI,Delivered,2,0,CAMP001,UC001,5.0,0
+O00392,C0507,2026-05-16,Website,Chennai,South,Debit Card,Delivered,3,149,CAMP009,UC009,4.0,0
+O00393,C0102,2026-05-26,Website,Mumbai,West,Net Banking,Delivered,3,49,CAMP009,UC009,4.4,0
+O00394,C0203,2026-01-24,App,Pune,West,UPI,Delivered,3,0,,,4.4,0
+O00395,C0012,2026-01-21,App,Delhi NCR,North,UPI,Delivered,6,0,,,3.9,0
+O00396,C0037,2026-02-23,Marketplace,Hyderabad,South,Net Banking,Cancelled,,0,,SAVE10,,0
+O00397,C0485,2026-05-13,Website,Delhi NCR,North,UPI,Delivered,7,0,CAMP007,UC007,3.9,0
+O00398,C0190,2026-03-24,Website,Bengaluru,South,UPI,Delivered,2,0,CAMP005,UC005,5.0,0
+O00399,C0066,2026-01-28,App,Bengaluru,South,Credit Card,Delivered,2,0,CAMP002,UC002,4.8,0
+O00400,C0249,2026-03-09,Marketplace,Chennai,South,Net Banking,Cancelled,,0,,SAVE5,,0
+O00401,C0463,2026-02-12,Website,Kochi,South,Credit Card,Delivered,4,49,CAMP003,UC003,4.5,0
+O00402,C0012,2026-04-13,Website,Delhi NCR,North,UPI,Delivered,7,0,,,4.0,0
+O00403,C0175,2026-05-23,App,Bengaluru,South,Credit Card,Delivered,2,0,,SAVE8,5.0,0
+O00404,C0495,2026-03-15,App,Chennai,South,Debit Card,Delivered,6,0,,SAVE8,3.7,0
+O00405,C0201,2026-03-17,Website,Delhi NCR,North,Debit Card,Delivered,5,49,,,4.1,0
+O00406,C0413,2026-05-20,App,Pune,West,Net Banking,Cancelled,,0,CAMP007,UC007,,0
+O00407,C0074,2026-02-23,Website,Mumbai,West,UPI,Delivered,4,49,,SAVE8,4.5,0
+O00408,C0041,2026-04-29,App,Delhi NCR,North,Credit Card,Delivered,5,49,CAMP006,UC006,4.5,0
+O00409,C0210,2026-05-23,Website,Jaipur,North,UPI,Delivered,7,0,CAMP009,UC009,3.7,0
+O00410,C0355,2026-03-08,Marketplace,Ahmedabad,West,UPI,Delivered,7,49,,SAVE8,3.7,0
+O00411,C0066,2026-05-16,App,Bengaluru,South,Debit Card,Delivered,4,0,CAMP007,UC007,3.9,0
+O00412,C0114,2026-04-29,App,Hyderabad,South,Cash on Delivery,Delivered,4,0,CAMP006,UC006,4.4,0
+O00413,C0400,2026-05-06,Website,Mumbai,West,Debit Card,Delivered,2,0,,,3.7,1
+O00414,C0403,2026-03-19,Website,Bengaluru,South,Cash on Delivery,Delivered,4,0,,SAVE8,4.5,0
+O00415,C0195,2026-03-02,Website,Bengaluru,South,UPI,Delivered,2,0,,,4.2,0
+O00416,C0166,2026-05-18,Website,Kochi,South,Cash on Delivery,Delivered,6,49,,SAVE5,4.4,0
+O00417,C0007,2026-02-08,Website,Jaipur,North,Cash on Delivery,Delivered,7,49,,SAVE5,4.2,0
+O00418,C0137,2026-04-09,App,Mumbai,West,UPI,Delivered,3,0,,SAVE8,5.0,0
+O00419,C0421,2026-04-11,App,Mumbai,West,Cash on Delivery,Delivered,5,79,,,3.7,0
+O00420,C0069,2026-05-06,Website,Hyderabad,South,Cash on Delivery,Delivered,4,0,,,4.2,0
+O00421,C0125,2026-04-12,App,Pune,West,UPI,Delivered,5,0,,SAVE8,4.7,0
+O00422,C0491,2026-03-03,App,Pune,West,Credit Card,Delivered,4,0,,SAVE8,4.2,0
+O00423,C0241,2026-02-20,Marketplace,Delhi NCR,North,Credit Card,Cancelled,,0,,SAVE8,,0
+O00424,C0490,2026-01-02,Website,Mumbai,West,Cash on Delivery,Delivered,2,0,CAMP001,UC001,4.6,0
+O00425,C0278,2026-03-14,App,Mumbai,West,Net Banking,Delivered,4,0,CAMP004,UC004,4.4,0
+O00426,C0219,2026-04-03,Website,Ahmedabad,West,Credit Card,Delivered,6,49,CAMP005,UC005,4.3,0
+O00427,C0358,2026-01-22,App,Ahmedabad,West,Credit Card,Delivered,3,79,CAMP008,UC008,4.7,0
+O00428,C0374,2026-04-03,App,Pune,West,Credit Card,Delivered,2,0,CAMP005,UC005,5.0,0
+O00429,C0295,2026-02-20,App,Ahmedabad,West,UPI,Delivered,6,99,,SAVE10,4.2,0
+O00430,C0401,2026-04-05,Website,Pune,West,Debit Card,Delivered,3,0,,SAVE10,4.7,0
+O00431,C0045,2026-05-15,Marketplace,Hyderabad,South,Debit Card,Delivered,5,79,CAMP007,UC007,3.9,0
+O00432,C0398,2026-02-25,Marketplace,Kochi,South,Credit Card,Delivered,6,0,,SAVE5,4.3,0
+O00433,C0279,2026-05-17,Website,Hyderabad,South,Net Banking,Delivered,5,0,CAMP009,UC009,3.7,0
+O00434,C0040,2026-02-23,App,Hyderabad,South,Credit Card,Delivered,4,0,,SAVE5,4.0,0
+O00435,C0312,2026-01-31,App,Bengaluru,South,Debit Card,Delivered,3,0,,SAVE5,3.2,1
+O00436,C0535,2026-01-19,App,Mumbai,West,Debit Card,Delivered,2,0,,SAVE5,5.0,0
+O00437,C0218,2026-05-03,Marketplace,Chennai,South,Net Banking,Delivered,5,0,CAMP007,UC007,3.4,0
+O00438,C0162,2026-05-02,Website,Chennai,South,Debit Card,Delivered,4,99,CAMP008,UC008,4.9,0
+O00439,C0258,2026-01-27,Website,Bengaluru,South,Credit Card,Delivered,3,0,CAMP002,UC002,4.1,0
+O00440,C0541,2026-03-28,Website,Delhi NCR,North,UPI,Delivered,7,0,,SAVE8,3.8,0
+O00441,C0220,2026-01-31,Marketplace,Kochi,South,Net Banking,Delivered,8,49,,,3.4,0
+O00442,C0034,2026-01-31,Website,Delhi NCR,North,Cash on Delivery,Delivered,7,0,CAMP002,UC002,3.4,0
+O00443,C0182,2026-01-02,Marketplace,Pune,West,UPI,Delivered,3,0,,SAVE5,5.0,0
+O00444,C0073,2026-03-25,Website,Ahmedabad,West,Debit Card,Delivered,4,0,,SAVE10,4.4,0
+O00445,C0053,2026-03-06,App,Mumbai,West,UPI,Delivered,4,0,,SAVE8,4.7,0
+O00446,C0092,2026-05-09,Website,Hyderabad,South,Net Banking,Delivered,4,0,,SAVE10,3.0,1
+O00447,C0419,2026-02-14,Website,Delhi NCR,North,UPI,Delivered,6,49,CAMP003,UC003,4.4,0
+O00448,C0096,2026-03-17,Website,Pune,West,Net Banking,Delivered,1,0,,,4.7,0
+O00449,C0116,2026-05-30,Website,Pune,West,UPI,Delivered,4,0,,,4.2,0
+O00450,C0435,2026-03-20,Website,Delhi NCR,North,UPI,Delivered,5,0,CAMP005,UC005,4.4,0
+O00451,C0458,2026-02-27,Marketplace,Bengaluru,South,Debit Card,Delivered,5,0,,SAVE5,4.2,0
+O00452,C0064,2026-04-08,Website,Kochi,South,UPI,Delivered,4,0,,,3.9,0
+O00453,C0002,2026-03-16,Website,Hyderabad,South,UPI,Delivered,5,79,,SAVE5,3.7,1
+O00454,C0381,2026-03-10,App,Delhi NCR,North,Credit Card,Delivered,6,49,,,3.5,0
+O00455,C0065,2026-03-06,Website,Mumbai,West,UPI,Delivered,3,0,CAMP004,UC004,5.0,0
+O00456,C0012,2026-05-15,Website,Delhi NCR,North,Credit Card,Delivered,6,0,CAMP009,UC009,3.0,1
+O00457,C0492,2026-04-02,Website,Jaipur,North,UPI,Cancelled,,0,,SAVE5,,0
+O00458,C0019,2026-05-03,Marketplace,Bengaluru,South,Net Banking,Delivered,4,0,CAMP007,UC007,4.3,0
+O00459,C0530,2026-03-21,App,Delhi NCR,North,Net Banking,Delivered,6,0,,,4.0,0
+O00460,C0303,2026-05-23,Marketplace,Jaipur,North,UPI,Delivered,8,99,,SAVE10,3.6,0
+O00461,C0154,2026-03-19,App,Delhi NCR,North,Cash on Delivery,Delivered,4,0,CAMP004,UC004,4.5,0
+O00462,C0421,2026-05-31,Website,Mumbai,West,Credit Card,Delivered,5,49,CAMP009,UC009,3.9,0
+O00463,C0042,2026-05-28,Website,Bengaluru,South,Debit Card,Delivered,1,0,CAMP009,UC009,4.8,0
+O00464,C0278,2026-03-29,App,Mumbai,West,Debit Card,Delivered,3,0,,,5.0,0
+O00465,C0040,2026-01-18,App,Hyderabad,South,UPI,Delivered,3,0,,,4.8,0
+O00466,C0413,2026-04-06,Website,Pune,West,UPI,Delivered,4,0,,SAVE8,4.5,0
+O00467,C0538,2026-05-14,App,Mumbai,West,Debit Card,Delivered,4,0,,SAVE5,4.1,0
+O00468,C0401,2026-01-04,App,Pune,West,Debit Card,Delivered,4,49,CAMP001,UC001,5.0,0
+O00469,C0539,2026-05-29,Website,Bengaluru,South,UPI,Delivered,3,0,CAMP009,UC009,4.7,0
+O00470,C0394,2026-03-21,App,Bengaluru,South,Net Banking,Delivered,3,0,,,5.0,0
+O00471,C0251,2026-03-11,Marketplace,Mumbai,West,Credit Card,Delivered,5,0,CAMP004,UC004,4.1,0
+O00472,C0166,2026-03-05,Marketplace,Kochi,South,UPI,Delivered,8,79,,SAVE8,2.9,0
+O00473,C0310,2026-01-04,Website,Kochi,South,Credit Card,Delivered,2,49,CAMP001,UC001,5.0,0
+O00474,C0499,2026-03-26,App,Pune,West,Debit Card,Cancelled,,0,,SAVE5,,0
+O00475,C0342,2026-03-05,Website,Bengaluru,South,UPI,Delivered,1,49,,SAVE8,5.0,0
+O00476,C0099,2026-04-23,App,Chennai,South,Credit Card,Delivered,5,0,CAMP008,UC008,3.8,0
+O00477,C0520,2026-01-01,App,Mumbai,West,Debit Card,Delivered,3,79,CAMP001,UC001,4.7,0
+O00478,C0138,2026-04-30,Website,Mumbai,West,Credit Card,Delivered,4,0,,SAVE8,4.3,0
+O00479,C0421,2026-03-30,Website,Mumbai,West,Net Banking,Delivered,3,0,CAMP005,UC005,4.0,0
+O00480,C0176,2026-01-28,App,Bengaluru,South,UPI,Delivered,3,0,CAMP002,UC002,4.6,0
+O00481,C0325,2026-01-31,Website,Delhi NCR,North,UPI,Delivered,4,0,,SAVE5,4.4,0
+O00482,C0347,2026-05-20,Website,Bengaluru,South,Credit Card,Delivered,1,79,CAMP007,UC007,4.3,1
+O00483,C0403,2026-03-20,Website,Bengaluru,South,UPI,Delivered,3,99,CAMP005,UC005,4.7,0
+O00484,C0490,2026-01-14,App,Mumbai,West,Debit Card,Delivered,4,0,CAMP001,UC001,4.7,0
+O00485,C0398,2026-01-09,Website,Kochi,South,UPI,Delivered,4,49,,SAVE8,4.5,0
+O00486,C0391,2026-02-02,App,Chennai,South,Net Banking,Delivered,4,49,,,4.9,0
+O00487,C0335,2026-03-24,Website,Ahmedabad,West,UPI,Delivered,7,49,CAMP005,UC005,4.5,0
+O00488,C0410,2026-04-18,App,Delhi NCR,North,UPI,Delivered,5,0,,,4.1,0
+O00489,C0234,2026-05-16,App,Ahmedabad,West,UPI,Delivered,6,49,CAMP008,UC008,4.0,0
+O00490,C0026,2026-03-23,App,Chennai,South,Debit Card,Delivered,3,0,,SAVE5,4.4,0
+O00491,C0374,2026-03-18,Marketplace,Pune,West,Debit Card,Delivered,4,0,CAMP004,UC004,4.9,0
+O00492,C0042,2026-05-09,Marketplace,Bengaluru,South,Credit Card,Delivered,4,49,,,3.8,0
+O00493,C0243,2026-03-23,Website,Chennai,South,Net Banking,Delivered,3,99,,SAVE8,4.7,0
+O00494,C0500,2026-01-20,Website,Bengaluru,South,Net Banking,Delivered,3,49,,SAVE5,5.0,0
+O00495,C0313,2026-05-04,Website,Delhi NCR,North,Credit Card,Delivered,6,79,CAMP007,UC007,4.3,0
+O00496,C0197,2026-03-13,App,Mumbai,West,Credit Card,Delivered,5,0,CAMP004,UC004,4.1,0
+O00497,C0219,2026-05-27,App,Ahmedabad,West,Debit Card,Delivered,5,99,,,3.9,0
+O00498,C0001,2026-02-21,Website,Delhi NCR,North,UPI,Delivered,7,0,,SAVE8,3.5,0
+O00499,C0129,2026-03-19,Website,Kochi,South,UPI,Delivered,6,0,,,3.6,0
+O00500,C0201,2026-02-02,App,Delhi NCR,North,Credit Card,Delivered,4,49,CAMP008,UC008,4.5,0
+O00501,C0101,2026-05-10,App,Hyderabad,South,Net Banking,Delivered,5,0,,SAVE8,3.9,0
+O00502,C0549,2026-04-08,Marketplace,Mumbai,West,UPI,Delivered,5,99,CAMP005,UC005,3.8,0
+O00503,C0265,2026-02-19,App,Kochi,South,Debit Card,Delivered,5,0,,,4.0,0
+O00504,C0537,2026-03-15,App,Kochi,South,UPI,Delivered,5,49,,SAVE5,4.3,0
+O00505,C0151,2026-01-03,Website,Bengaluru,South,Debit Card,Delivered,2,79,CAMP001,UC001,4.3,0
+O00506,C0038,2026-05-08,Marketplace,Delhi NCR,North,Credit Card,Delivered,6,0,,,4.3,0
+O00507,C0232,2026-02-26,Website,Chennai,South,Credit Card,Delivered,4,0,,SAVE10,5.0,0
+O00508,C0477,2026-04-06,Website,Hyderabad,South,Credit Card,Delivered,3,79,CAMP005,UC005,4.3,0
+O00509,C0123,2026-03-27,Website,Pune,West,Credit Card,Delivered,2,99,,,5.0,0
+O00510,C0022,2026-01-27,App,Jaipur,North,Debit Card,Delivered,8,49,CAMP002,UC002,2.6,1
+O00511,C0523,2026-03-14,App,Chennai,South,UPI,Delivered,3,0,CAMP004,UC004,4.4,0
+O00512,C0042,2026-03-16,Website,Bengaluru,South,UPI,Delivered,2,0,,SAVE8,4.5,0
+O00513,C0101,2026-01-27,App,Hyderabad,South,UPI,Delivered,2,0,CAMP002,UC002,4.5,0
+O00514,C0509,2026-03-05,Marketplace,Mumbai,West,Debit Card,Delivered,5,0,,SAVE10,3.9,0
+O00515,C0442,2026-03-05,Marketplace,Mumbai,West,UPI,Delivered,6,0,CAMP004,UC004,3.7,0
+O00516,C0096,2026-02-21,Website,Pune,West,Debit Card,Delivered,3,0,,SAVE10,4.9,0
+O00517,C0435,2026-05-13,Website,Delhi NCR,North,Net Banking,Delivered,6,0,,SAVE5,4.4,0
+O00518,C0520,2026-02-17,Website,Mumbai,West,UPI,Delivered,4,0,,SAVE8,4.6,0
+O00519,C0416,2026-04-25,Website,Mumbai,West,Credit Card,Delivered,3,0,CAMP006,UC006,4.3,0
+O00520,C0490,2026-02-19,App,Mumbai,West,Cash on Delivery,Cancelled,,0,,,,0
+O00521,C0065,2026-02-09,App,Mumbai,West,Credit Card,Delivered,4,0,,,3.0,1
+O00522,C0007,2026-03-20,App,Jaipur,North,UPI,Delivered,9,49,CAMP004,UC004,3.2,0
+O00523,C0033,2026-03-28,App,Chennai,South,Credit Card,Delivered,4,0,CAMP005,UC005,4.1,0
+O00524,C0527,2026-01-31,App,Mumbai,West,Net Banking,Delivered,5,79,,,4.2,0
+O00525,C0335,2026-03-24,Website,Ahmedabad,West,Cash on Delivery,Delivered,7,49,CAMP005,UC005,3.8,0
+O00526,C0031,2026-03-08,Marketplace,Mumbai,West,UPI,Delivered,5,0,,SAVE5,4.0,0
+O00527,C0257,2026-02-15,Website,Chennai,South,Credit Card,Delivered,4,0,,SAVE5,4.9,0
+O00528,C0030,2026-05-01,Marketplace,Delhi NCR,North,UPI,Delivered,10,0,CAMP006,UC006,2.9,0
+O00529,C0157,2026-04-28,Website,Chennai,South,Net Banking,Delivered,2,49,,,4.9,0
+O00530,C0311,2026-01-26,Website,Mumbai,West,Cash on Delivery,Delivered,2,0,,,5.0,0
+O00531,C0463,2026-01-18,Website,Kochi,South,Debit Card,Delivered,7,0,CAMP001,UC001,3.6,0
+O00532,C0099,2026-01-04,App,Chennai,South,Debit Card,Delivered,5,79,CAMP001,UC001,3.9,0
+O00533,C0490,2026-02-25,App,Mumbai,West,Debit Card,Cancelled,,0,,,,0
+O00534,C0175,2026-05-13,Website,Bengaluru,South,Net Banking,Delivered,2,0,CAMP009,UC009,5.0,0
+O00535,C0520,2026-01-11,Website,Mumbai,West,UPI,Delivered,4,0,CAMP001,UC001,4.4,0
+O00536,C0265,2026-01-04,Marketplace,Kochi,South,Net Banking,Delivered,9,0,CAMP008,UC008,3.6,0
+O00537,C0262,2026-01-14,Marketplace,Mumbai,West,Debit Card,Delivered,3,99,,,4.9,0
+O00538,C0269,2026-01-27,App,Hyderabad,South,Cash on Delivery,Delivered,6,99,CAMP002,UC002,4.2,0
+O00539,C0166,2026-01-01,App,Kochi,South,UPI,Delivered,5,0,CAMP001,UC001,4.1,0
+O00540,C0164,2026-03-28,Website,Pune,West,Cash on Delivery,Delivered,3,0,,,4.6,0
+O00541,C0251,2026-03-14,App,Mumbai,West,Credit Card,Delivered,5,79,,,4.1,0
+O00542,C0312,2026-05-24,App,Bengaluru,South,UPI,Delivered,1,0,,SAVE5,4.4,0
+O00543,C0218,2026-04-22,Website,Chennai,South,Debit Card,Delivered,5,99,,SAVE5,4.6,0
+O00544,C0404,2026-01-27,App,Chennai,South,Credit Card,Delivered,6,49,CAMP002,UC002,3.7,0
+O00545,C0488,2026-02-04,App,Mumbai,West,UPI,Delivered,5,0,,,5.0,0
+O00546,C0500,2026-03-21,Website,Bengaluru,South,UPI,Delivered,2,49,CAMP005,UC005,4.9,0
+O00547,C0153,2026-03-11,Website,Bengaluru,South,Cash on Delivery,Delivered,5,0,CAMP004,UC004,3.9,1
+O00548,C0243,2026-02-08,Website,Chennai,South,Debit Card,Delivered,3,0,CAMP003,UC003,5.0,0
+O00549,C0120,2026-01-05,Website,Delhi NCR,North,Credit Card,Delivered,5,0,,SAVE10,4.7,0
+O00550,C0007,2026-04-24,App,Jaipur,North,Credit Card,Delivered,9,0,,SAVE5,2.8,1
+O00551,C0490,2026-04-03,Marketplace,Mumbai,West,Cash on Delivery,Delivered,3,0,CAMP005,UC005,4.5,0
+O00552,C0416,2026-05-18,Website,Mumbai,West,UPI,Delivered,4,49,,SAVE8,4.9,0
+O00553,C0017,2026-03-20,App,Bengaluru,South,UPI,Delivered,3,0,CAMP004,UC004,4.9,0
+O00554,C0012,2026-03-22,App,Delhi NCR,North,UPI,Delivered,4,49,CAMP005,UC005,4.4,0
+O00555,C0549,2026-02-24,Website,Mumbai,West,Net Banking,Delivered,4,79,CAMP008,UC008,4.4,0
+O00556,C0416,2026-05-03,Marketplace,Mumbai,West,Credit Card,Delivered,6,0,,,3.7,0
+O00557,C0162,2026-03-21,Marketplace,Chennai,South,UPI,Delivered,4,79,CAMP005,UC005,4.0,0
+O00558,C0199,2026-01-30,Website,Delhi NCR,North,Credit Card,Delivered,7,0,,,3.3,0
+O00559,C0235,2026-03-07,Website,Pune,West,Credit Card,Delivered,4,0,,,5.0,0
+O00560,C0374,2026-02-06,Website,Pune,West,Cash on Delivery,Delivered,3,49,,,4.6,0
+O00561,C0012,2026-03-11,Website,Delhi NCR,North,UPI,Delivered,6,79,CAMP004,UC004,4.0,0
+O00562,C0498,2026-04-19,App,Bengaluru,South,Cash on Delivery,Delivered,3,49,,,4.7,0
+O00563,C0277,2026-05-17,App,Pune,West,Debit Card,Delivered,6,79,,SAVE8,4.2,0
+O00564,C0337,2026-01-17,Website,Pune,West,Debit Card,Delivered,4,0,,,4.3,0
+O00565,C0209,2026-02-26,Marketplace,Bengaluru,South,Cash on Delivery,Delivered,4,49,,SAVE8,4.0,0
+O00566,C0268,2026-02-22,Website,Ahmedabad,West,Cash on Delivery,Delivered,5,49,,SAVE5,4.0,0
+O00567,C0419,2026-05-12,Website,Delhi NCR,North,Credit Card,Delivered,6,0,CAMP007,UC007,4.2,1
+O00568,C0549,2026-04-18,Website,Mumbai,West,Net Banking,Delivered,3,49,,SAVE5,4.6,0
+O00569,C0090,2026-01-29,Website,Chennai,South,Credit Card,Delivered,4,99,,,3.8,1
+O00570,C0158,2026-03-16,Website,Kochi,South,UPI,Delivered,6,0,CAMP004,UC004,4.5,0
+O00571,C0529,2026-04-25,Website,Mumbai,West,UPI,Delivered,3,0,,,4.4,0
+O00572,C0496,2026-04-15,App,Hyderabad,South,UPI,Delivered,4,49,,,5.0,0
+O00573,C0374,2026-01-27,App,Pune,West,UPI,Delivered,6,0,CAMP002,UC002,3.5,0
+O00574,C0317,2026-05-11,Website,Mumbai,West,Credit Card,Delivered,4,49,CAMP007,UC007,4.9,0
+O00575,C0243,2026-01-11,Website,Chennai,South,Debit Card,Delivered,7,0,,SAVE8,2.7,1
+O00576,C0050,2026-03-01,Website,Bengaluru,South,Debit Card,Delivered,3,49,,SAVE5,4.8,0
+O00577,C0527,2026-01-28,App,Mumbai,West,UPI,Delivered,4,79,CAMP002,UC002,4.3,0
+O00578,C0430,2026-01-09,App,Delhi NCR,North,Cash on Delivery,Delivered,8,0,CAMP001,UC001,3.5,0
+O00579,C0087,2026-05-13,App,Hyderabad,South,Debit Card,Delivered,5,99,CAMP009,UC009,4.7,0
+O00580,C0251,2026-02-07,Website,Mumbai,West,UPI,Delivered,4,99,,SAVE8,5.0,0
+O00581,C0518,2026-04-29,App,Mumbai,West,UPI,Delivered,2,0,,SAVE5,4.3,0
+O00582,C0370,2026-03-13,Marketplace,Pune,West,Credit Card,Delivered,5,79,,,3.9,0
+O00583,C0129,2026-02-06,App,Kochi,South,Cash on Delivery,Cancelled,,0,CAMP008,UC008,,0
+O00584,C0131,2026-02-11,Website,Ahmedabad,West,Net Banking,Delivered,4,79,CAMP003,UC003,4.8,0
+O00585,C0255,2026-02-23,Website,Pune,West,UPI,Delivered,5,0,CAMP008,UC008,4.1,0
+O00586,C0435,2026-03-14,Website,Delhi NCR,North,Credit Card,Delivered,7,0,,SAVE8,3.6,0
+O00587,C0158,2026-02-17,Marketplace,Kochi,South,UPI,Delivered,7,0,,SAVE8,3.6,0
+O00588,C0100,2026-01-05,App,Delhi NCR,North,Credit Card,Delivered,3,49,CAMP001,UC001,4.6,0
+O00589,C0064,2026-05-10,Website,Kochi,South,Debit Card,Delivered,6,0,CAMP008,UC008,3.4,0
+O00590,C0410,2026-05-07,Website,Delhi NCR,North,Net Banking,Delivered,6,0,CAMP008,UC008,3.8,0
+O00591,C0065,2026-04-12,Marketplace,Mumbai,West,UPI,Delivered,5,0,,SAVE8,4.7,0
+O00592,C0394,2026-01-24,App,Bengaluru,South,UPI,Delivered,4,99,CAMP002,UC002,4.7,0
+O00593,C0258,2026-05-17,Website,Bengaluru,South,Credit Card,Delivered,3,0,,,5.0,0
+O00594,C0496,2026-05-28,Website,Hyderabad,South,UPI,Delivered,4,99,CAMP009,UC009,4.9,0
+O00595,C0097,2026-04-24,Website,Mumbai,West,UPI,Delivered,3,0,,,4.2,0
+O00596,C0500,2026-04-07,Website,Bengaluru,South,Debit Card,Delivered,2,99,,SAVE5,4.9,0
+O00597,C0096,2026-03-30,Website,Pune,West,UPI,Delivered,3,0,CAMP005,UC005,5.0,0
+O00598,C0487,2026-03-29,Website,Hyderabad,South,Credit Card,Delivered,5,49,CAMP005,UC005,4.6,0
+O00599,C0476,2026-04-06,Website,Hyderabad,South,UPI,Delivered,6,0,CAMP005,UC005,4.2,0
+O00600,C0365,2026-04-15,App,Kochi,South,UPI,Delivered,7,0,,,4.3,0
+O00601,C0164,2026-05-17,Marketplace,Pune,West,Credit Card,Delivered,5,0,,SAVE8,4.3,0
+O00602,C0245,2026-04-21,Website,Mumbai,West,Cash on Delivery,Delivered,4,0,,SAVE5,4.8,0
+O00603,C0469,2026-01-14,Website,Chennai,South,UPI,Delivered,6,49,CAMP001,UC001,4.1,0
+O00604,C0298,2026-01-28,Website,Bengaluru,South,Debit Card,Delivered,3,49,CAMP002,UC002,4.4,0
+O00605,C0135,2026-01-18,Website,Bengaluru,South,Net Banking,Delivered,4,79,,,4.2,0
+O00606,C0541,2026-05-05,App,Delhi NCR,North,Debit Card,Delivered,5,49,,,4.1,0
+O00607,C0509,2026-04-28,Marketplace,Mumbai,West,Debit Card,Delivered,6,0,CAMP006,UC006,3.8,0
+O00608,C0503,2026-05-17,App,Bengaluru,South,Cash on Delivery,Delivered,4,79,CAMP008,UC008,4.5,0
+O00609,C0412,2026-05-04,App,Chennai,South,UPI,Delivered,4,49,CAMP006,UC006,4.3,0
+O00610,C0509,2026-02-14,Website,Mumbai,West,Credit Card,Delivered,6,0,CAMP003,UC003,4.2,0
+O00611,C0307,2026-01-06,Marketplace,Bengaluru,South,Debit Card,Delivered,5,49,,,4.1,0
+O00612,C0490,2026-03-11,App,Mumbai,West,Cash on Delivery,Delivered,4,49,,SAVE8,4.6,0
+O00613,C0158,2026-03-29,Marketplace,Kochi,South,UPI,Delivered,5,0,CAMP005,UC005,4.0,0
+O00614,C0362,2026-02-15,Website,Chennai,South,Debit Card,Delivered,4,49,,,4.6,0
+O00615,C0355,2026-03-10,App,Ahmedabad,West,Debit Card,Delivered,3,0,,SAVE8,4.3,0
+O00616,C0210,2026-04-09,App,Jaipur,North,UPI,Delivered,6,0,,,4.2,0
+O00617,C0258,2026-01-27,App,Bengaluru,South,Credit Card,Delivered,2,0,,,5.0,0
+O00618,C0287,2026-01-18,App,Chennai,South,Debit Card,Delivered,3,0,CAMP001,UC001,3.6,1
+O00619,C0072,2026-04-20,Marketplace,Mumbai,West,UPI,Cancelled,,0,,SAVE5,,0
+O00620,C0374,2026-04-14,Marketplace,Pune,West,Credit Card,Delivered,2,0,,SAVE5,4.5,0
+O00621,C0026,2026-05-06,App,Chennai,South,Net Banking,Delivered,3,99,CAMP007,UC007,5.0,0
+O00622,C0479,2026-05-10,Website,Delhi NCR,North,Debit Card,Delivered,5,0,CAMP007,UC007,3.7,0
+O00623,C0458,2026-02-28,App,Bengaluru,South,Cash on Delivery,Delivered,3,49,,SAVE8,4.9,0
+O00624,C0007,2026-01-06,Website,Jaipur,North,UPI,Delivered,4,0,CAMP001,UC001,3.7,1
+O00625,C0537,2026-04-09,App,Kochi,South,UPI,Delivered,6,79,CAMP008,UC008,4.1,0
+O00626,C0446,2026-04-26,App,Ahmedabad,West,Credit Card,Delivered,5,0,CAMP006,UC006,3.9,1
+O00627,C0209,2026-01-26,Website,Bengaluru,South,Credit Card,Delivered,1,49,,,5.0,0
+O00628,C0066,2026-02-01,Marketplace,Bengaluru,South,Cash on Delivery,Delivered,6,0,,SAVE5,3.9,0
+O00629,C0543,2026-03-08,Website,Mumbai,West,UPI,Delivered,5,0,CAMP008,UC008,5.0,0
+O00630,C0314,2026-01-05,App,Delhi NCR,North,UPI,Delivered,6,0,CAMP001,UC001,3.1,1
+O00631,C0176,2026-01-24,Website,Bengaluru,South,Credit Card,Delivered,2,0,CAMP002,UC002,4.9,0
+O00632,C0109,2026-03-08,App,Pune,West,UPI,Delivered,3,0,CAMP004,UC004,5.0,0
+O00633,C0186,2026-03-18,App,Delhi NCR,North,Credit Card,Delivered,5,0,,SAVE5,4.8,0
+O00634,C0515,2026-04-21,Website,Pune,West,UPI,Delivered,4,0,,,4.6,0
+O00635,C0478,2026-04-19,Website,Ahmedabad,West,Credit Card,Delivered,6,0,,,4.0,0
+O00636,C0045,2026-05-12,Marketplace,Hyderabad,South,Cash on Delivery,Delivered,4,0,,SAVE5,3.7,0
+O00637,C0475,2026-05-08,Website,Ahmedabad,West,Debit Card,Delivered,2,0,,SAVE8,4.6,0
+O00638,C0326,2026-02-23,Website,Mumbai,West,Cash on Delivery,Delivered,6,0,,,3.6,0
+O00639,C0421,2026-01-19,App,Mumbai,West,Debit Card,Delivered,4,0,,SAVE8,3.5,1
+O00640,C0242,2026-03-10,Website,Chennai,South,UPI,Delivered,6,0,,,3.9,0
+O00641,C0345,2026-03-24,Website,Pune,West,UPI,Delivered,3,0,,,3.8,0
+O00642,C0176,2026-04-05,Website,Bengaluru,South,UPI,Cancelled,,0,CAMP005,UC005,,0
+O00643,C0066,2026-01-05,Website,Bengaluru,South,Credit Card,Delivered,3,0,,,5.0,0
+O00644,C0197,2026-02-22,Website,Mumbai,West,Debit Card,Delivered,5,49,,,5.0,0
+O00645,C0278,2026-01-18,Website,Mumbai,West,Cash on Delivery,Delivered,4,49,,,4.8,0
+O00646,C0120,2026-03-22,Website,Delhi NCR,North,Debit Card,Delivered,5,0,CAMP005,UC005,4.3,0
+O00647,C0052,2026-04-05,App,Bengaluru,South,UPI,Delivered,5,0,CAMP005,UC005,4.7,0
+O00648,C0370,2026-02-15,Website,Pune,West,Credit Card,Delivered,2,0,CAMP003,UC003,4.8,0
+O00649,C0159,2026-05-29,App,Ahmedabad,West,UPI,Delivered,3,49,,,3.5,1
+O00650,C0007,2026-01-15,Website,Jaipur,North,Credit Card,Delivered,5,49,,,4.1,0
+O00651,C0282,2026-01-26,Website,Bengaluru,South,Debit Card,Delivered,4,99,,SAVE8,4.8,0
+O00652,C0543,2026-02-21,Website,Mumbai,West,Debit Card,Delivered,1,0,,SAVE5,4.8,0
+O00653,C0093,2026-03-23,Website,Chennai,South,UPI,Delivered,2,99,,,5.0,0
+O00654,C0520,2026-05-17,Marketplace,Mumbai,West,Credit Card,Cancelled,,0,CAMP007,UC007,,0
+O00655,C0251,2026-01-19,Marketplace,Mumbai,West,UPI,Delivered,4,0,,SAVE8,4.3,0
+O00656,C0166,2026-02-02,Marketplace,Kochi,South,UPI,Delivered,6,0,,,4.2,0
+O00657,C0101,2026-03-16,Website,Hyderabad,South,UPI,Delivered,3,0,CAMP004,UC004,4.9,0
+O00658,C0496,2026-05-11,Website,Hyderabad,South,Cash on Delivery,Cancelled,,0,CAMP007,UC007,,0
+O00659,C0543,2026-05-22,Marketplace,Mumbai,West,Credit Card,Delivered,4,0,,,4.4,0
+O00660,C0001,2026-03-13,App,Delhi NCR,North,Net Banking,Delivered,6,99,CAMP004,UC004,5.0,0
+O00661,C0093,2026-05-15,Website,Chennai,South,Net Banking,Cancelled,,0,CAMP007,UC007,,0
+O00662,C0057,2026-04-04,App,Delhi NCR,North,Debit Card,Delivered,7,0,CAMP005,UC005,4.5,0
+O00663,C0087,2026-02-11,App,Hyderabad,South,Cash on Delivery,Delivered,5,0,CAMP003,UC003,4.2,0
+O00664,C0073,2026-01-14,App,Ahmedabad,West,Debit Card,Delivered,6,0,,SAVE5,4.1,0
+O00665,C0292,2026-03-16,App,Bengaluru,South,UPI,Delivered,2,79,,,4.3,0
+O00666,C0329,2026-04-21,App,Mumbai,West,Net Banking,Delivered,3,79,,SAVE5,4.4,0
+O00667,C0120,2026-01-01,Website,Delhi NCR,North,Debit Card,Delivered,6,0,CAMP001,UC001,3.8,0
+O00668,C0042,2026-03-31,App,Bengaluru,South,Net Banking,Delivered,4,0,,,4.4,0
+O00669,C0355,2026-01-27,App,Ahmedabad,West,Credit Card,Delivered,4,0,CAMP002,UC002,4.2,0
+O00670,C0400,2026-05-12,App,Mumbai,West,UPI,Delivered,5,0,CAMP009,UC009,4.3,0
+O00671,C0066,2026-04-22,App,Bengaluru,South,UPI,Delivered,2,0,,,5.0,0
+O00672,C0548,2026-01-24,Website,Ahmedabad,West,Cash on Delivery,Delivered,5,149,CAMP002,UC002,4.0,0
+O00673,C0520,2026-01-05,App,Mumbai,West,Credit Card,Delivered,5,0,CAMP008,UC008,3.9,0
+O00674,C0101,2026-03-21,Website,Hyderabad,South,UPI,Cancelled,,0,,,,0
+O00675,C0247,2026-05-29,App,Chennai,South,Credit Card,Delivered,5,49,,SAVE8,4.4,0
+O00676,C0299,2026-01-20,App,Hyderabad,South,Credit Card,Delivered,3,0,,,3.6,1
+O00677,C0080,2026-05-13,App,Pune,West,UPI,Delivered,3,0,CAMP007,UC007,4.2,0
+O00678,C0357,2026-05-12,Website,Chennai,South,Cash on Delivery,Delivered,4,49,,,3.6,1
+O00679,C0520,2026-05-27,Website,Mumbai,West,Net Banking,Delivered,6,49,,,4.2,0
+O00680,C0084,2026-02-14,Website,Hyderabad,South,Debit Card,Delivered,3,79,,,4.6,0
+O00681,C0265,2026-01-02,App,Kochi,South,UPI,Delivered,5,0,,SAVE8,5.0,0
+O00682,C0432,2026-01-07,App,Mumbai,West,UPI,Delivered,3,0,,,4.0,0
+O00683,C0294,2026-03-22,App,Mumbai,West,Credit Card,Delivered,3,0,CAMP004,UC004,4.6,0
+O00684,C0479,2026-03-20,Website,Delhi NCR,North,UPI,Delivered,5,0,,,3.9,0
+O00685,C0087,2026-04-04,Website,Hyderabad,South,Cash on Delivery,Delivered,6,0,,SAVE5,4.3,0
+O00686,C0491,2026-03-30,Website,Pune,West,Debit Card,Delivered,2,149,CAMP005,UC005,4.1,1
+O00687,C0365,2026-03-14,Website,Kochi,South,Net Banking,Delivered,8,79,CAMP004,UC004,3.5,0
+O00688,C0201,2026-05-19,Website,Delhi NCR,North,UPI,Delivered,6,79,CAMP007,UC007,3.5,0
+O00689,C0463,2026-01-05,Website,Kochi,South,UPI,Delivered,5,0,CAMP001,UC001,4.6,0
+O00690,C0251,2026-05-23,App,Mumbai,West,Credit Card,Delivered,5,79,CAMP009,UC009,4.2,0
+O00691,C0514,2026-01-30,Website,Mumbai,West,UPI,Delivered,5,0,,,4.5,0
+O00692,C0026,2026-04-30,App,Chennai,South,UPI,Delivered,5,99,CAMP006,UC006,4.0,0
+O00693,C0220,2026-03-23,App,Kochi,South,UPI,Delivered,5,79,CAMP005,UC005,4.2,0
+O00694,C0421,2026-03-10,Marketplace,Mumbai,West,UPI,Delivered,5,0,,SAVE10,4.6,0
+O00695,C0520,2026-03-21,Marketplace,Mumbai,West,UPI,Delivered,5,49,CAMP008,UC008,4.6,0
+O00696,C0310,2026-03-26,Website,Kochi,South,UPI,Delivered,4,99,,SAVE5,4.4,0
+O00697,C0469,2026-03-16,App,Chennai,South,Cash on Delivery,Delivered,5,0,,SAVE5,4.1,0
+O00698,C0077,2026-05-22,Website,Mumbai,West,UPI,Delivered,5,0,,SAVE5,4.3,0
+O00699,C0049,2026-05-28,App,Bengaluru,South,Debit Card,Delivered,2,0,CAMP009,UC009,4.7,0
+O00700,C0174,2026-02-15,Website,Hyderabad,South,UPI,Delivered,1,99,CAMP003,UC003,4.9,0
+O00701,C0366,2026-05-11,Marketplace,Delhi NCR,North,Net Banking,Delivered,7,49,,,3.7,0
+O00702,C0337,2026-04-26,App,Pune,West,Credit Card,Delivered,5,0,CAMP006,UC006,3.9,0
+O00703,C0503,2026-01-09,Marketplace,Bengaluru,South,Debit Card,Delivered,5,0,CAMP001,UC001,4.2,0
+O00704,C0488,2026-03-19,Marketplace,Mumbai,West,Debit Card,Delivered,6,0,CAMP004,UC004,4.4,0
+O00705,C0091,2026-01-04,Marketplace,Bengaluru,South,Credit Card,Delivered,7,0,,SAVE5,4.1,0
+O00706,C0012,2026-03-12,Website,Delhi NCR,North,Debit Card,Delivered,4,0,CAMP004,UC004,4.2,0
+O00707,C0166,2026-03-13,Website,Kochi,South,UPI,Delivered,6,0,,,4.2,0
+O00708,C0061,2026-04-04,Website,Pune,West,UPI,Delivered,3,49,,,5.0,0
+O00709,C0335,2026-05-27,Marketplace,Ahmedabad,West,Net Banking,Delivered,8,99,,SAVE10,3.3,0
+O00710,C0421,2026-05-15,App,Mumbai,West,Credit Card,Delivered,5,49,,SAVE5,4.2,0
+O00711,C0117,2026-04-04,App,Delhi NCR,North,Debit Card,Delivered,6,0,,,4.7,0
+O00712,C0262,2026-01-09,Website,Mumbai,West,Net Banking,Delivered,6,0,CAMP001,UC001,3.8,0
+O00713,C0421,2026-02-03,App,Mumbai,West,Credit Card,Delivered,6,0,,SAVE10,3.8,0
+O00714,C0530,2026-05-02,Website,Delhi NCR,North,UPI,Delivered,7,79,,SAVE5,2.7,1
+O00715,C0531,2026-05-20,Website,Mumbai,West,Debit Card,Cancelled,,0,,SAVE10,,0
+O00716,C0530,2026-03-11,Website,Delhi NCR,North,UPI,Delivered,6,149,,SAVE5,4.1,0
+O00717,C0438,2026-03-21,Website,Mumbai,West,Debit Card,Delivered,4,0,CAMP004,UC004,4.0,0
+O00718,C0315,2026-05-14,App,Bengaluru,South,UPI,Delivered,2,0,,SAVE5,4.6,0
+O00719,C0365,2026-02-20,Website,Kochi,South,Cash on Delivery,Delivered,5,0,,SAVE8,5.0,0
+O00720,C0176,2026-02-09,Website,Bengaluru,South,UPI,Delivered,2,0,CAMP003,UC003,4.5,0
+O00721,C0099,2026-05-08,App,Chennai,South,UPI,Delivered,5,0,,,4.3,0
+O00722,C0301,2026-03-10,App,Kochi,South,Credit Card,Delivered,5,0,CAMP004,UC004,4.3,0
+O00723,C0453,2026-05-16,App,Chennai,South,Credit Card,Delivered,3,0,CAMP007,UC007,5.0,0
+O00724,C0097,2026-04-24,Marketplace,Mumbai,West,UPI,Delivered,4,79,,,4.0,0
+O00725,C0042,2026-03-26,App,Bengaluru,South,UPI,Delivered,6,0,CAMP005,UC005,4.0,0
+O00726,C0438,2026-02-20,Website,Mumbai,West,Net Banking,Delivered,4,0,,,4.4,0
+O00727,C0490,2026-04-02,Website,Mumbai,West,Debit Card,Delivered,5,49,CAMP005,UC005,4.4,0
+O00728,C0221,2026-05-31,Marketplace,Kochi,South,UPI,Delivered,8,49,CAMP009,UC009,3.6,0
+O00729,C0249,2026-02-04,Website,Chennai,South,UPI,Delivered,3,0,,SAVE10,4.7,0
+O00730,C0456,2026-03-16,App,Bengaluru,South,UPI,Delivered,3,79,CAMP008,UC008,5.0,0
+O00731,C0458,2026-03-07,Website,Bengaluru,South,UPI,Delivered,5,79,CAMP004,UC004,4.4,0
+O00732,C0369,2026-04-21,Website,Bengaluru,South,Debit Card,Delivered,4,0,CAMP008,UC008,4.8,0
+O00733,C0461,2026-05-22,App,Bengaluru,South,UPI,Delivered,4,0,CAMP009,UC009,4.8,0
+O00734,C0502,2026-05-29,Website,Chennai,South,Cash on Delivery,Delivered,5,99,,SAVE8,3.2,1
+O00735,C0134,2026-01-14,App,Jaipur,North,Debit Card,Delivered,8,0,,,2.9,0
+O00736,C0514,2026-04-25,App,Mumbai,West,UPI,Delivered,4,0,CAMP006,UC006,4.7,0
+O00737,C0088,2026-03-25,Website,Hyderabad,South,Cash on Delivery,Delivered,4,0,,,4.1,0
+O00738,C0065,2026-02-16,Website,Mumbai,West,Debit Card,Delivered,5,0,,SAVE5,3.8,0
+O00739,C0066,2026-02-08,Website,Bengaluru,South,Credit Card,Delivered,3,0,CAMP003,UC003,4.7,0
+O00740,C0101,2026-05-30,Website,Hyderabad,South,UPI,Delivered,3,79,CAMP009,UC009,5.0,0
+O00741,C0285,2026-03-01,Website,Pune,West,UPI,Delivered,4,99,,,2.9,1
+O00742,C0198,2026-03-24,Website,Kochi,South,UPI,Delivered,3,0,CAMP005,UC005,4.9,0
+O00743,C0262,2026-05-11,App,Mumbai,West,Net Banking,Delivered,2,49,,,4.5,0
+O00744,C0344,2026-05-29,App,Kochi,South,UPI,Delivered,5,0,CAMP009,UC009,4.2,0
+O00745,C0056,2026-04-06,Marketplace,Delhi NCR,North,Debit Card,Delivered,8,0,CAMP005,UC005,4.2,0
+O00746,C0114,2026-04-28,App,Hyderabad,South,Credit Card,Delivered,4,0,,SAVE5,4.6,0
+O00747,C0550,2026-01-16,Website,Mumbai,West,Debit Card,Delivered,4,0,,,5.0,0
+O00748,C0084,2026-03-16,Website,Hyderabad,South,UPI,Delivered,3,0,CAMP004,UC004,5.0,0
+O00749,C0074,2026-01-10,Website,Mumbai,West,Credit Card,Delivered,4,79,,,5.0,0
+O00750,C0084,2026-05-12,App,Hyderabad,South,UPI,Delivered,4,0,CAMP007,UC007,5.0,0
+O00751,C0080,2026-04-26,App,Pune,West,Cash on Delivery,Delivered,3,0,CAMP006,UC006,5.0,0
+O00752,C0088,2026-01-26,Website,Hyderabad,South,Credit Card,Delivered,2,79,,SAVE5,4.7,0
+O00753,C0262,2026-02-04,App,Mumbai,West,UPI,Delivered,5,49,,,4.6,0
+O00754,C0262,2026-01-30,Website,Mumbai,West,Net Banking,Delivered,2,0,,SAVE5,4.4,0
+O00755,C0057,2026-03-02,App,Delhi NCR,North,Credit Card,Delivered,6,79,CAMP008,UC008,3.7,0
+O00756,C0509,2026-04-02,Website,Mumbai,West,Credit Card,Delivered,4,0,,,4.8,0
+O00757,C0312,2026-01-08,App,Bengaluru,South,Cash on Delivery,Delivered,1,79,CAMP001,UC001,5.0,0
+O00758,C0530,2026-02-09,Website,Delhi NCR,North,Net Banking,Delivered,6,0,,,3.9,0
+O00759,C0354,2026-05-04,App,Hyderabad,South,UPI,Delivered,3,0,,SAVE10,5.0,0
+O00760,C0433,2026-04-25,Marketplace,Jaipur,North,UPI,Delivered,7,0,CAMP006,UC006,3.5,0
+O00761,C0097,2026-05-01,App,Mumbai,West,Debit Card,Delivered,5,0,CAMP007,UC007,4.3,0
+O00762,C0374,2026-05-20,Marketplace,Pune,West,Debit Card,Delivered,4,49,CAMP007,UC007,4.8,0
+O00763,C0026,2026-04-18,App,Chennai,South,Cash on Delivery,Delivered,2,0,,,4.8,0
+O00764,C0416,2026-03-20,Website,Mumbai,West,Credit Card,Delivered,5,79,,SAVE5,4.0,0
+O00765,C0398,2026-01-27,App,Kochi,South,Cash on Delivery,Delivered,5,0,,SAVE8,4.1,0
+O00766,C0201,2026-01-09,App,Delhi NCR,North,Credit Card,Delivered,5,49,CAMP001,UC001,4.2,0
+O00767,C0491,2026-01-16,App,Pune,West,Cash on Delivery,Delivered,6,0,,,3.9,0
+O00768,C0368,2026-02-08,Website,Delhi NCR,North,Credit Card,Delivered,5,0,CAMP003,UC003,3.6,0
+O00769,C0543,2026-03-14,App,Mumbai,West,Cash on Delivery,Delivered,6,0,,SAVE8,4.5,0
+O00770,C0203,2026-01-16,Website,Pune,West,UPI,Delivered,3,49,CAMP001,UC001,4.2,0
+O00771,C0251,2026-05-09,Website,Mumbai,West,Debit Card,Cancelled,,0,,SAVE5,,0
+O00772,C0042,2026-03-13,App,Bengaluru,South,Credit Card,Delivered,1,0,,SAVE10,4.8,0
+O00773,C0314,2026-03-26,App,Delhi NCR,North,Cash on Delivery,Delivered,7,0,,SAVE5,3.6,0
+O00774,C0534,2026-03-15,App,Kochi,South,Credit Card,Delivered,3,49,CAMP004,UC004,4.8,0
+O00775,C0112,2026-04-20,App,Bengaluru,South,UPI,Delivered,2,0,,,4.8,0
+O00776,C0137,2026-03-11,Website,Mumbai,West,UPI,Delivered,6,0,CAMP004,UC004,3.9,0
+O00777,C0120,2026-03-29,Website,Delhi NCR,North,Credit Card,Delivered,5,0,CAMP005,UC005,4.5,0
+O00778,C0321,2026-03-22,App,Bengaluru,South,UPI,Delivered,1,0,CAMP004,UC004,4.1,0
+O00779,C0235,2026-03-14,App,Pune,West,Net Banking,Delivered,2,49,CAMP004,UC004,4.8,0
+O00780,C0030,2026-05-19,Marketplace,Delhi NCR,North,Credit Card,Delivered,8,49,,,2.6,1
+O00781,C0057,2026-04-13,App,Delhi NCR,North,UPI,Delivered,5,0,,SAVE5,4.0,0
+O00782,C0049,2026-03-18,App,Bengaluru,South,Debit Card,Delivered,2,49,CAMP004,UC004,4.3,0
+O00783,C0226,2026-02-21,App,Kochi,South,Cash on Delivery,Delivered,6,0,,SAVE5,4.7,0
+O00784,C0262,2026-01-11,Marketplace,Mumbai,West,UPI,Delivered,5,0,,SAVE8,4.0,0
+O00785,C0354,2026-01-26,Website,Hyderabad,South,UPI,Delivered,1,0,,SAVE5,5.0,0
+O00786,C0491,2026-02-01,Website,Pune,West,Net Banking,Delivered,5,49,,SAVE5,4.5,0
+O00787,C0426,2026-05-28,Website,Ahmedabad,West,Net Banking,Delivered,4,79,CAMP009,UC009,5.0,0
+O00788,C0263,2026-03-11,App,Bengaluru,South,Debit Card,Delivered,1,0,CAMP004,UC004,5.0,0
+O00789,C0265,2026-01-03,App,Kochi,South,Debit Card,Delivered,5,0,,SAVE8,4.5,0
+O00790,C0131,2026-01-11,App,Ahmedabad,West,UPI,Delivered,5,0,CAMP001,UC001,5.0,0
+O00791,C0435,2026-01-25,App,Delhi NCR,North,Credit Card,Delivered,6,49,CAMP002,UC002,4.6,0
+O00792,C0340,2026-04-27,App,Mumbai,West,UPI,Delivered,3,0,,,4.4,0
+O00793,C0391,2026-04-09,Website,Chennai,South,UPI,Cancelled,,0,CAMP005,UC005,,0
+O00794,C0366,2026-04-20,App,Delhi NCR,North,Debit Card,Delivered,7,149,,,3.9,0
+O00795,C0546,2026-01-28,App,Hyderabad,South,Credit Card,Delivered,3,99,CAMP002,UC002,5.0,0
+O00796,C0508,2026-05-17,Website,Chennai,South,UPI,Delivered,4,0,,SAVE10,5.0,0
+O00797,C0252,2026-05-10,App,Pune,West,Credit Card,Delivered,4,99,CAMP007,UC007,4.2,0
+O00798,C0265,2026-01-30,Website,Kochi,South,UPI,Delivered,5,49,CAMP002,UC002,4.4,0
+O00799,C0488,2026-03-10,App,Mumbai,West,Credit Card,Delivered,5,0,,SAVE5,4.3,0
+O00800,C0134,2026-03-07,Marketplace,Jaipur,North,UPI,Delivered,9,0,,,3.4,0
+O00801,C0090,2026-04-24,App,Chennai,South,Net Banking,Delivered,2,0,,SAVE8,4.7,0
+O00802,C0134,2026-04-29,App,Jaipur,North,UPI,Delivered,5,0,,SAVE8,4.5,0
+O00803,C0090,2026-03-13,Website,Chennai,South,UPI,Delivered,5,49,CAMP004,UC004,4.0,0
+O00804,C0078,2026-01-08,Website,Bengaluru,South,UPI,Delivered,1,0,,SAVE10,4.5,0
+O00805,C0530,2026-04-19,Website,Delhi NCR,North,Debit Card,Delivered,6,99,,,3.9,0
+O00806,C0187,2026-04-02,Website,Bengaluru,South,Debit Card,Delivered,4,79,CAMP005,UC005,4.4,0
+O00807,C0109,2026-01-28,App,Pune,West,Debit Card,Delivered,5,79,CAMP002,UC002,3.3,0
+O00808,C0213,2026-05-03,Website,Jaipur,North,Debit Card,Delivered,7,0,,,3.1,0
+O00809,C0060,2026-05-31,App,Delhi NCR,North,Credit Card,Delivered,3,0,CAMP009,UC009,5.0,0
+O00810,C0401,2026-01-04,Marketplace,Pune,West,UPI,Delivered,5,0,,,4.2,0
+O00811,C0358,2026-01-05,App,Ahmedabad,West,UPI,Delivered,5,0,CAMP001,UC001,3.9,0
+O00812,C0530,2026-03-12,App,Delhi NCR,North,Credit Card,Delivered,4,0,,,4.5,0
+O00813,C0366,2026-04-06,Marketplace,Delhi NCR,North,UPI,Delivered,6,49,CAMP005,UC005,4.1,0
+O00814,C0398,2026-04-03,Website,Kochi,South,Cash on Delivery,Delivered,5,0,,SAVE5,4.2,0
+O00815,C0101,2026-04-04,Website,Hyderabad,South,Cash on Delivery,Delivered,5,0,,SAVE5,4.6,0
+O00816,C0026,2026-04-19,App,Chennai,South,UPI,Delivered,2,0,,,4.5,0
+O00817,C0269,2026-04-18,Website,Hyderabad,South,Debit Card,Delivered,6,79,,,4.1,0
+O00818,C0522,2026-04-17,Marketplace,Pune,West,UPI,Delivered,7,0,,SAVE5,4.1,0
+O00819,C0391,2026-03-17,Website,Chennai,South,Credit Card,Delivered,6,0,,SAVE8,4.2,0
+O00820,C0160,2026-01-23,App,Mumbai,West,Credit Card,Delivered,3,0,CAMP002,UC002,4.9,0
+O00821,C0432,2026-03-17,Website,Mumbai,West,Credit Card,Delivered,4,0,,SAVE10,4.2,0
+O00822,C0101,2026-01-05,App,Hyderabad,South,UPI,Delivered,3,0,CAMP001,UC001,4.9,0
+O00823,C0265,2026-01-17,App,Kochi,South,Debit Card,Delivered,7,79,CAMP001,UC001,4.0,0
+O00824,C0045,2026-05-27,App,Hyderabad,South,Credit Card,Delivered,4,0,CAMP009,UC009,3.9,0
+O00825,C0106,2026-01-10,App,Bengaluru,South,UPI,Delivered,3,0,,SAVE8,4.7,0
+O00826,C0353,2026-04-27,Website,Jaipur,North,Credit Card,Delivered,7,0,CAMP006,UC006,4.2,0
+O00827,C0110,2026-05-25,Website,Hyderabad,South,Credit Card,Delivered,5,0,CAMP009,UC009,4.2,0
+O00828,C0416,2026-03-22,Marketplace,Mumbai,West,UPI,Delivered,6,0,CAMP004,UC004,4.0,0
+O00829,C0303,2026-01-20,Marketplace,Jaipur,North,Debit Card,Cancelled,,0,,SAVE8,,0
+O00830,C0490,2026-03-20,Marketplace,Mumbai,West,Debit Card,Delivered,5,0,,,4.3,0
+O00831,C0248,2026-01-31,App,Delhi NCR,North,UPI,Delivered,7,0,CAMP002,UC002,3.1,0
+O00832,C0424,2026-02-03,App,Delhi NCR,North,Net Banking,Delivered,3,0,,,4.5,0
+O00833,C0073,2026-05-02,Website,Ahmedabad,West,Credit Card,Delivered,6,79,,SAVE8,3.2,0
+O00834,C0158,2026-05-01,Website,Kochi,South,UPI,Delivered,4,99,,,4.9,0
+O00835,C0303,2026-01-06,App,Jaipur,North,Cash on Delivery,Delivered,5,0,CAMP001,UC001,4.5,0
+O00836,C0366,2026-04-25,App,Delhi NCR,North,Net Banking,Delivered,5,49,,SAVE5,4.3,0
+O00837,C0205,2026-04-30,Website,Bengaluru,South,Cash on Delivery,Delivered,2,99,CAMP006,UC006,4.7,0
+O00838,C0423,2026-02-12,Website,Pune,West,Cash on Delivery,Delivered,5,49,CAMP003,UC003,4.3,0
+O00839,C0391,2026-03-02,App,Chennai,South,Credit Card,Delivered,6,79,,,3.4,1
+O00840,C0470,2026-04-21,Website,Ahmedabad,West,UPI,Delivered,6,0,,,3.5,0
+O00841,C0001,2026-05-13,App,Delhi NCR,North,Cash on Delivery,Delivered,3,99,,,4.2,1
+O00842,C0435,2026-03-12,App,Delhi NCR,North,Net Banking,Delivered,7,0,CAMP004,UC004,4.3,0
+O00843,C0009,2026-03-27,Website,Delhi NCR,North,Debit Card,Delivered,6,0,CAMP008,UC008,4.6,0
+O00844,C0337,2026-02-03,Website,Pune,West,Credit Card,Delivered,3,0,,,4.4,0
+O00845,C0345,2026-05-27,Website,Pune,West,UPI,Delivered,3,0,CAMP009,UC009,4.8,0
+O00846,C0031,2026-01-27,Marketplace,Mumbai,West,UPI,Delivered,7,0,CAMP002,UC002,3.8,0
+O00847,C0061,2026-02-20,Website,Pune,West,Debit Card,Delivered,3,0,,,5.0,0
+O00848,C0157,2026-02-24,Website,Chennai,South,Debit Card,Delivered,6,79,,,4.0,0
+O00849,C0462,2026-03-08,Website,Pune,West,UPI,Delivered,6,0,,,4.5,0
+O00850,C0209,2026-01-30,Website,Bengaluru,South,Net Banking,Delivered,3,0,,,5.0,0
+O00851,C0099,2026-05-19,Marketplace,Chennai,South,UPI,Delivered,5,0,,,4.9,0
+O00852,C0080,2026-05-09,App,Pune,West,UPI,Delivered,4,0,,,4.3,0
+O00853,C0265,2026-03-19,Marketplace,Kochi,South,Credit Card,Delivered,7,99,,,2.6,1
+O00854,C0090,2026-05-03,Marketplace,Chennai,South,Credit Card,Delivered,7,0,,,2.9,0
+O00855,C0515,2026-03-08,App,Pune,West,Debit Card,Delivered,5,79,CAMP004,UC004,4.3,0
+O00856,C0235,2026-01-17,Website,Pune,West,Credit Card,Delivered,2,0,,,4.1,1
+O00857,C0310,2026-02-02,Website,Kochi,South,Credit Card,Delivered,4,0,,,4.4,0
+O00858,C0303,2026-04-05,App,Jaipur,North,Credit Card,Delivered,7,0,CAMP005,UC005,4.5,0
+O00859,C0337,2026-02-27,Marketplace,Pune,West,Cash on Delivery,Delivered,3,0,,,4.6,0
+O00860,C0144,2026-03-27,Website,Mumbai,West,UPI,Delivered,4,0,,,4.9,0
+O00861,C0042,2026-03-21,Marketplace,Bengaluru,South,UPI,Delivered,4,0,,,5.0,0
+O00862,C0204,2026-01-24,App,Mumbai,West,UPI,Delivered,3,0,,,4.7,0
+O00863,C0532,2026-03-05,Website,Delhi NCR,North,Net Banking,Delivered,6,0,,SAVE8,3.7,0
+O00864,C0246,2026-05-25,App,Delhi NCR,North,UPI,Delivered,6,0,CAMP009,UC009,4.0,0
+O00865,C0093,2026-05-29,Website,Chennai,South,Net Banking,Delivered,4,0,,,4.8,0
+O00866,C0235,2026-01-10,App,Pune,West,UPI,Delivered,4,49,CAMP001,UC001,5.0,0
+O00867,C0500,2026-02-09,Website,Bengaluru,South,UPI,Delivered,4,0,CAMP003,UC003,4.0,0
+O00868,C0208,2026-01-26,App,Mumbai,West,Credit Card,Delivered,4,0,CAMP002,UC002,3.1,1
+O00869,C0435,2026-04-16,Marketplace,Delhi NCR,North,Credit Card,Delivered,6,79,,,3.8,0
+O00870,C0444,2026-05-11,Website,Mumbai,West,UPI,Delivered,4,99,,,4.4,0
+O00871,C0056,2026-05-25,Website,Delhi NCR,North,Cash on Delivery,Delivered,8,99,,,3.6,0
+O00872,C0472,2026-03-27,Website,Delhi NCR,North,UPI,Delivered,5,0,CAMP005,UC005,4.3,0
+O00873,C0087,2026-03-13,Marketplace,Hyderabad,South,Credit Card,Delivered,4,0,CAMP004,UC004,4.0,0
+O00874,C0194,2026-04-20,Website,Hyderabad,South,Net Banking,Delivered,5,0,,SAVE10,4.0,0
+O00875,C0537,2026-02-08,Website,Kochi,South,Credit Card,Delivered,6,79,CAMP003,UC003,3.6,0
+O00876,C0060,2026-03-18,Website,Delhi NCR,North,Debit Card,Delivered,8,0,CAMP004,UC004,3.8,0
+O00877,C0061,2026-01-26,Website,Pune,West,UPI,Delivered,4,79,CAMP002,UC002,4.6,0
+O00878,C0181,2026-03-18,Marketplace,Chennai,South,Debit Card,Delivered,4,0,,,4.2,0
+O00879,C0112,2026-03-05,Marketplace,Bengaluru,South,Cash on Delivery,Delivered,3,0,CAMP004,UC004,4.4,1
+O00880,C0258,2026-02-21,Website,Bengaluru,South,UPI,Delivered,4,0,,SAVE5,4.4,0
+O00881,C0530,2026-02-20,App,Delhi NCR,North,UPI,Delivered,6,0,,,4.2,0
+O00882,C0269,2026-03-20,Website,Hyderabad,South,Net Banking,Delivered,5,0,CAMP004,UC004,3.5,0
+O00883,C0128,2026-04-14,Website,Kochi,South,Net Banking,Delivered,5,0,,SAVE5,3.5,0
+O00884,C0545,2026-03-17,Website,Bengaluru,South,Debit Card,Delivered,3,79,CAMP004,UC004,4.7,0
+O00885,C0265,2026-04-09,Marketplace,Kochi,South,UPI,Delivered,7,0,,SAVE8,3.7,0
+O00886,C0203,2026-01-29,Website,Pune,West,Credit Card,Delivered,4,99,CAMP002,UC002,5.0,0
+O00887,C0195,2026-04-11,Marketplace,Bengaluru,South,UPI,Delivered,5,49,,SAVE8,3.9,0
+O00888,C0177,2026-01-31,Marketplace,Bengaluru,South,UPI,Delivered,4,0,,SAVE5,4.7,0
+O00889,C0304,2026-01-24,App,Delhi NCR,North,Credit Card,Delivered,4,0,CAMP002,UC002,4.1,0
+O00890,C0374,2026-03-22,Website,Pune,West,Net Banking,Delivered,4,0,CAMP004,UC004,4.6,0
+O00891,C0458,2026-05-17,Website,Bengaluru,South,Debit Card,Delivered,3,0,CAMP009,UC009,4.6,0
+O00892,C0057,2026-05-09,Website,Delhi NCR,North,Net Banking,Delivered,7,49,CAMP007,UC007,3.0,1
+O00893,C0404,2026-02-26,Website,Chennai,South,Credit Card,Delivered,4,0,,,3.4,1
+O00894,C0543,2026-01-03,App,Mumbai,West,Debit Card,Delivered,4,79,,,4.7,0
+O00895,C0230,2026-04-08,Marketplace,Mumbai,West,Net Banking,Delivered,5,79,CAMP005,UC005,4.5,0
+O00896,C0522,2026-03-08,Marketplace,Pune,West,Debit Card,Cancelled,,0,CAMP004,UC004,,0
+O00897,C0084,2026-03-05,App,Hyderabad,South,Cash on Delivery,Delivered,6,0,,SAVE10,3.6,0
+O00898,C0198,2026-04-20,App,Kochi,South,Cash on Delivery,Delivered,6,99,,,4.2,0
+O00899,C0243,2026-02-06,App,Chennai,South,Credit Card,Delivered,4,79,,SAVE5,4.3,0
+O00900,C0120,2026-04-16,App,Delhi NCR,North,UPI,Delivered,8,149,,SAVE5,3.5,0
+O00901,C0336,2026-04-24,App,Bengaluru,South,Credit Card,Delivered,2,49,,,4.5,0
+O00902,C0367,2026-04-19,Website,Mumbai,West,Cash on Delivery,Delivered,4,0,,,4.0,0
+O00903,C0128,2026-05-10,Website,Kochi,South,UPI,Delivered,7,79,,,3.8,0
+O00904,C0462,2026-02-16,App,Pune,West,Credit Card,Delivered,1,99,,SAVE5,4.9,0
+O00905,C0501,2026-01-05,Marketplace,Chennai,South,Debit Card,Delivered,5,79,,,3.9,0
+O00906,C0530,2026-04-08,Website,Delhi NCR,North,UPI,Delivered,6,0,,,4.1,0
+O00907,C0520,2026-03-28,Marketplace,Mumbai,West,Credit Card,Delivered,5,0,CAMP005,UC005,2.8,1
+O00908,C0091,2026-01-25,App,Bengaluru,South,Debit Card,Delivered,1,79,,SAVE8,4.6,0
+O00909,C0456,2026-03-22,Website,Bengaluru,South,Credit Card,Delivered,3,0,,SAVE8,4.5,0
+O00910,C0362,2026-05-18,App,Chennai,South,Cash on Delivery,Delivered,5,0,CAMP009,UC009,4.6,0
+O00911,C0055,2026-03-15,Website,Hyderabad,South,UPI,Delivered,6,149,,SAVE8,3.8,0
+O00912,C0437,2026-04-20,Marketplace,Bengaluru,South,UPI,Delivered,4,49,,,3.8,0
+O00913,C0060,2026-03-06,Marketplace,Delhi NCR,North,UPI,Delivered,6,79,CAMP004,UC004,3.8,0
+O00914,C0295,2026-03-27,App,Ahmedabad,West,Debit Card,Delivered,6,0,CAMP005,UC005,3.9,0
+O00915,C0069,2026-03-16,App,Hyderabad,South,UPI,Delivered,5,0,,,4.3,0
+O00916,C0064,2026-03-10,Marketplace,Kochi,South,UPI,Delivered,7,0,,SAVE5,3.4,0
+O00917,C0311,2026-01-31,Website,Mumbai,West,Debit Card,Delivered,3,0,,SAVE5,4.7,0
+O00918,C0003,2026-01-05,Website,Chennai,South,Cash on Delivery,Delivered,5,0,CAMP001,UC001,4.4,0
+O00919,C0249,2026-04-09,Website,Chennai,South,UPI,Delivered,2,0,CAMP005,UC005,5.0,0
+O00920,C0026,2026-05-19,Website,Chennai,South,Credit Card,Delivered,4,0,CAMP009,UC009,4.9,0
+O00921,C0479,2026-05-17,Website,Delhi NCR,North,Debit Card,Delivered,5,0,CAMP007,UC007,3.8,0
+O00922,C0242,2026-05-17,App,Chennai,South,Debit Card,Delivered,3,0,CAMP009,UC009,4.7,0
+O00923,C0338,2026-05-21,Website,Hyderabad,South,Debit Card,Delivered,3,79,CAMP009,UC009,3.7,1
+O00924,C0255,2026-04-19,Website,Pune,West,UPI,Delivered,2,79,CAMP008,UC008,5.0,0
+O00925,C0521,2026-02-27,Marketplace,Hyderabad,South,Cash on Delivery,Delivered,5,0,CAMP008,UC008,4.4,0
+O00926,C0527,2026-05-11,Website,Mumbai,West,UPI,Delivered,3,79,CAMP007,UC007,4.4,0
+O00927,C0535,2026-01-14,App,Mumbai,West,Debit Card,Delivered,6,79,CAMP001,UC001,4.3,0
+O00928,C0068,2026-03-08,App,Chennai,South,UPI,Delivered,4,99,CAMP004,UC004,4.6,0
+O00929,C0391,2026-02-16,App,Chennai,South,UPI,Delivered,5,79,CAMP003,UC003,3.2,1
+O00930,C0407,2026-01-31,App,Hyderabad,South,Debit Card,Delivered,6,0,,,3.9,0
+O00931,C0091,2026-03-10,Website,Bengaluru,South,Credit Card,Delivered,4,99,,,5.0,0
+O00932,C0176,2026-03-05,App,Bengaluru,South,Net Banking,Delivered,3,0,CAMP004,UC004,5.0,0
+O00933,C0218,2026-04-08,App,Chennai,South,Credit Card,Delivered,1,0,CAMP005,UC005,5.0,0
+O00934,C0112,2026-03-19,Website,Bengaluru,South,Debit Card,Delivered,2,0,,SAVE8,5.0,0
+O00935,C0462,2026-05-28,App,Pune,West,Credit Card,Delivered,4,0,,,4.9,0
+O00936,C0285,2026-01-21,Website,Pune,West,UPI,Delivered,6,0,,SAVE5,4.2,0
+O00937,C0012,2026-04-03,Marketplace,Delhi NCR,North,Credit Card,Delivered,7,0,,,3.9,0
+O00938,C0252,2026-05-13,Website,Pune,West,UPI,Delivered,6,149,CAMP007,UC007,3.5,0
+O00939,C0487,2026-03-18,Website,Hyderabad,South,UPI,Delivered,5,0,CAMP004,UC004,4.4,0
+O00940,C0347,2026-04-29,Marketplace,Bengaluru,South,Debit Card,Delivered,4,149,,SAVE5,4.9,0
+O00941,C0262,2026-03-05,App,Mumbai,West,Debit Card,Delivered,6,49,,,3.4,1
+O00942,C0500,2026-04-28,App,Bengaluru,South,Debit Card,Delivered,2,49,CAMP006,UC006,3.8,1
+O00943,C0326,2026-01-23,Marketplace,Mumbai,West,Credit Card,Delivered,6,0,CAMP002,UC002,3.7,0
+O00944,C0303,2026-01-16,Website,Jaipur,North,Credit Card,Delivered,8,49,,SAVE5,3.3,0
+O00945,C0303,2026-03-21,Marketplace,Jaipur,North,Credit Card,Delivered,9,49,,,3.3,0
+O00946,C0294,2026-03-12,Marketplace,Mumbai,West,Cash on Delivery,Delivered,2,0,,,4.5,0
+O00947,C0134,2026-01-25,Website,Jaipur,North,UPI,Delivered,5,0,CAMP002,UC002,3.8,0
+O00948,C0545,2026-05-06,App,Bengaluru,South,Cash on Delivery,Delivered,5,99,CAMP007,UC007,4.5,0
+O00949,C0462,2026-04-18,App,Pune,West,UPI,Delivered,4,0,,SAVE10,4.6,0
+O00950,C0383,2026-05-16,Website,Bengaluru,South,UPI,Delivered,3,0,,,4.5,0
+O00951,C0520,2026-05-24,App,Mumbai,West,Cash on Delivery,Cancelled,,0,CAMP008,UC008,,0
+O00952,C0463,2026-03-22,Website,Kochi,South,Credit Card,Delivered,6,0,,,3.6,0
+O00953,C0548,2026-02-24,App,Ahmedabad,West,Credit Card,Delivered,5,0,,SAVE8,3.3,1
+O00954,C0101,2026-05-07,App,Hyderabad,South,Debit Card,Delivered,3,49,,,4.5,0
+O00955,C0007,2026-03-20,Marketplace,Jaipur,North,Net Banking,Delivered,7,0,CAMP004,UC004,3.8,0
+O00956,C0518,2026-05-18,Website,Mumbai,West,UPI,Delivered,4,0,,SAVE5,3.9,1
+O00957,C0338,2026-04-05,Website,Hyderabad,South,UPI,Delivered,5,0,CAMP005,UC005,4.2,0
+O00958,C0500,2026-01-26,App,Bengaluru,South,Debit Card,Cancelled,,0,CAMP002,UC002,,0
+O00959,C0148,2026-05-19,App,Chennai,South,UPI,Delivered,3,0,,,4.4,0
+O00960,C0158,2026-02-17,App,Kochi,South,UPI,Delivered,4,0,,SAVE5,3.9,0
+O00961,C0201,2026-02-05,App,Delhi NCR,North,Net Banking,Delivered,8,0,,,3.9,0
+O00962,C0066,2026-03-19,Website,Bengaluru,South,Credit Card,Delivered,2,49,,SAVE5,5.0,0
+O00963,C0207,2026-05-17,Website,Chennai,South,UPI,Delivered,2,0,CAMP007,UC007,5.0,0
+O00964,C0065,2026-02-13,Marketplace,Mumbai,West,Cash on Delivery,Delivered,6,49,CAMP003,UC003,3.9,0
+O00965,C0001,2026-03-15,Marketplace,Delhi NCR,North,Net Banking,Delivered,7,0,,SAVE5,3.4,0
+O00966,C0175,2026-04-29,App,Bengaluru,South,Credit Card,Delivered,5,0,CAMP006,UC006,3.6,0
+O00967,C0099,2026-02-14,Website,Chennai,South,UPI,Delivered,5,0,,,4.1,0
+O00968,C0105,2026-03-13,Website,Hyderabad,South,Cash on Delivery,Delivered,3,99,,SAVE8,4.4,0
+O00969,C0158,2026-01-30,App,Kochi,South,Debit Card,Delivered,4,0,CAMP002,UC002,4.9,0
+O00970,C0167,2026-05-18,Website,Kochi,South,Credit Card,Delivered,6,0,CAMP007,UC007,4.1,0
+O00971,C0355,2026-04-11,Website,Ahmedabad,West,Net Banking,Delivered,4,0,,,4.4,0
+O00972,C0176,2026-05-28,App,Bengaluru,South,Cash on Delivery,Delivered,1,79,,SAVE5,5.0,0
+O00973,C0166,2026-03-17,App,Kochi,South,Credit Card,Delivered,6,0,,,4.8,0
+O00974,C0049,2026-01-27,Website,Bengaluru,South,UPI,Delivered,4,0,,SAVE5,4.6,0
+O00975,C0158,2026-04-03,Marketplace,Kochi,South,UPI,Delivered,7,79,CAMP005,UC005,3.1,0
+O00976,C0209,2026-05-24,Website,Bengaluru,South,UPI,Delivered,3,49,,,4.6,0
+O00977,C0198,2026-01-08,App,Kochi,South,Credit Card,Delivered,6,0,CAMP001,UC001,3.4,0
+O00978,C0527,2026-04-20,Website,Mumbai,West,UPI,Delivered,3,0,,,4.6,0
+O00979,C0294,2026-05-04,Marketplace,Mumbai,West,Debit Card,Delivered,4,0,,SAVE8,4.3,0
+O00980,C0041,2026-05-06,Marketplace,Delhi NCR,North,Credit Card,Delivered,5,79,CAMP007,UC007,4.7,0
+O00981,C0441,2026-05-23,Website,Chennai,South,Debit Card,Cancelled,,0,CAMP009,UC009,,0
+O00982,C0112,2026-01-28,Website,Bengaluru,South,Debit Card,Delivered,5,0,,SAVE8,3.1,1
+O00983,C0374,2026-05-03,App,Pune,West,UPI,Delivered,4,0,CAMP007,UC007,4.4,0
+O00984,C0098,2026-01-29,Website,Mumbai,West,Debit Card,Delivered,4,99,,,4.2,0
+O00985,C0463,2026-01-22,Website,Kochi,South,Credit Card,Delivered,5,0,,,4.1,0
+O00986,C0096,2026-01-10,App,Pune,West,Debit Card,Delivered,3,0,CAMP001,UC001,5.0,0
+O00987,C0164,2026-03-27,Website,Pune,West,UPI,Delivered,7,0,,,3.8,0
+O00988,C0040,2026-01-01,App,Hyderabad,South,Debit Card,Delivered,4,0,,SAVE8,4.4,0
+O00989,C0476,2026-03-18,Marketplace,Hyderabad,South,Credit Card,Delivered,6,0,,,4.8,0
+O00990,C0074,2026-03-01,Website,Mumbai,West,UPI,Delivered,6,0,,SAVE5,4.1,0
+O00991,C0265,2026-03-30,Marketplace,Kochi,South,UPI,Delivered,6,0,,SAVE5,3.6,0
+O00992,C0001,2026-02-24,Website,Delhi NCR,North,UPI,Delivered,5,0,,SAVE8,4.7,0
+O00993,C0012,2026-01-04,App,Delhi NCR,North,UPI,Delivered,4,49,,SAVE10,4.2,0
+O00994,C0543,2026-02-05,App,Mumbai,West,Cash on Delivery,Delivered,5,0,,,4.2,0
+O00995,C0398,2026-03-16,App,Kochi,South,UPI,Delivered,4,79,,,4.8,0
+O00996,C0520,2026-01-03,App,Mumbai,West,UPI,Delivered,6,0,CAMP001,UC001,4.7,0
+O00997,C0421,2026-05-08,Website,Mumbai,West,Debit Card,Delivered,4,99,CAMP007,UC007,4.1,0
+O00998,C0194,2026-05-22,Website,Hyderabad,South,Credit Card,Delivered,3,0,,,4.8,0
+O00999,C0162,2026-04-27,App,Chennai,South,Cash on Delivery,Delivered,5,0,CAMP006,UC006,3.8,0
+O01000,C0426,2026-04-07,App,Ahmedabad,West,Credit Card,Delivered,6,0,CAMP005,UC005,3.9,0
+O01001,C0050,2026-01-29,Website,Bengaluru,South,Cash on Delivery,Delivered,3,0,,,4.1,1
+O01002,C0050,2026-03-11,App,Bengaluru,South,UPI,Delivered,4,0,,,5.0,0
+O01003,C0251,2026-03-29,App,Mumbai,West,Debit Card,Delivered,3,0,,,4.3,0
+O01004,C0435,2026-01-02,Website,Delhi NCR,North,Credit Card,Delivered,6,79,CAMP001,UC001,4.1,0
+O01005,C0084,2026-01-23,App,Hyderabad,South,Debit Card,Delivered,4,0,CAMP002,UC002,5.0,0
+O01006,C0166,2026-04-21,App,Kochi,South,Cash on Delivery,Delivered,4,0,,,4.4,0
+O01007,C0392,2026-03-05,Marketplace,Kochi,South,Credit Card,Delivered,5,0,,,4.0,0
+O01008,C0514,2026-01-28,App,Mumbai,West,UPI,Cancelled,,0,CAMP002,UC002,,0
+O01009,C0258,2026-03-20,Website,Bengaluru,South,Net Banking,Delivered,4,0,,,4.4,0
+O01010,C0518,2026-05-24,Marketplace,Mumbai,West,UPI,Delivered,6,0,CAMP009,UC009,3.5,0
+O01011,C0089,2026-01-03,Marketplace,Hyderabad,South,Cash on Delivery,Delivered,5,79,,,3.8,0
+O01012,C0046,2026-04-29,Website,Pune,West,Debit Card,Delivered,4,0,CAMP006,UC006,4.8,0
+O01013,C0532,2026-04-10,Website,Delhi NCR,North,Credit Card,Delivered,5,0,CAMP005,UC005,4.6,0
+O01014,C0290,2026-05-04,Website,Mumbai,West,UPI,Delivered,3,0,,,4.7,0
+O01015,C0500,2026-01-25,App,Bengaluru,South,Credit Card,Delivered,3,79,CAMP002,UC002,4.7,0
+O01016,C0162,2026-03-24,Website,Chennai,South,UPI,Delivered,2,79,,,4.6,0
+O01017,C0088,2026-03-19,App,Hyderabad,South,UPI,Delivered,5,149,,,4.3,0
+O01018,C0355,2026-02-01,Website,Ahmedabad,West,UPI,Delivered,7,99,,,4.1,0
+O01019,C0403,2026-01-19,App,Bengaluru,South,Cash on Delivery,Delivered,1,0,CAMP001,UC001,4.7,0
+O01020,C0101,2026-05-03,App,Hyderabad,South,Net Banking,Delivered,4,79,,SAVE5,4.0,1
+O01021,C0456,2026-03-21,Website,Bengaluru,South,Credit Card,Delivered,2,0,,SAVE5,4.9,0
+O01022,C0033,2026-01-25,App,Chennai,South,Credit Card,Delivered,4,0,CAMP002,UC002,4.5,0
+O01023,C0046,2026-02-14,Marketplace,Pune,West,Credit Card,Delivered,6,99,,,3.7,0
+O01024,C0419,2026-04-30,Website,Delhi NCR,North,Net Banking,Delivered,7,99,,SAVE5,3.4,1
+O01025,C0065,2026-01-18,Website,Mumbai,West,UPI,Cancelled,,0,,,,0
+O01026,C0151,2026-04-23,Website,Bengaluru,South,Net Banking,Delivered,3,0,,SAVE10,5.0,0
+O01027,C0120,2026-01-22,App,Delhi NCR,North,Debit Card,Delivered,7,79,,SAVE10,4.1,0
+O01028,C0340,2026-03-13,Marketplace,Mumbai,West,UPI,Delivered,5,0,,SAVE10,3.4,1
+O01029,C0442,2026-02-01,App,Mumbai,West,UPI,Delivered,4,0,,,4.7,0
+O01030,C0369,2026-05-05,App,Bengaluru,South,Debit Card,Delivered,3,149,CAMP008,UC008,4.6,0
+O01031,C0049,2026-03-01,Website,Bengaluru,South,Debit Card,Delivered,3,0,,,4.0,0
+O01032,C0278,2026-05-23,Website,Mumbai,West,UPI,Delivered,4,0,,,4.1,0
+O01033,C0162,2026-04-02,Website,Chennai,South,Net Banking,Delivered,6,0,CAMP005,UC005,4.4,0
+O01034,C0049,2026-03-22,Website,Bengaluru,South,UPI,Delivered,2,79,CAMP005,UC005,4.4,0
+O01035,C0134,2026-01-26,Marketplace,Jaipur,North,UPI,Delivered,8,99,CAMP002,UC002,3.0,0
+O01036,C0176,2026-04-25,App,Bengaluru,South,Credit Card,Delivered,4,0,CAMP006,UC006,5.0,0
+O01037,C0344,2026-05-13,Website,Kochi,South,Credit Card,Delivered,5,0,,,3.5,0
+O01038,C0355,2026-03-31,Website,Ahmedabad,West,Net Banking,Delivered,5,0,,,3.9,0
+O01039,C0520,2026-01-16,App,Mumbai,West,Debit Card,Delivered,5,99,CAMP008,UC008,4.3,0
+O01040,C0280,2026-01-21,App,Chennai,South,Debit Card,Delivered,4,79,,SAVE5,4.5,0
+O01041,C0487,2026-05-30,App,Hyderabad,South,Credit Card,Delivered,3,0,CAMP009,UC009,4.8,0
+O01042,C0251,2026-03-24,App,Mumbai,West,Debit Card,Cancelled,,0,,SAVE8,,0
+O01043,C0087,2026-03-26,Website,Hyderabad,South,Credit Card,Delivered,5,79,,,4.3,0
+O01044,C0437,2026-03-25,Website,Bengaluru,South,Credit Card,Delivered,3,49,CAMP005,UC005,5.0,0
+O01045,C0345,2026-05-03,App,Pune,West,Debit Card,Delivered,5,0,CAMP006,UC006,4.3,0
+O01046,C0040,2026-01-23,App,Hyderabad,South,Debit Card,Delivered,3,0,,SAVE5,5.0,0
+O01047,C0468,2026-03-09,Website,Hyderabad,South,Net Banking,Delivered,4,49,,,4.3,0
+O01048,C0514,2026-04-29,Website,Mumbai,West,UPI,Delivered,6,0,,,4.5,0
+O01049,C0315,2026-03-08,Marketplace,Bengaluru,South,Credit Card,Delivered,5,0,CAMP004,UC004,4.3,0
+O01050,C0154,2026-03-15,App,Delhi NCR,North,Net Banking,Delivered,5,0,CAMP004,UC004,4.1,0
+O01051,C0354,2026-02-10,App,Hyderabad,South,Debit Card,Delivered,3,0,CAMP003,UC003,4.2,0
+O01052,C0249,2026-03-06,Website,Chennai,South,Credit Card,Delivered,6,0,,,3.9,0
+O01053,C0452,2026-05-01,Website,Hyderabad,South,Cash on Delivery,Delivered,3,99,CAMP007,UC007,5.0,0
+O01054,C0470,2026-03-21,App,Ahmedabad,West,Net Banking,Delivered,3,0,CAMP004,UC004,3.9,0
+O01055,C0421,2026-03-06,App,Mumbai,West,Credit Card,Delivered,2,0,CAMP004,UC004,3.6,0
+O01056,C0112,2026-02-19,App,Bengaluru,South,Cash on Delivery,Delivered,4,49,,,4.6,0
+O01057,C0063,2026-05-02,Website,Delhi NCR,North,Credit Card,Delivered,6,0,,,4.5,0
+O01058,C0049,2026-03-18,Marketplace,Bengaluru,South,UPI,Delivered,4,79,,SAVE5,4.3,0
+O01059,C0462,2026-01-31,Marketplace,Pune,West,Debit Card,Cancelled,,0,CAMP002,UC002,,0
+O01060,C0469,2026-02-21,App,Chennai,South,UPI,Delivered,4,149,,SAVE5,4.0,0
+O01061,C0427,2026-04-16,Marketplace,Chennai,South,Credit Card,Delivered,6,79,,SAVE10,3.9,0
+O01062,C0096,2026-05-11,Marketplace,Pune,West,UPI,Delivered,5,0,CAMP007,UC007,4.2,0
+O01063,C0527,2026-03-14,App,Mumbai,West,UPI,Delivered,3,49,CAMP004,UC004,4.6,0
+O01064,C0252,2026-04-17,App,Pune,West,Credit Card,Delivered,5,0,,SAVE5,3.8,0
+O01065,C0398,2026-02-19,Marketplace,Kochi,South,UPI,Delivered,5,0,,SAVE10,4.0,0
+O01066,C0541,2026-04-06,App,Delhi NCR,North,Credit Card,Delivered,5,79,,SAVE5,4.0,0
+O01067,C0314,2026-04-19,Website,Delhi NCR,North,Net Banking,Delivered,7,0,,SAVE10,4.0,0
+O01068,C0166,2026-05-24,Website,Kochi,South,Debit Card,Delivered,6,0,,,4.1,0
+O01069,C0041,2026-03-22,Website,Delhi NCR,North,Net Banking,Delivered,5,0,CAMP004,UC004,4.1,0
+O01070,C0265,2026-02-18,App,Kochi,South,Credit Card,Delivered,6,79,,SAVE8,3.4,1
+O01071,C0093,2026-01-21,Website,Chennai,South,Cash on Delivery,Delivered,5,0,,SAVE5,4.4,0
+O01072,C0537,2026-03-26,Website,Kochi,South,UPI,Delivered,4,0,,,4.5,0
+O01073,C0042,2026-01-18,App,Bengaluru,South,UPI,Delivered,2,0,CAMP001,UC001,4.7,0
+O01074,C0066,2026-03-08,Website,Bengaluru,South,Net Banking,Delivered,3,0,CAMP004,UC004,4.8,0
+O01075,C0262,2026-01-24,Website,Mumbai,West,Credit Card,Delivered,5,49,,SAVE5,3.6,0
+O01076,C0421,2026-04-22,App,Mumbai,West,Debit Card,Delivered,3,0,,SAVE5,4.6,0
+O01077,C0262,2026-05-29,Website,Mumbai,West,UPI,Delivered,3,0,,SAVE5,4.5,0
+O01078,C0398,2026-01-10,Website,Kochi,South,Debit Card,Delivered,5,0,,SAVE5,4.6,0
+O01079,C0314,2026-05-27,App,Delhi NCR,North,UPI,Delivered,6,0,CAMP009,UC009,3.3,1
+O01080,C0400,2026-04-16,Marketplace,Mumbai,West,Credit Card,Delivered,4,49,,SAVE5,4.0,0
+O01081,C0549,2026-03-20,Website,Mumbai,West,Net Banking,Cancelled,,0,CAMP005,UC005,,0
+O01082,C0102,2026-05-30,App,Mumbai,West,Debit Card,Delivered,3,0,CAMP009,UC009,4.6,0
+O01083,C0540,2026-03-19,App,Delhi NCR,North,Credit Card,Delivered,7,0,,SAVE8,4.0,0
+O01084,C0507,2026-03-21,App,Chennai,South,Cash on Delivery,Delivered,5,0,,SAVE10,3.9,0
+O01085,C0158,2026-01-28,App,Kochi,South,UPI,Delivered,4,0,,SAVE5,5.0,0
+O01086,C0470,2026-05-14,Website,Ahmedabad,West,Cash on Delivery,Delivered,7,0,CAMP007,UC007,3.7,0
+O01087,C0413,2026-01-11,Marketplace,Pune,West,UPI,Delivered,5,49,CAMP001,UC001,4.1,0
+O01088,C0479,2026-04-28,Website,Delhi NCR,North,UPI,Delivered,5,0,,SAVE5,4.5,0
+O01089,C0100,2026-03-03,Marketplace,Delhi NCR,North,Credit Card,Delivered,8,0,,,3.9,0
+O01090,C0150,2026-05-13,App,Bengaluru,South,Credit Card,Delivered,3,0,,SAVE10,4.3,0
+O01091,C0265,2026-01-08,App,Kochi,South,UPI,Delivered,3,0,CAMP001,UC001,4.9,0
+O01092,C0064,2026-05-30,Website,Kochi,South,UPI,Delivered,3,0,CAMP009,UC009,5.0,0
+O01093,C0141,2026-03-07,App,Ahmedabad,West,UPI,Delivered,7,0,CAMP004,UC004,3.1,0
+O01094,C0270,2026-05-25,Website,Hyderabad,South,UPI,Delivered,1,49,,,4.5,0
+O01095,C0176,2026-01-29,App,Bengaluru,South,UPI,Delivered,4,0,CAMP002,UC002,5.0,0
+O01096,C0242,2026-02-23,App,Chennai,South,Net Banking,Delivered,5,0,,SAVE5,3.0,1
+O01097,C0392,2026-02-28,Marketplace,Kochi,South,Debit Card,Delivered,5,49,,,5.0,0
+O01098,C0166,2026-04-03,Website,Kochi,South,Net Banking,Delivered,3,0,CAMP005,UC005,4.3,0
+O01099,C0426,2026-03-12,Website,Ahmedabad,West,Net Banking,Delivered,5,0,CAMP004,UC004,4.5,0
+O01100,C0520,2026-05-03,App,Mumbai,West,Credit Card,Delivered,5,0,CAMP007,UC007,3.6,0
+O01101,C0500,2026-05-07,Website,Bengaluru,South,Net Banking,Delivered,3,0,,,4.8,0
+O01102,C0548,2026-02-25,Marketplace,Ahmedabad,West,UPI,Delivered,7,99,CAMP008,UC008,3.7,0
+O01103,C0158,2026-03-29,App,Kochi,South,UPI,Delivered,4,79,CAMP005,UC005,3.8,1
+O01104,C0456,2026-03-14,Website,Bengaluru,South,UPI,Delivered,5,0,CAMP004,UC004,4.0,0
+O01105,C0157,2026-01-30,App,Chennai,South,UPI,Delivered,3,0,,SAVE8,3.7,0
+O01106,C0374,2026-01-28,App,Pune,West,UPI,Delivered,4,0,,SAVE8,4.4,0
+O01107,C0314,2026-01-25,App,Delhi NCR,North,UPI,Delivered,7,49,CAMP002,UC002,4.2,0
+O01108,C0491,2026-04-25,Website,Pune,West,Credit Card,Delivered,6,0,,SAVE10,4.2,0
+O01109,C0530,2026-01-27,App,Delhi NCR,North,UPI,Delivered,9,0,,,2.9,0
+O01110,C0060,2026-04-02,Website,Delhi NCR,North,Credit Card,Delivered,7,0,CAMP005,UC005,4.3,0
+O01111,C0340,2026-02-24,App,Mumbai,West,UPI,Cancelled,,0,,,,0
+O01112,C0490,2026-01-16,App,Mumbai,West,Net Banking,Delivered,4,0,CAMP001,UC001,4.2,0
+O01113,C0409,2026-03-21,App,Mumbai,West,Debit Card,Delivered,4,79,,,5.0,0
+O01114,C0166,2026-01-25,Website,Kochi,South,Credit Card,Delivered,4,0,,SAVE8,3.8,0
+O01115,C0520,2026-01-25,App,Mumbai,West,UPI,Delivered,4,0,CAMP008,UC008,4.9,0
+O01116,C0500,2026-03-23,Website,Bengaluru,South,UPI,Delivered,3,99,,SAVE8,4.8,0
+O01117,C0176,2026-05-05,App,Bengaluru,South,UPI,Delivered,2,0,,,5.0,0
+O01118,C0278,2026-05-15,Website,Mumbai,West,UPI,Delivered,3,0,CAMP009,UC009,4.8,0
+O01119,C0062,2026-01-13,App,Delhi NCR,North,Credit Card,Delivered,5,0,CAMP001,UC001,3.4,0
+O01120,C0235,2026-03-28,Website,Pune,West,Credit Card,Delivered,7,0,,,4.1,0
+O01121,C0500,2026-01-15,Website,Bengaluru,South,Debit Card,Delivered,4,49,CAMP001,UC001,4.4,0
+O01122,C0435,2026-04-12,Marketplace,Delhi NCR,North,Credit Card,Delivered,5,0,,SAVE5,3.5,0
+O01123,C0500,2026-01-25,Website,Bengaluru,South,UPI,Delivered,1,0,,,3.5,1
+O01124,C0500,2026-01-08,Website,Bengaluru,South,UPI,Delivered,3,0,CAMP001,UC001,5.0,0
+O01125,C0090,2026-04-08,Marketplace,Chennai,South,Debit Card,Delivered,5,0,,SAVE5,4.1,0
+O01126,C0265,2026-03-31,Website,Kochi,South,UPI,Delivered,6,79,,SAVE8,4.4,0
+O01127,C0027,2026-03-18,Website,Hyderabad,South,Credit Card,Delivered,6,49,,SAVE8,3.9,0
+O01128,C0335,2026-03-12,Website,Ahmedabad,West,Cash on Delivery,Delivered,6,0,,,4.0,0
+O01129,C0064,2026-03-16,Marketplace,Kochi,South,Cash on Delivery,Delivered,8,149,,,3.3,0
+O01130,C0139,2026-04-23,Website,Bengaluru,South,UPI,Delivered,4,0,,SAVE8,4.6,0
+O01131,C0509,2026-02-25,Website,Mumbai,West,Debit Card,Delivered,4,99,,,4.7,0
+O01132,C0433,2026-05-13,Website,Jaipur,North,UPI,Delivered,6,0,,SAVE10,4.6,0
+O01133,C0195,2026-03-08,Website,Bengaluru,South,Debit Card,Delivered,3,0,CAMP004,UC004,5.0,0
+O01134,C0395,2026-01-29,App,Bengaluru,South,Cash on Delivery,Delivered,5,0,CAMP002,UC002,3.7,0
+O01135,C0090,2026-02-04,App,Chennai,South,UPI,Cancelled,,0,,SAVE8,,0
+O01136,C0096,2026-01-27,Website,Pune,West,Cash on Delivery,Delivered,3,0,,,4.4,0
+O01137,C0040,2026-03-16,App,Hyderabad,South,Net Banking,Delivered,6,49,CAMP004,UC004,3.9,0
+O01138,C0138,2026-04-24,Marketplace,Mumbai,West,Debit Card,Delivered,7,0,,SAVE8,3.5,0
+O01139,C0166,2026-04-15,App,Kochi,South,UPI,Delivered,5,0,,,4.8,0
+O01140,C0040,2026-03-20,Marketplace,Hyderabad,South,Cash on Delivery,Delivered,6,0,,SAVE8,4.3,0
+O01141,C0456,2026-03-08,App,Bengaluru,South,UPI,Delivered,4,49,,SAVE5,4.7,0
+O01142,C0520,2026-02-01,App,Mumbai,West,Credit Card,Delivered,3,49,,SAVE8,4.0,1
+O01143,C0031,2026-01-16,Website,Mumbai,West,Credit Card,Delivered,4,79,CAMP008,UC008,5.0,0
+O01144,C0002,2026-05-19,App,Hyderabad,South,Credit Card,Delivered,4,0,CAMP009,UC009,3.8,1
+O01145,C0435,2026-04-09,Marketplace,Delhi NCR,North,UPI,Delivered,7,79,,SAVE5,3.6,0
+O01146,C0321,2026-05-02,App,Bengaluru,South,Net Banking,Delivered,4,0,,SAVE5,4.0,1
+O01147,C0223,2026-01-31,App,Kochi,South,UPI,Delivered,5,79,CAMP002,UC002,4.2,0
+O01148,C0155,2026-05-01,Website,Delhi NCR,North,Credit Card,Delivered,5,99,CAMP006,UC006,4.2,0
+O01149,C0537,2026-02-20,Website,Kochi,South,Credit Card,Delivered,5,79,,,4.6,0
+O01150,C0443,2026-01-06,Website,Kochi,South,UPI,Delivered,7,49,CAMP001,UC001,3.3,0
+O01151,C0444,2026-04-26,App,Mumbai,West,Credit Card,Delivered,2,0,CAMP006,UC006,4.4,0
+O01152,C0007,2026-02-11,Website,Jaipur,North,Debit Card,Delivered,8,0,CAMP003,UC003,4.1,0
+O01153,C0315,2026-03-14,Website,Bengaluru,South,UPI,Delivered,1,0,,,4.4,1
+O01154,C0197,2026-03-26,Website,Mumbai,West,Net Banking,Delivered,4,0,CAMP005,UC005,4.0,0
+O01155,C0032,2026-05-05,Website,Kochi,South,Cash on Delivery,Delivered,6,49,,SAVE8,3.7,0
+O01156,C0543,2026-03-22,App,Mumbai,West,UPI,Delivered,5,49,CAMP004,UC004,4.3,0
+O01157,C0421,2026-05-15,Marketplace,Mumbai,West,UPI,Delivered,4,0,,,4.4,0
+O01158,C0466,2026-04-12,Website,Kochi,South,UPI,Delivered,7,0,,,4.1,0
+O01159,C0097,2026-03-21,Website,Mumbai,West,UPI,Delivered,4,0,CAMP005,UC005,5.0,0
+O01160,C0042,2026-01-07,App,Bengaluru,South,Debit Card,Delivered,4,49,CAMP001,UC001,4.3,0
+O01161,C0055,2026-04-09,App,Hyderabad,South,UPI,Delivered,4,49,,,4.2,0
+O01162,C0329,2026-03-26,Website,Mumbai,West,Credit Card,Delivered,4,0,,SAVE5,4.5,0
+O01163,C0181,2026-01-23,Website,Chennai,South,Net Banking,Delivered,2,0,CAMP002,UC002,4.9,0
+O01164,C0223,2026-01-28,App,Kochi,South,Debit Card,Delivered,5,79,,,3.8,0
+O01165,C0491,2026-04-07,App,Pune,West,UPI,Delivered,4,49,,SAVE8,4.4,0
+O01166,C0209,2026-03-12,App,Bengaluru,South,UPI,Delivered,3,0,,SAVE5,5.0,0
+O01167,C0503,2026-05-25,App,Bengaluru,South,Credit Card,Delivered,1,49,,,4.7,0
+O01168,C0069,2026-04-11,App,Hyderabad,South,Credit Card,Delivered,4,0,,,4.9,0
+O01169,C0245,2026-03-28,App,Mumbai,West,Debit Card,Delivered,3,0,,,4.7,0
+O01170,C0401,2026-01-10,Website,Pune,West,Cash on Delivery,Delivered,4,49,,,4.3,0
+O01171,C0437,2026-04-06,Website,Bengaluru,South,Credit Card,Delivered,5,49,,,5.0,0
+O01172,C0340,2026-03-11,Website,Mumbai,West,Debit Card,Delivered,5,0,,,4.1,0
+O01173,C0114,2026-01-26,Marketplace,Hyderabad,South,Credit Card,Delivered,3,49,,SAVE10,4.6,0
+O01174,C0212,2026-03-05,App,Mumbai,West,UPI,Delivered,6,99,,SAVE10,4.1,0
+O01175,C0098,2026-05-05,Marketplace,Mumbai,West,UPI,Delivered,6,0,,,3.6,0
+O01176,C0090,2026-05-24,App,Chennai,South,UPI,Delivered,3,0,,,4.7,0
+O01177,C0342,2026-03-13,App,Bengaluru,South,UPI,Delivered,4,79,CAMP004,UC004,5.0,0
+O01178,C0462,2026-05-18,Website,Pune,West,Cash on Delivery,Delivered,4,0,,,4.2,0
+O01179,C0537,2026-01-29,App,Kochi,South,Debit Card,Delivered,4,0,CAMP008,UC008,4.3,0
+O01180,C0218,2026-03-26,Website,Chennai,South,Debit Card,Delivered,3,0,,,5.0,0
+O01181,C0251,2026-03-06,Website,Mumbai,West,UPI,Delivered,5,0,CAMP004,UC004,4.1,0
+O01182,C0449,2026-03-24,Marketplace,Chennai,South,Cash on Delivery,Delivered,7,0,,,2.7,1
+O01183,C0166,2026-05-06,Website,Kochi,South,UPI,Delivered,5,99,,SAVE5,4.3,0
+O01184,C0517,2026-05-21,Website,Delhi NCR,North,UPI,Delivered,7,99,CAMP009,UC009,3.8,0
+O01185,C0549,2026-01-09,App,Mumbai,West,Debit Card,Delivered,5,0,CAMP001,UC001,4.4,0
+O01186,C0492,2026-03-16,Website,Jaipur,North,UPI,Delivered,6,0,CAMP004,UC004,4.3,0
+O01187,C0045,2026-05-17,App,Hyderabad,South,Credit Card,Delivered,4,0,CAMP009,UC009,4.5,0
+O01188,C0158,2026-01-18,Website,Kochi,South,UPI,Delivered,4,0,CAMP001,UC001,4.1,0
+O01189,C0380,2026-01-30,App,Jaipur,North,Cash on Delivery,Delivered,4,99,CAMP002,UC002,3.9,1
+O01190,C0156,2026-05-15,App,Ahmedabad,West,UPI,Delivered,4,0,CAMP007,UC007,4.6,0
+O01191,C0034,2026-05-17,App,Delhi NCR,North,Credit Card,Delivered,6,149,CAMP007,UC007,3.0,1
+O01192,C0109,2026-05-28,Website,Pune,West,Credit Card,Delivered,4,49,CAMP009,UC009,5.0,0
+O01193,C0091,2026-03-19,Marketplace,Bengaluru,South,UPI,Delivered,4,0,CAMP004,UC004,4.7,0
+O01194,C0435,2026-03-18,Marketplace,Delhi NCR,North,UPI,Delivered,7,149,,,2.9,1
+O01195,C0226,2026-05-07,Marketplace,Kochi,South,Debit Card,Delivered,7,0,,SAVE8,3.9,0
+O01196,C0310,2026-01-30,App,Kochi,South,UPI,Delivered,5,99,,SAVE5,4.6,0
+O01197,C0463,2026-01-26,Website,Kochi,South,UPI,Delivered,4,49,CAMP002,UC002,4.8,0
+O01198,C0201,2026-03-09,Website,Delhi NCR,North,UPI,Delivered,7,0,CAMP008,UC008,2.7,1
+O01199,C0118,2026-01-09,Website,Delhi NCR,North,UPI,Delivered,7,0,CAMP001,UC001,3.7,0
+O01200,C0517,2026-05-29,Website,Delhi NCR,North,Credit Card,Cancelled,,0,CAMP009,UC009,,0
+O01201,C0458,2026-05-26,App,Bengaluru,South,Credit Card,Delivered,5,0,CAMP009,UC009,4.1,0
+O01202,C0542,2026-04-11,App,Kochi,South,UPI,Delivered,7,0,,SAVE8,4.0,0
+O01203,C0462,2026-02-23,Website,Pune,West,UPI,Delivered,5,0,,SAVE10,4.2,0
+O01204,C0045,2026-05-26,Website,Hyderabad,South,UPI,Delivered,4,0,,,4.9,0
+O01205,C0251,2026-01-23,Website,Mumbai,West,Debit Card,Delivered,4,0,CAMP002,UC002,4.1,0
+O01206,C0535,2026-04-11,Website,Mumbai,West,Credit Card,Delivered,3,0,,SAVE10,4.3,0
+O01207,C0527,2026-01-18,Website,Mumbai,West,Credit Card,Delivered,2,149,,,4.6,0
+O01208,C0258,2026-04-25,Marketplace,Bengaluru,South,Debit Card,Delivered,3,0,,SAVE10,4.3,0
+O01209,C0314,2026-03-11,App,Delhi NCR,North,UPI,Delivered,7,79,CAMP004,UC004,4.5,0
+O01210,C0543,2026-04-03,Website,Mumbai,West,UPI,Delivered,2,0,,SAVE10,4.5,0
+O01211,C0426,2026-02-23,Website,Ahmedabad,West,UPI,Delivered,5,49,,SAVE5,4.3,0
+O01212,C0463,2026-05-01,App,Kochi,South,Credit Card,Delivered,4,0,CAMP008,UC008,4.2,0
+O01213,C0453,2026-05-27,App,Chennai,South,Cash on Delivery,Delivered,6,79,CAMP009,UC009,4.0,0
+O01214,C0304,2026-01-30,Website,Delhi NCR,North,Credit Card,Delivered,7,0,,,4.3,0
+O01215,C0131,2026-02-12,Website,Ahmedabad,West,UPI,Delivered,5,49,CAMP003,UC003,3.8,0
+O01216,C0314,2026-01-13,App,Delhi NCR,North,Credit Card,Delivered,7,0,,,3.9,0
+O01217,C0040,2026-01-14,Website,Hyderabad,South,Credit Card,Delivered,3,49,CAMP001,UC001,5.0,0
+O01218,C0176,2026-03-01,Marketplace,Bengaluru,South,Credit Card,Delivered,3,0,,SAVE10,4.4,0
+O01219,C0460,2026-05-21,App,Chennai,South,UPI,Delivered,4,0,,,3.8,0
+O01220,C0305,2026-05-02,Website,Ahmedabad,West,UPI,Delivered,5,0,,,4.1,0
+O01221,C0209,2026-04-11,Website,Bengaluru,South,Credit Card,Delivered,3,0,CAMP008,UC008,4.7,0
+O01222,C0263,2026-03-05,Website,Bengaluru,South,UPI,Delivered,1,0,CAMP004,UC004,5.0,0
+O01223,C0120,2026-05-16,Website,Delhi NCR,North,UPI,Delivered,7,99,CAMP009,UC009,4.4,0
+O01224,C0111,2026-05-15,Marketplace,Pune,West,Cash on Delivery,Delivered,3,0,CAMP007,UC007,4.9,0
+O01225,C0479,2026-01-28,App,Delhi NCR,North,UPI,Delivered,6,0,CAMP002,UC002,2.9,1
+O01226,C0285,2026-02-16,Website,Pune,West,UPI,Delivered,6,0,,SAVE8,4.0,0
+O01227,C0500,2026-01-27,Website,Bengaluru,South,UPI,Delivered,3,49,CAMP008,UC008,4.0,0
+O01228,C0125,2026-03-22,Website,Pune,West,Debit Card,Delivered,5,0,CAMP005,UC005,3.5,0
+O01229,C0456,2026-03-19,Website,Bengaluru,South,UPI,Delivered,3,0,CAMP004,UC004,4.3,1
+O01230,C0540,2026-03-07,App,Delhi NCR,North,UPI,Delivered,8,99,,SAVE10,2.8,0
+O01231,C0220,2026-04-11,App,Kochi,South,Debit Card,Delivered,5,149,,,3.4,1
+O01232,C0442,2026-02-15,Marketplace,Mumbai,West,Cash on Delivery,Delivered,5,0,CAMP003,UC003,3.6,0
+O01233,C0166,2026-03-31,App,Kochi,South,UPI,Delivered,3,0,CAMP005,UC005,4.0,0
+O01234,C0453,2026-02-01,Website,Chennai,South,Debit Card,Delivered,5,49,,SAVE5,4.1,0
+O01235,C0158,2026-04-03,Website,Kochi,South,Credit Card,Delivered,7,149,CAMP005,UC005,3.8,0
+O01236,C0177,2026-01-22,App,Bengaluru,South,UPI,Delivered,4,0,,,3.9,1
+O01237,C0506,2026-01-27,App,Mumbai,West,Debit Card,Delivered,5,0,CAMP002,UC002,3.6,0
+O01238,C0278,2026-05-23,Website,Mumbai,West,Credit Card,Delivered,5,99,CAMP009,UC009,4.6,0
+O01239,C0119,2026-05-29,Website,Chennai,South,Net Banking,Delivered,5,49,,,4.9,0
+O01240,C0520,2026-01-15,Marketplace,Mumbai,West,Credit Card,Delivered,5,79,CAMP008,UC008,3.9,0
+O01241,C0392,2026-01-22,Website,Kochi,South,Credit Card,Delivered,8,0,,SAVE5,3.6,0
+O01242,C0469,2026-03-06,App,Chennai,South,UPI,Delivered,5,0,,,4.1,0
+O01243,C0463,2026-05-16,Website,Kochi,South,Credit Card,Delivered,5,0,,SAVE5,3.9,0
+O01244,C0354,2026-03-14,App,Hyderabad,South,Credit Card,Delivered,5,0,CAMP004,UC004,4.6,0
+O01245,C0498,2026-05-16,App,Bengaluru,South,UPI,Delivered,4,0,CAMP007,UC007,4.3,0
+O01246,C0510,2026-05-10,Marketplace,Hyderabad,South,Credit Card,Delivered,6,49,CAMP007,UC007,3.8,0
+O01247,C0392,2026-04-11,Marketplace,Kochi,South,Cash on Delivery,Delivered,5,0,,,4.2,0
+O01248,C0129,2026-03-17,App,Kochi,South,UPI,Delivered,3,0,CAMP004,UC004,4.9,0
+O01249,C0496,2026-03-01,Website,Hyderabad,South,Debit Card,Delivered,5,0,,SAVE5,4.3,0
+O01250,C0278,2026-03-23,App,Mumbai,West,Credit Card,Delivered,3,0,,SAVE8,5.0,0
+O01251,C0278,2026-05-15,Website,Mumbai,West,UPI,Delivered,4,79,,,3.9,0
+O01252,C0462,2026-04-19,App,Pune,West,UPI,Delivered,5,0,,,4.2,0
+O01253,C0329,2026-01-20,Website,Mumbai,West,Credit Card,Delivered,5,0,,SAVE5,3.8,0
+O01254,C0055,2026-02-17,Marketplace,Hyderabad,South,UPI,Delivered,6,49,,SAVE5,4.3,0
+O01255,C0491,2026-02-09,App,Pune,West,Credit Card,Delivered,5,49,CAMP003,UC003,4.7,0
+O01256,C0074,2026-05-30,Marketplace,Mumbai,West,Debit Card,Delivered,5,0,CAMP009,UC009,3.4,1
+O01257,C0398,2026-03-05,Marketplace,Kochi,South,Net Banking,Delivered,5,0,,SAVE5,3.7,0
+O01258,C0442,2026-04-14,Website,Mumbai,West,Credit Card,Delivered,5,0,,,4.2,0
+O01259,C0166,2026-01-26,Website,Kochi,South,Cash on Delivery,Cancelled,,0,CAMP002,UC002,,0
+O01260,C0384,2026-03-12,App,Delhi NCR,North,UPI,Delivered,5,0,CAMP004,UC004,4.8,0
+O01261,C0509,2026-05-27,Website,Mumbai,West,UPI,Delivered,4,49,CAMP009,UC009,4.3,0
+O01262,C0116,2026-05-13,App,Pune,West,Credit Card,Delivered,1,0,,,4.7,0
+O01263,C0215,2026-03-22,Website,Kochi,South,Credit Card,Delivered,4,0,CAMP004,UC004,4.7,0
+O01264,C0162,2026-04-08,App,Chennai,South,Debit Card,Delivered,3,0,CAMP005,UC005,4.0,0
+O01265,C0012,2026-01-22,Marketplace,Delhi NCR,North,Debit Card,Delivered,6,0,,SAVE10,4.2,0
+O01266,C0253,2026-03-04,Website,Bengaluru,South,UPI,Delivered,6,0,,,3.3,0
+O01267,C0100,2026-01-15,Website,Delhi NCR,North,Debit Card,Delivered,7,79,,SAVE8,3.9,0
+O01268,C0521,2026-05-01,App,Hyderabad,South,Cash on Delivery,Delivered,5,0,CAMP007,UC007,4.2,0
+O01269,C0026,2026-03-12,Website,Chennai,South,Debit Card,Delivered,5,99,CAMP004,UC004,4.2,0
+O01270,C0251,2026-02-02,Marketplace,Mumbai,West,UPI,Delivered,6,49,,SAVE5,4.0,0
+O01271,C0358,2026-03-17,Website,Ahmedabad,West,Net Banking,Cancelled,,0,CAMP004,UC004,,0
+O01272,C0543,2026-02-02,App,Mumbai,West,UPI,Delivered,2,0,,SAVE10,4.6,0
+O01273,C0042,2026-03-08,Website,Bengaluru,South,Debit Card,Delivered,1,0,,,5.0,0
+O01274,C0520,2026-04-11,App,Mumbai,West,Credit Card,Delivered,2,0,CAMP008,UC008,4.8,0
+O01275,C0490,2026-01-18,Website,Mumbai,West,UPI,Delivered,3,0,,SAVE5,5.0,0
+O01276,C0205,2026-05-05,Website,Bengaluru,South,Net Banking,Cancelled,,0,CAMP007,UC007,,0
+O01277,C0354,2026-05-29,Website,Hyderabad,South,Credit Card,Delivered,5,79,CAMP009,UC009,4.2,0
+O01278,C0203,2026-05-05,App,Pune,West,UPI,Delivered,3,0,CAMP006,UC006,4.9,0
+O01279,C0092,2026-05-07,Website,Hyderabad,South,Debit Card,Delivered,4,0,CAMP007,UC007,4.7,0
+O01280,C0299,2026-04-16,App,Hyderabad,South,Credit Card,Delivered,5,49,,,3.9,0
+O01281,C0362,2026-01-04,Website,Chennai,South,Cash on Delivery,Delivered,3,49,,SAVE10,5.0,0
+O01282,C0187,2026-02-12,App,Bengaluru,South,Debit Card,Delivered,1,79,,,4.6,0
+O01283,C0068,2026-03-09,Website,Chennai,South,Cash on Delivery,Delivered,5,0,,,4.2,0
+O01284,C0082,2026-02-27,Marketplace,Hyderabad,South,Debit Card,Delivered,5,49,,,4.5,0
+O01285,C0087,2026-03-08,App,Hyderabad,South,Cash on Delivery,Delivered,5,0,,,4.5,0
+O01286,C0209,2026-04-22,Website,Bengaluru,South,Debit Card,Delivered,3,99,,,4.8,0
+O01287,C0093,2026-02-01,Website,Chennai,South,Net Banking,Delivered,2,0,,,5.0,0
+O01288,C0518,2026-05-11,Website,Mumbai,West,UPI,Delivered,3,0,CAMP009,UC009,4.7,0
+O01289,C0031,2026-04-21,Website,Mumbai,West,UPI,Delivered,6,49,CAMP008,UC008,2.5,1
+O01290,C0157,2026-02-18,App,Chennai,South,UPI,Delivered,3,0,,,4.6,0
+O01291,C0258,2026-02-03,Marketplace,Bengaluru,South,UPI,Delivered,3,0,,,5.0,0
+O01292,C0012,2026-02-13,App,Delhi NCR,North,UPI,Delivered,7,0,,SAVE10,3.9,0
+O01293,C0374,2026-05-02,Website,Pune,West,Debit Card,Delivered,4,0,CAMP008,UC008,4.3,0
+O01294,C0520,2026-01-03,Website,Mumbai,West,Credit Card,Delivered,1,149,,,5.0,0
+O01295,C0522,2026-03-08,Website,Pune,West,Cash on Delivery,Delivered,1,99,CAMP004,UC004,3.7,1
+O01296,C0500,2026-05-08,App,Bengaluru,South,Credit Card,Delivered,5,0,CAMP007,UC007,4.8,0
+O01297,C0003,2026-05-09,Website,Chennai,South,UPI,Delivered,4,0,CAMP007,UC007,4.6,0
+O01298,C0476,2026-05-19,App,Hyderabad,South,UPI,Delivered,3,0,CAMP007,UC007,4.7,0
+O01299,C0069,2026-04-04,Website,Hyderabad,South,UPI,Delivered,2,0,CAMP005,UC005,4.9,0
+O01300,C0026,2026-05-06,Website,Chennai,South,Credit Card,Delivered,4,99,,SAVE10,4.3,0
+O01301,C0060,2026-02-05,Website,Delhi NCR,North,Debit Card,Delivered,7,79,,,4.5,0
+O01302,C0421,2026-02-15,Website,Mumbai,West,Cash on Delivery,Delivered,4,0,CAMP003,UC003,3.7,0
+O01303,C0251,2026-01-06,Website,Mumbai,West,Credit Card,Delivered,6,99,,,3.5,0
+O01304,C0374,2026-04-06,Website,Pune,West,Cash on Delivery,Delivered,4,0,CAMP005,UC005,4.5,0
+O01305,C0506,2026-02-12,Website,Mumbai,West,Cash on Delivery,Delivered,3,0,,SAVE5,5.0,0
+O01306,C0133,2026-02-26,Marketplace,Delhi NCR,North,UPI,Delivered,7,0,,SAVE8,2.5,1
+O01307,C0050,2026-03-07,Website,Bengaluru,South,Credit Card,Delivered,3,79,CAMP004,UC004,4.3,1
+O01308,C0435,2026-04-05,App,Delhi NCR,North,Credit Card,Delivered,8,0,CAMP005,UC005,3.4,0
+O01309,C0096,2026-02-02,Marketplace,Pune,West,UPI,Delivered,8,49,,SAVE5,2.4,1
+O01310,C0179,2026-05-24,Website,Bengaluru,South,Credit Card,Delivered,2,0,CAMP009,UC009,5.0,0
+O01311,C0077,2026-05-13,Website,Mumbai,West,Net Banking,Delivered,3,0,CAMP007,UC007,4.3,1
+O01312,C0050,2026-05-16,Website,Bengaluru,South,UPI,Delivered,3,79,CAMP009,UC009,5.0,0
+O01313,C0500,2026-05-14,App,Bengaluru,South,UPI,Cancelled,,0,,,,0
+O01314,C0438,2026-01-19,Website,Mumbai,West,Credit Card,Cancelled,,0,CAMP001,UC001,,0
+O01315,C0156,2026-05-21,App,Ahmedabad,West,UPI,Delivered,5,0,,,4.4,0
+O01316,C0523,2026-01-20,Website,Chennai,South,Credit Card,Delivered,4,0,CAMP001,UC001,5.0,0
+O01317,C0549,2026-03-08,Website,Mumbai,West,Net Banking,Delivered,6,0,CAMP004,UC004,5.0,0
+O01318,C0265,2026-02-28,Website,Kochi,South,Credit Card,Delivered,6,0,,SAVE8,4.2,0
+O01319,C0082,2026-03-14,Website,Hyderabad,South,Debit Card,Delivered,4,0,CAMP004,UC004,4.9,0
+O01320,C0550,2026-05-12,Marketplace,Mumbai,West,Credit Card,Delivered,4,0,,SAVE5,3.9,0
+O01321,C0374,2026-05-01,Marketplace,Pune,West,Net Banking,Delivered,6,0,,,4.4,0
+O01322,C0543,2026-04-14,Website,Mumbai,West,Cash on Delivery,Delivered,7,0,CAMP008,UC008,3.4,0
+O01323,C0462,2026-01-11,Marketplace,Pune,West,UPI,Delivered,4,0,,SAVE5,4.5,0
+O01324,C0435,2026-01-23,App,Delhi NCR,North,Net Banking,Delivered,5,0,CAMP002,UC002,3.2,1
+O01325,C0500,2026-01-17,Website,Bengaluru,South,UPI,Delivered,2,49,CAMP008,UC008,4.5,0
+O01326,C0195,2026-03-23,Website,Bengaluru,South,Credit Card,Delivered,4,0,,,4.7,0
+O01327,C0310,2026-05-02,App,Kochi,South,UPI,Delivered,5,79,CAMP006,UC006,3.6,1
+O01328,C0103,2026-05-15,Marketplace,Kochi,South,UPI,Delivered,7,0,,,3.6,0
+O01329,C0251,2026-02-11,App,Mumbai,West,Credit Card,Delivered,3,49,,,4.6,0
+O01330,C0191,2026-05-16,Website,Mumbai,West,Credit Card,Delivered,4,0,,,4.9,0
+O01331,C0187,2026-03-05,Website,Bengaluru,South,UPI,Delivered,2,0,CAMP004,UC004,4.2,0
+O01332,C0374,2026-01-29,App,Pune,West,UPI,Delivered,4,79,,,5.0,0
+O01333,C0400,2026-05-20,Marketplace,Mumbai,West,Credit Card,Delivered,5,0,,SAVE8,3.9,0
+O01334,C0399,2026-01-31,App,Mumbai,West,UPI,Delivered,6,0,CAMP002,UC002,4.6,0
+O01335,C0355,2026-04-12,Website,Ahmedabad,West,UPI,Delivered,5,0,,SAVE5,4.7,0
+O01336,C0453,2026-03-22,Website,Chennai,South,Debit Card,Delivered,4,0,CAMP005,UC005,5.0,0
+O01337,C0255,2026-05-06,App,Pune,West,Credit Card,Delivered,5,99,,,4.1,0
+O01338,C0469,2026-02-03,Marketplace,Chennai,South,Debit Card,Delivered,4,0,,,4.2,0
+O01339,C0335,2026-03-12,Website,Ahmedabad,West,Credit Card,Delivered,5,49,,SAVE8,4.6,0
+O01340,C0127,2026-05-10,Marketplace,Pune,West,UPI,Delivered,7,0,CAMP009,UC009,3.3,0
+O01341,C0165,2026-02-21,Website,Pune,West,Cash on Delivery,Delivered,5,99,,SAVE8,4.0,0
+O01342,C0131,2026-04-13,App,Ahmedabad,West,Credit Card,Cancelled,,0,,,,0
+O01343,C0416,2026-05-04,Marketplace,Mumbai,West,Cash on Delivery,Delivered,4,0,,SAVE5,4.1,0
+O01344,C0374,2026-03-05,Website,Pune,West,Credit Card,Delivered,4,99,,SAVE10,4.3,0
+O01345,C0479,2026-01-01,App,Delhi NCR,North,UPI,Delivered,7,0,,,3.4,0
+O01346,C0472,2026-03-24,App,Delhi NCR,North,Net Banking,Delivered,6,0,CAMP005,UC005,4.1,0
+O01347,C0458,2026-03-16,Website,Bengaluru,South,UPI,Delivered,3,99,CAMP004,UC004,5.0,0
+O01348,C0035,2026-01-26,App,Hyderabad,South,UPI,Cancelled,,0,CAMP002,UC002,,0
+O01349,C0469,2026-03-19,Marketplace,Chennai,South,Net Banking,Delivered,5,0,,,3.8,0
+O01350,C0451,2026-04-18,App,Mumbai,West,Credit Card,Delivered,2,49,,,4.3,0
+O01351,C0216,2026-04-02,Marketplace,Delhi NCR,North,Credit Card,Delivered,8,0,CAMP005,UC005,3.7,0
+O01352,C0394,2026-05-04,Website,Bengaluru,South,Credit Card,Delivered,2,0,CAMP007,UC007,4.8,0
+O01353,C0062,2026-03-23,App,Delhi NCR,North,Credit Card,Cancelled,,0,,SAVE8,,0
+O01354,C0242,2026-03-16,Website,Chennai,South,UPI,Delivered,3,99,CAMP004,UC004,3.8,1
+O01355,C0476,2026-03-14,Website,Hyderabad,South,Credit Card,Delivered,3,0,CAMP004,UC004,4.4,1
+O01356,C0314,2026-05-17,App,Delhi NCR,North,UPI,Delivered,6,0,CAMP009,UC009,3.8,0
+O01357,C0111,2026-03-13,App,Pune,West,Credit Card,Delivered,7,49,CAMP008,UC008,2.9,1
+O01358,C0355,2026-05-11,Website,Ahmedabad,West,Debit Card,Delivered,5,99,CAMP007,UC007,4.1,0
+O01359,C0176,2026-01-27,Website,Bengaluru,South,UPI,Delivered,3,0,CAMP002,UC002,4.8,0
+O01360,C0253,2026-03-04,Website,Bengaluru,South,UPI,Delivered,3,0,,SAVE5,4.7,0
+O01361,C0304,2026-01-20,App,Delhi NCR,North,UPI,Delivered,6,0,CAMP001,UC001,4.2,0
+O01362,C0110,2026-05-24,Website,Hyderabad,South,Cash on Delivery,Delivered,5,0,CAMP009,UC009,4.2,0
+O01363,C0374,2026-01-24,Website,Pune,West,UPI,Delivered,2,0,CAMP002,UC002,4.3,0
+O01364,C0166,2026-04-15,Website,Kochi,South,UPI,Delivered,5,49,,,4.1,0
+O01365,C0056,2026-05-05,Website,Delhi NCR,North,Net Banking,Delivered,3,149,,,4.2,1
+O01366,C0403,2026-04-14,Marketplace,Bengaluru,South,Credit Card,Delivered,4,0,,SAVE8,4.3,0
+O01367,C0357,2026-03-14,Website,Chennai,South,Credit Card,Delivered,4,0,,,4.4,0
+O01368,C0277,2026-02-17,App,Pune,West,UPI,Cancelled,,0,,,,0
+O01369,C0040,2026-01-10,Marketplace,Hyderabad,South,UPI,Delivered,6,0,,,3.5,0
+O01370,C0520,2026-01-18,App,Mumbai,West,Credit Card,Delivered,6,0,CAMP001,UC001,3.8,0
+O01371,C0134,2026-04-08,Marketplace,Jaipur,North,UPI,Delivered,8,49,,SAVE5,3.6,0
+O01372,C0205,2026-02-04,Website,Bengaluru,South,Debit Card,Delivered,3,0,,SAVE8,4.6,0
+O01373,C0252,2026-04-05,Marketplace,Pune,West,Net Banking,Delivered,5,99,CAMP005,UC005,4.0,0
+O01374,C0452,2026-02-13,App,Hyderabad,South,Credit Card,Delivered,4,0,CAMP003,UC003,3.5,0
+O01375,C0413,2026-05-20,Website,Pune,West,Net Banking,Cancelled,,0,CAMP007,UC007,,0
+O01376,C0042,2026-02-01,Marketplace,Bengaluru,South,UPI,Delivered,4,49,,,4.3,0
+O01377,C0251,2026-01-28,App,Mumbai,West,UPI,Delivered,3,149,,,5.0,0
+O01378,C0304,2026-03-05,Website,Delhi NCR,North,Cash on Delivery,Delivered,7,79,CAMP004,UC004,3.2,0
+O01379,C0421,2026-02-28,Marketplace,Mumbai,West,Credit Card,Delivered,5,79,,SAVE10,3.6,0
+O01380,C0073,2026-03-18,Marketplace,Ahmedabad,West,Credit Card,Delivered,7,0,CAMP004,UC004,3.9,0
+O01381,C0321,2026-05-27,Website,Bengaluru,South,UPI,Delivered,3,0,,,5.0,0
+O01382,C0080,2026-01-24,App,Pune,West,Cash on Delivery,Delivered,3,0,CAMP002,UC002,4.2,0
+O01383,C0529,2026-03-26,App,Mumbai,West,Debit Card,Delivered,6,0,,SAVE8,3.9,0
+O01384,C0522,2026-04-15,Website,Pune,West,Net Banking,Cancelled,,0,,SAVE10,,0
+O01385,C0206,2026-04-21,App,Jaipur,North,UPI,Cancelled,,0,,,,0
+O01386,C0450,2026-05-21,Marketplace,Mumbai,West,Credit Card,Delivered,5,0,,SAVE10,4.0,0
+O01387,C0303,2026-03-10,Website,Jaipur,North,UPI,Delivered,6,0,CAMP004,UC004,4.0,0
+O01388,C0248,2026-02-18,Website,Delhi NCR,North,UPI,Delivered,8,49,,SAVE10,3.8,0
+O01389,C0078,2026-04-25,Website,Bengaluru,South,Debit Card,Delivered,3,49,CAMP006,UC006,4.9,0
+O01390,C0052,2026-05-16,Website,Bengaluru,South,UPI,Delivered,5,79,,SAVE5,4.6,0
+O01391,C0230,2026-03-13,Website,Mumbai,West,UPI,Delivered,4,0,CAMP004,UC004,4.0,0
+O01392,C0098,2026-01-05,Website,Mumbai,West,Debit Card,Delivered,3,0,CAMP001,UC001,4.9,0
+O01393,C0481,2026-05-04,App,Pune,West,UPI,Delivered,4,0,CAMP007,UC007,4.8,0
+O01394,C0491,2026-01-03,Website,Pune,West,Net Banking,Delivered,5,0,CAMP001,UC001,3.9,0
+O01395,C0101,2026-01-03,Marketplace,Hyderabad,South,UPI,Delivered,5,0,,,3.0,1
+O01396,C0469,2026-01-04,Marketplace,Chennai,South,UPI,Delivered,4,79,,SAVE10,4.7,0
+O01397,C0202,2026-05-03,App,Chennai,South,Credit Card,Delivered,2,0,CAMP007,UC007,4.0,0
+O01398,C0483,2026-03-16,App,Hyderabad,South,Credit Card,Cancelled,,0,CAMP004,UC004,,0
+O01399,C0358,2026-01-31,Marketplace,Ahmedabad,West,UPI,Delivered,6,79,CAMP002,UC002,4.3,0
+O01400,C0120,2026-01-12,Website,Delhi NCR,North,UPI,Cancelled,,0,CAMP001,UC001,,0
+O01401,C0523,2026-01-01,App,Chennai,South,UPI,Delivered,6,149,,,3.9,0
+O01402,C0257,2026-01-10,App,Chennai,South,UPI,Delivered,5,0,,,4.7,0
+O01403,C0500,2026-02-09,App,Bengaluru,South,UPI,Delivered,3,79,,SAVE5,4.6,0
+O01404,C0381,2026-03-10,Website,Delhi NCR,North,UPI,Delivered,6,99,,SAVE8,4.2,0
+O01405,C0151,2026-02-03,Website,Bengaluru,South,Credit Card,Delivered,4,49,,,3.9,0
+O01406,C0131,2026-04-13,Marketplace,Ahmedabad,West,Credit Card,Delivered,5,0,,SAVE5,4.8,0
+O01407,C0101,2026-03-09,App,Hyderabad,South,Net Banking,Delivered,5,79,,SAVE5,3.9,1
+O01408,C0201,2026-04-11,App,Delhi NCR,North,Credit Card,Delivered,4,0,,SAVE10,4.3,0
+O01409,C0265,2026-03-20,App,Kochi,South,Debit Card,Delivered,5,0,CAMP004,UC004,3.4,0
+O01410,C0212,2026-05-24,Website,Mumbai,West,Credit Card,Delivered,5,49,CAMP008,UC008,4.5,0
+O01411,C0255,2026-05-18,App,Pune,West,Cash on Delivery,Delivered,3,49,CAMP007,UC007,4.5,0
+O01412,C0413,2026-04-16,Website,Pune,West,Credit Card,Delivered,3,0,,,4.5,0
+O01413,C0543,2026-02-21,Website,Mumbai,West,Debit Card,Delivered,6,49,,,4.1,0
+O01414,C0114,2026-03-13,Website,Hyderabad,South,Net Banking,Cancelled,,0,CAMP004,UC004,,0
+O01415,C0090,2026-03-29,Website,Chennai,South,UPI,Delivered,4,0,CAMP008,UC008,5.0,0
+O01416,C0138,2026-04-21,Website,Mumbai,West,Debit Card,Delivered,4,0,,,4.0,0
+O01417,C0314,2026-03-22,Website,Delhi NCR,North,Credit Card,Delivered,6,79,CAMP004,UC004,3.9,0
+O01418,C0049,2026-05-02,Website,Bengaluru,South,UPI,Delivered,3,0,CAMP007,UC007,4.2,0
+O01419,C0137,2026-04-08,Website,Mumbai,West,Debit Card,Delivered,4,49,CAMP005,UC005,3.7,0
+O01420,C0247,2026-04-18,Website,Chennai,South,Net Banking,Delivered,4,49,,SAVE5,4.5,0
+O01421,C0049,2026-02-11,Website,Bengaluru,South,Credit Card,Delivered,4,0,CAMP003,UC003,3.8,1
+O01422,C0263,2026-03-12,Marketplace,Bengaluru,South,Net Banking,Delivered,5,99,,,4.8,0
+O01423,C0441,2026-02-03,Website,Chennai,South,UPI,Delivered,5,49,,,4.3,0
+O01424,C0351,2026-03-19,App,Delhi NCR,North,Credit Card,Delivered,6,0,,,3.6,0
+O01425,C0329,2026-01-15,App,Mumbai,West,Net Banking,Delivered,3,0,,SAVE8,4.0,1
+O01426,C0514,2026-04-10,Website,Mumbai,West,Credit Card,Delivered,4,0,CAMP005,UC005,4.5,0
+O01427,C0337,2026-01-24,Marketplace,Pune,West,Cash on Delivery,Delivered,7,0,CAMP002,UC002,3.1,0
+O01428,C0487,2026-05-17,App,Hyderabad,South,Credit Card,Delivered,3,0,,,4.4,0
+O01429,C0012,2026-04-06,Website,Delhi NCR,North,UPI,Delivered,6,79,,SAVE10,3.7,0
+O01430,C0545,2026-03-31,App,Bengaluru,South,Credit Card,Delivered,3,0,,SAVE5,4.3,0
+O01431,C0549,2026-03-05,Website,Mumbai,West,UPI,Delivered,4,0,,,4.5,0
+O01432,C0453,2026-03-26,Marketplace,Chennai,South,Net Banking,Delivered,6,79,CAMP005,UC005,3.8,0
+O01433,C0421,2026-05-03,Website,Mumbai,West,Cash on Delivery,Delivered,3,49,,SAVE5,4.5,0
+O01434,C0071,2026-05-29,Website,Bengaluru,South,Debit Card,Delivered,3,99,CAMP009,UC009,4.8,0
+O01435,C0363,2026-04-23,Website,Mumbai,West,UPI,Delivered,4,0,CAMP008,UC008,3.8,0
+O01436,C0009,2026-02-16,Website,Delhi NCR,North,Debit Card,Delivered,4,0,,SAVE5,4.6,0
+O01437,C0473,2026-05-14,App,Bengaluru,South,Credit Card,Delivered,4,79,CAMP007,UC007,4.1,0
+O01438,C0026,2026-02-16,App,Chennai,South,Cash on Delivery,Delivered,3,0,,SAVE8,4.9,0
+O01439,C0309,2026-03-14,Website,Mumbai,West,UPI,Delivered,4,0,,SAVE8,4.6,0
+O01440,C0543,2026-01-09,Website,Mumbai,West,Cash on Delivery,Delivered,5,79,CAMP001,UC001,4.5,0
+O01441,C0520,2026-02-08,App,Mumbai,West,Credit Card,Delivered,5,0,CAMP008,UC008,4.7,0
+O01442,C0374,2026-03-05,Website,Pune,West,Credit Card,Delivered,4,0,CAMP004,UC004,4.1,0
+O01443,C0129,2026-04-13,Website,Kochi,South,UPI,Delivered,5,0,CAMP008,UC008,4.3,0
+O01444,C0374,2026-02-20,App,Pune,West,UPI,Delivered,5,99,,SAVE10,4.3,0
+O01445,C0355,2026-03-26,Website,Ahmedabad,West,Credit Card,Delivered,6,0,,SAVE5,4.2,0
+O01446,C0435,2026-01-16,Website,Delhi NCR,North,Cash on Delivery,Delivered,4,0,CAMP001,UC001,3.4,1
+O01447,C0490,2026-05-06,App,Mumbai,West,UPI,Delivered,4,0,,,4.1,0
+O01448,C0158,2026-04-30,App,Kochi,South,UPI,Delivered,6,79,CAMP006,UC006,3.4,0
+O01449,C0521,2026-05-06,App,Hyderabad,South,UPI,Delivered,4,49,,SAVE8,4.6,0
+O01450,C0255,2026-03-22,App,Pune,West,Cash on Delivery,Delivered,5,0,,,3.9,0
+O01451,C0263,2026-03-12,Marketplace,Bengaluru,South,UPI,Delivered,5,0,CAMP004,UC004,3.4,1
+O01452,C0345,2026-05-17,App,Pune,West,Debit Card,Delivered,3,0,CAMP007,UC007,5.0,0
+O01453,C0303,2026-02-25,Website,Jaipur,North,UPI,Delivered,6,0,,SAVE8,3.8,0
+O01454,C0503,2026-04-06,Website,Bengaluru,South,Debit Card,Delivered,2,0,CAMP008,UC008,4.7,0
+O01455,C0162,2026-05-05,Marketplace,Chennai,South,Credit Card,Delivered,4,79,,SAVE5,4.3,0
+O01456,C0113,2026-05-11,App,Hyderabad,South,Cash on Delivery,Delivered,5,0,CAMP007,UC007,4.7,0
+O01457,C0421,2026-05-21,Marketplace,Mumbai,West,UPI,Delivered,5,49,CAMP009,UC009,3.8,0
+O01458,C0325,2026-02-03,Marketplace,Delhi NCR,North,UPI,Delivered,7,0,,,3.8,0
+O01459,C0007,2026-01-01,App,Jaipur,North,UPI,Delivered,7,0,CAMP001,UC001,2.6,1
+O01460,C0113,2026-03-31,App,Hyderabad,South,Net Banking,Delivered,4,0,CAMP005,UC005,4.4,0
+O01461,C0379,2026-04-25,Website,Pune,West,Debit Card,Delivered,5,0,,SAVE8,4.0,0
+O01462,C0162,2026-03-25,Marketplace,Chennai,South,UPI,Delivered,4,0,CAMP005,UC005,4.1,0
+O01463,C0543,2026-01-28,App,Mumbai,West,Net Banking,Delivered,5,49,CAMP002,UC002,4.2,0
+O01464,C0177,2026-01-03,Website,Bengaluru,South,Net Banking,Cancelled,,0,CAMP001,UC001,,0
+O01465,C0509,2026-04-05,Website,Mumbai,West,Credit Card,Delivered,4,0,CAMP008,UC008,4.2,0
+O01466,C0290,2026-05-24,Marketplace,Mumbai,West,Debit Card,Delivered,6,99,CAMP009,UC009,3.5,0
+O01467,C0398,2026-03-21,Website,Kochi,South,Net Banking,Delivered,4,0,CAMP004,UC004,4.0,0
+O01468,C0171,2026-03-21,App,Delhi NCR,North,Net Banking,Delivered,7,49,,SAVE5,4.3,0
+O01469,C0344,2026-05-04,App,Kochi,South,Credit Card,Delivered,4,0,,SAVE5,4.0,0
+O01470,C0469,2026-02-19,App,Chennai,South,Net Banking,Delivered,6,0,,,4.8,0
+O01471,C0262,2026-03-11,App,Mumbai,West,UPI,Cancelled,,0,,,,0
+O01472,C0549,2026-03-11,Marketplace,Mumbai,West,Credit Card,Delivered,6,0,,,3.7,0
+O01473,C0543,2026-01-23,Website,Mumbai,West,UPI,Delivered,4,0,,SAVE5,4.9,0
+O01474,C0120,2026-05-09,Website,Delhi NCR,North,Debit Card,Delivered,7,49,,,3.7,0
+O01475,C0091,2026-03-08,Website,Bengaluru,South,Credit Card,Delivered,5,99,CAMP004,UC004,4.0,0
+O01476,C0398,2026-01-08,App,Kochi,South,UPI,Delivered,4,79,,,4.3,0
+O01477,C0466,2026-03-19,App,Kochi,South,Credit Card,Delivered,6,99,,SAVE10,4.3,0
+O01478,C0252,2026-05-04,Marketplace,Pune,West,Debit Card,Delivered,5,0,,SAVE5,3.8,0
+O01479,C0490,2026-03-08,Website,Mumbai,West,Debit Card,Delivered,3,0,,,5.0,0
+O01480,C0355,2026-04-26,Website,Ahmedabad,West,UPI,Delivered,6,0,CAMP006,UC006,4.5,0
+O01481,C0337,2026-04-08,App,Pune,West,Credit Card,Delivered,4,0,CAMP005,UC005,4.3,0
+O01482,C0540,2026-02-27,Website,Delhi NCR,North,Net Banking,Delivered,7,0,,SAVE5,4.0,0
+O01483,C0026,2026-02-11,App,Chennai,South,UPI,Delivered,3,0,,,4.2,0
+O01484,C0012,2026-04-19,Website,Delhi NCR,North,UPI,Delivered,4,49,,SAVE8,4.5,0
+O01485,C0064,2026-01-30,Marketplace,Kochi,South,Net Banking,Delivered,7,0,,SAVE10,3.5,0
+O01486,C0335,2026-03-26,Website,Ahmedabad,West,Net Banking,Delivered,4,79,CAMP005,UC005,4.5,0
+O01487,C0096,2026-02-01,Website,Pune,West,Cash on Delivery,Cancelled,,0,,SAVE10,,0
+O01488,C0416,2026-05-14,Website,Mumbai,West,Cash on Delivery,Delivered,5,49,CAMP009,UC009,4.8,0
+O01489,C0549,2026-05-24,App,Mumbai,West,UPI,Delivered,3,0,CAMP009,UC009,4.5,0
+O01490,C0066,2026-04-17,Marketplace,Bengaluru,South,Cash on Delivery,Cancelled,,0,,,,0
+O01491,C0328,2026-02-22,Website,Mumbai,West,Cash on Delivery,Delivered,5,49,,,4.0,0
+O01492,C0248,2026-02-01,Marketplace,Delhi NCR,North,Debit Card,Delivered,6,79,,,3.8,0
+O01493,C0101,2026-04-12,App,Hyderabad,South,UPI,Delivered,4,0,,,3.3,1
+O01494,C0490,2026-02-16,Website,Mumbai,West,Cash on Delivery,Delivered,4,49,CAMP003,UC003,4.8,0
+O01495,C0496,2026-01-14,App,Hyderabad,South,Cash on Delivery,Delivered,5,0,CAMP001,UC001,4.2,0
+O01496,C0328,2026-03-02,App,Mumbai,West,Credit Card,Delivered,4,79,,,4.1,0
+O01497,C0012,2026-03-03,App,Delhi NCR,North,UPI,Delivered,8,0,,,3.7,0
+O01498,C0508,2026-05-16,App,Chennai,South,Debit Card,Delivered,4,0,CAMP007,UC007,4.0,0
+O01499,C0515,2026-03-02,App,Pune,West,UPI,Delivered,3,79,,SAVE10,4.3,0
+O01500,C0541,2026-04-04,Website,Delhi NCR,North,UPI,Delivered,5,49,CAMP005,UC005,4.6,0
+O01501,C0061,2026-02-09,Website,Pune,West,UPI,Delivered,3,79,,,3.8,0
+O01502,C0249,2026-03-15,Website,Chennai,South,UPI,Delivered,5,0,CAMP004,UC004,4.1,0
+O01503,C0212,2026-03-18,Marketplace,Mumbai,West,Debit Card,Delivered,5,0,CAMP004,UC004,4.0,0
+O01504,C0310,2026-02-06,Website,Kochi,South,UPI,Delivered,5,0,,SAVE8,4.3,0
+O01505,C0190,2026-01-25,Marketplace,Bengaluru,South,UPI,Delivered,5,0,,,3.5,0
+O01506,C0336,2026-05-24,Website,Bengaluru,South,Cash on Delivery,Delivered,2,149,,,4.0,0
+O01507,C0340,2026-04-12,Marketplace,Mumbai,West,Net Banking,Delivered,2,0,,,3.7,1
+O01508,C0470,2026-03-20,Website,Ahmedabad,West,Debit Card,Delivered,6,0,,,4.2,0
+O01509,C0030,2026-05-10,Website,Delhi NCR,North,Net Banking,Delivered,7,0,CAMP009,UC009,3.2,0
+O01510,C0089,2026-04-11,Website,Hyderabad,South,Debit Card,Delivered,3,79,,,5.0,0
+O01511,C0034,2026-04-11,App,Delhi NCR,North,UPI,Delivered,5,0,,SAVE5,4.5,0
+O01512,C0514,2026-05-29,Website,Mumbai,West,Net Banking,Delivered,4,0,,,4.5,0
+O01513,C0080,2026-05-30,App,Pune,West,UPI,Delivered,4,0,,,4.5,0
+O01514,C0235,2026-03-28,Website,Pune,West,Debit Card,Delivered,5,0,,SAVE8,4.6,0
+O01515,C0317,2026-03-29,App,Mumbai,West,Credit Card,Delivered,5,0,,,3.4,0
+O01516,C0252,2026-05-12,Website,Pune,West,Net Banking,Cancelled,,0,,SAVE8,,0
+O01517,C0515,2026-03-19,Website,Pune,West,Cash on Delivery,Delivered,3,49,,SAVE8,4.5,0
+O01518,C0060,2026-04-21,App,Delhi NCR,North,Net Banking,Delivered,9,0,,SAVE8,3.2,0
+O01519,C0479,2026-02-23,Website,Delhi NCR,North,Cash on Delivery,Delivered,8,0,,SAVE10,3.3,0
+O01520,C0242,2026-05-12,Marketplace,Chennai,South,UPI,Delivered,5,0,,SAVE5,4.3,0
+O01521,C0101,2026-04-13,Marketplace,Hyderabad,South,UPI,Delivered,1,0,,SAVE10,4.2,0
+O01522,C0112,2026-01-31,Website,Bengaluru,South,Credit Card,Delivered,3,0,,SAVE10,5.0,0
+O01523,C0314,2026-03-01,Website,Delhi NCR,North,Debit Card,Delivered,8,49,,SAVE10,3.7,0
+O01524,C0230,2026-05-30,Website,Mumbai,West,UPI,Delivered,4,99,,,4.1,0
+O01525,C0146,2026-04-10,App,Hyderabad,South,Debit Card,Delivered,5,99,,SAVE10,4.4,0
+O01526,C0072,2026-01-31,Website,Mumbai,West,UPI,Delivered,4,99,,,4.4,0
+O01527,C0501,2026-05-03,Marketplace,Chennai,South,UPI,Delivered,3,0,,,4.3,0
+O01528,C0351,2026-05-02,Marketplace,Delhi NCR,North,UPI,Delivered,6,0,CAMP006,UC006,3.9,0
+O01529,C0478,2026-03-23,Marketplace,Ahmedabad,West,Debit Card,Delivered,6,79,,,3.4,0
+O01530,C0350,2026-05-06,App,Jaipur,North,Cash on Delivery,Delivered,5,0,,,4.5,0
+O01531,C0329,2026-01-31,App,Mumbai,West,Net Banking,Delivered,3,0,CAMP002,UC002,4.2,0
+O01532,C0530,2026-05-22,Marketplace,Delhi NCR,North,Debit Card,Delivered,4,49,CAMP009,UC009,4.9,0
+O01533,C0226,2026-03-10,Website,Kochi,South,Credit Card,Delivered,2,49,CAMP004,UC004,4.6,0
+O01534,C0292,2026-03-19,App,Bengaluru,South,Net Banking,Delivered,2,0,,SAVE8,5.0,0
+O01535,C0342,2026-03-05,Website,Bengaluru,South,UPI,Cancelled,,0,,,,0
+O01536,C0421,2026-03-29,Website,Mumbai,West,UPI,Delivered,5,0,,,3.8,0
+O01537,C0168,2026-05-30,Website,Bengaluru,South,Debit Card,Delivered,2,0,,,3.7,1
+O01538,C0236,2026-02-10,Website,Pune,West,Credit Card,Delivered,3,79,CAMP003,UC003,4.7,0
+O01539,C0499,2026-05-25,Website,Pune,West,Debit Card,Cancelled,,0,,,,0
+O01540,C0403,2026-01-02,Marketplace,Bengaluru,South,Cash on Delivery,Delivered,3,0,,SAVE10,4.4,0
+O01541,C0392,2026-02-03,Website,Kochi,South,UPI,Delivered,5,99,,,3.8,0
+O01542,C0501,2026-01-25,Website,Chennai,South,Cash on Delivery,Delivered,3,0,CAMP002,UC002,4.8,0
+O01543,C0421,2026-03-21,Website,Mumbai,West,Debit Card,Delivered,4,49,,,4.3,0
+O01544,C0520,2026-02-07,App,Mumbai,West,Credit Card,Delivered,2,0,CAMP008,UC008,4.7,0
+O01545,C0440,2026-02-15,Website,Bengaluru,South,Cash on Delivery,Delivered,3,0,CAMP003,UC003,5.0,0
+O01546,C0537,2026-05-19,App,Kochi,South,Credit Card,Delivered,3,99,CAMP009,UC009,4.8,0
+O01547,C0530,2026-03-20,Website,Delhi NCR,North,Debit Card,Delivered,6,0,CAMP005,UC005,3.7,0
+O01548,C0151,2026-03-11,Marketplace,Bengaluru,South,Cash on Delivery,Cancelled,,0,,SAVE8,,0
+O01549,C0333,2026-01-10,Website,Hyderabad,South,UPI,Delivered,4,0,CAMP001,UC001,4.6,0
+O01550,C0187,2026-02-12,Website,Bengaluru,South,UPI,Delivered,3,0,,SAVE10,4.8,0
+O01551,C0066,2026-01-06,App,Bengaluru,South,Net Banking,Delivered,3,0,CAMP001,UC001,4.6,0
+O01552,C0277,2026-05-14,Website,Pune,West,Cash on Delivery,Delivered,4,0,,,4.9,0
+O01553,C0400,2026-05-14,Marketplace,Mumbai,West,Debit Card,Delivered,7,0,,SAVE5,3.8,0
+O01554,C0099,2026-02-12,Marketplace,Chennai,South,UPI,Delivered,6,49,,,4.3,0
+O01555,C0195,2026-03-14,App,Bengaluru,South,Net Banking,Cancelled,,0,CAMP004,UC004,,0
+O01556,C0090,2026-03-22,Website,Chennai,South,UPI,Delivered,4,0,CAMP005,UC005,4.5,0
+O01557,C0179,2026-03-06,Website,Bengaluru,South,UPI,Delivered,2,0,,SAVE5,4.8,0
+O01558,C0312,2026-01-22,Website,Bengaluru,South,Debit Card,Delivered,1,0,,,4.5,0
+O01559,C0080,2026-02-10,Website,Pune,West,Debit Card,Delivered,4,0,CAMP003,UC003,4.8,0
+O01560,C0062,2026-02-21,Website,Delhi NCR,North,UPI,Delivered,6,49,,,3.6,1
+O01561,C0255,2026-03-29,App,Pune,West,Net Banking,Delivered,4,0,CAMP005,UC005,4.1,0
+O01562,C0249,2026-01-18,Marketplace,Chennai,South,UPI,Delivered,6,0,CAMP001,UC001,2.5,1
+O01563,C0490,2026-03-11,Website,Mumbai,West,UPI,Delivered,4,0,CAMP004,UC004,4.4,0
+O01564,C0509,2026-02-06,App,Mumbai,West,Net Banking,Delivered,3,0,,SAVE8,4.7,0
+O01565,C0195,2026-05-08,App,Bengaluru,South,Net Banking,Delivered,5,49,CAMP007,UC007,4.4,0
+O01566,C0521,2026-04-18,Marketplace,Hyderabad,South,Credit Card,Delivered,5,0,,SAVE5,4.0,0
+O01567,C0277,2026-05-16,Website,Pune,West,Net Banking,Delivered,5,0,,,4.0,0
+O01568,C0421,2026-02-19,Website,Mumbai,West,Debit Card,Delivered,4,79,,,3.1,1
+O01569,C0421,2026-02-16,App,Mumbai,West,UPI,Delivered,1,0,,SAVE5,4.8,0
+O01570,C0013,2026-02-04,Website,Delhi NCR,North,Credit Card,Delivered,7,0,,,4.1,0
+O01571,C0487,2026-03-14,App,Hyderabad,South,Credit Card,Delivered,2,0,CAMP004,UC004,3.7,1
+O01572,C0355,2026-05-04,Website,Ahmedabad,West,UPI,Delivered,5,0,CAMP007,UC007,4.1,0
+O01573,C0442,2026-02-26,Marketplace,Mumbai,West,Debit Card,Delivered,5,79,,,4.3,0
+O01574,C0113,2026-03-23,Marketplace,Hyderabad,South,Debit Card,Delivered,6,49,CAMP005,UC005,3.6,0
+O01575,C0545,2026-05-22,App,Bengaluru,South,Credit Card,Delivered,3,79,CAMP009,UC009,4.9,0
+O01576,C0263,2026-01-12,App,Bengaluru,South,Debit Card,Delivered,2,0,CAMP001,UC001,4.7,0
+O01577,C0120,2026-02-21,App,Delhi NCR,North,UPI,Delivered,7,0,,SAVE5,3.5,0
+O01578,C0543,2026-03-28,App,Mumbai,West,Net Banking,Delivered,5,49,CAMP005,UC005,3.6,0
+O01579,C0371,2026-04-16,Website,Chennai,South,Credit Card,Delivered,3,79,,,5.0,0
+O01580,C0315,2026-03-19,App,Bengaluru,South,UPI,Delivered,4,0,,,4.7,0
+O01581,C0374,2026-05-22,Website,Pune,West,UPI,Delivered,4,0,,,4.5,0
+O01582,C0416,2026-04-26,App,Mumbai,West,UPI,Delivered,3,0,CAMP006,UC006,4.8,0
+O01583,C0304,2026-03-08,App,Delhi NCR,North,Net Banking,Delivered,5,79,CAMP004,UC004,3.7,1
+O01584,C0520,2026-01-24,App,Mumbai,West,Debit Card,Delivered,3,0,,SAVE5,4.9,0
+O01585,C0013,2026-01-07,App,Delhi NCR,North,Credit Card,Delivered,6,0,CAMP001,UC001,4.3,0
+O01586,C0314,2026-01-18,Website,Delhi NCR,North,UPI,Delivered,4,99,,SAVE8,4.7,0
+O01587,C0155,2026-04-16,Website,Delhi NCR,North,Cash on Delivery,Delivered,7,0,,,4.0,0
+O01588,C0537,2026-01-16,Website,Kochi,South,Credit Card,Delivered,4,0,,SAVE10,4.3,0
+O01589,C0166,2026-05-27,Marketplace,Kochi,South,Cash on Delivery,Delivered,6,0,,SAVE10,4.2,0
+O01590,C0337,2026-03-07,App,Pune,West,UPI,Delivered,5,0,,SAVE5,4.3,0
+O01591,C0204,2026-01-17,Website,Mumbai,West,Credit Card,Delivered,3,0,CAMP001,UC001,4.3,0
+O01592,C0080,2026-03-01,Website,Pune,West,Cash on Delivery,Delivered,3,0,,,5.0,0
+O01593,C0064,2026-05-16,Website,Kochi,South,Debit Card,Delivered,7,0,CAMP009,UC009,3.4,1
+O01594,C0080,2026-05-03,App,Pune,West,Net Banking,Delivered,5,0,,SAVE5,4.3,0
+O01595,C0535,2026-02-09,Website,Mumbai,West,UPI,Delivered,5,0,CAMP003,UC003,3.6,1
+O01596,C0121,2026-04-27,App,Mumbai,West,UPI,Delivered,2,0,,,4.9,0
+O01597,C0374,2026-02-06,Website,Pune,West,Net Banking,Delivered,5,0,,,4.1,0
+O01598,C0265,2026-03-30,App,Kochi,South,UPI,Delivered,4,0,CAMP005,UC005,4.3,0
+O01599,C0419,2026-05-10,App,Delhi NCR,North,UPI,Delivered,9,0,,,2.1,1
+O01600,C0509,2026-01-25,Website,Mumbai,West,Net Banking,Delivered,5,49,CAMP002,UC002,4.7,0
+O01601,C0403,2026-01-06,Website,Bengaluru,South,Debit Card,Delivered,4,0,,SAVE5,4.4,0
+O01602,C0404,2026-05-09,App,Chennai,South,Credit Card,Delivered,5,49,CAMP007,UC007,3.9,0
+O01603,C0476,2026-04-23,App,Hyderabad,South,UPI,Delivered,6,79,,SAVE8,3.5,0
+O01604,C0456,2026-03-01,Website,Bengaluru,South,Cash on Delivery,Delivered,4,0,,SAVE10,4.5,0
+O01605,C0470,2026-03-09,App,Ahmedabad,West,Credit Card,Delivered,5,0,CAMP004,UC004,4.0,0
+O01606,C0503,2026-03-19,Marketplace,Bengaluru,South,Net Banking,Delivered,5,0,CAMP004,UC004,4.4,0
+O01607,C0392,2026-04-11,App,Kochi,South,Debit Card,Delivered,5,79,,,4.6,0
+O01608,C0520,2026-02-28,Website,Mumbai,West,UPI,Delivered,4,0,,SAVE5,4.0,0
+O01609,C0374,2026-02-22,Website,Pune,West,Net Banking,Delivered,4,0,,,4.6,0
+O01610,C0101,2026-04-21,App,Hyderabad,South,UPI,Delivered,2,99,,,4.7,0
+O01611,C0463,2026-04-13,Website,Kochi,South,UPI,Delivered,5,0,CAMP008,UC008,4.0,0
+O01612,C0195,2026-05-29,App,Bengaluru,South,Net Banking,Delivered,6,79,CAMP009,UC009,4.5,0
+O01613,C0354,2026-01-07,Website,Hyderabad,South,Cash on Delivery,Delivered,3,0,,SAVE5,5.0,0
+O01614,C0520,2026-04-25,Website,Mumbai,West,UPI,Delivered,3,49,CAMP006,UC006,5.0,0
+O01615,C0176,2026-04-09,Website,Bengaluru,South,UPI,Delivered,3,49,CAMP005,UC005,4.5,0
+O01616,C0310,2026-05-17,Website,Kochi,South,UPI,Delivered,6,0,,,3.8,0
+O01617,C0507,2026-03-21,Website,Chennai,South,UPI,Cancelled,,0,CAMP004,UC004,,0
+O01618,C0129,2026-02-09,App,Kochi,South,Credit Card,Delivered,3,0,,SAVE8,3.5,0
+O01619,C0537,2026-03-09,Website,Kochi,South,Net Banking,Delivered,5,0,CAMP004,UC004,4.2,0
+O01620,C0309,2026-05-14,Website,Mumbai,West,Credit Card,Delivered,2,0,CAMP008,UC008,4.9,0
+O01621,C0421,2026-02-14,App,Mumbai,West,Credit Card,Delivered,2,0,,SAVE8,4.7,0
+O01622,C0483,2026-05-19,Website,Hyderabad,South,Debit Card,Delivered,3,0,CAMP009,UC009,4.3,1
+O01623,C0050,2026-04-28,Website,Bengaluru,South,UPI,Delivered,1,0,,SAVE8,4.8,0
+O01624,C0500,2026-05-08,Website,Bengaluru,South,Cash on Delivery,Delivered,4,49,CAMP007,UC007,4.3,0
+O01625,C0380,2026-01-31,Website,Jaipur,North,UPI,Delivered,5,79,,SAVE8,4.6,0
+O01626,C0380,2026-05-28,Website,Jaipur,North,Credit Card,Delivered,7,0,,SAVE10,3.8,0
+O01627,C0168,2026-05-02,Website,Bengaluru,South,Net Banking,Delivered,4,0,,SAVE8,4.2,0
+O01628,C0230,2026-04-20,Website,Mumbai,West,Debit Card,Delivered,4,0,,,4.1,0
+O01629,C0469,2026-01-24,App,Chennai,South,UPI,Delivered,6,0,CAMP002,UC002,4.3,0
+O01630,C0138,2026-05-11,App,Mumbai,West,Debit Card,Delivered,3,0,CAMP007,UC007,4.9,0
+O01631,C0040,2026-03-26,Marketplace,Hyderabad,South,Debit Card,Delivered,4,0,,SAVE5,4.1,0
+O01632,C0391,2026-01-31,App,Chennai,South,Credit Card,Delivered,5,99,CAMP002,UC002,4.7,0
+O01633,C0318,2026-03-15,Marketplace,Delhi NCR,North,Debit Card,Delivered,8,149,,,2.9,0
+O01634,C0258,2026-05-31,Website,Bengaluru,South,Credit Card,Delivered,4,0,,SAVE8,4.5,0
+O01635,C0392,2026-01-10,App,Kochi,South,UPI,Delivered,7,0,CAMP001,UC001,4.0,0
+O01636,C0304,2026-05-07,Website,Delhi NCR,North,Credit Card,Delivered,5,49,,,3.6,0
+O01637,C0520,2026-01-31,Marketplace,Mumbai,West,UPI,Delivered,4,0,,SAVE8,4.4,0
+O01638,C0009,2026-03-07,Website,Delhi NCR,North,Debit Card,Delivered,6,0,,SAVE8,3.6,0
+O01639,C0096,2026-03-22,App,Pune,West,UPI,Delivered,3,49,,,4.8,0
+O01640,C0087,2026-03-12,Website,Hyderabad,South,UPI,Delivered,5,49,CAMP004,UC004,4.1,1
+O01641,C0026,2026-04-24,Marketplace,Chennai,South,Debit Card,Delivered,2,0,,,4.7,0
+O01642,C0003,2026-03-08,Website,Chennai,South,Credit Card,Delivered,5,0,,,4.2,0
+O01643,C0158,2026-03-21,Website,Kochi,South,UPI,Delivered,3,49,CAMP008,UC008,5.0,0
+O01644,C0125,2026-03-17,Website,Pune,West,Cash on Delivery,Delivered,4,79,,,2.8,1
+O01645,C0358,2026-01-04,Marketplace,Ahmedabad,West,Net Banking,Delivered,6,79,,SAVE5,4.1,0
+O01646,C0166,2026-02-11,Website,Kochi,South,UPI,Delivered,5,0,,SAVE10,4.3,0
+O01647,C0516,2026-04-05,Website,Mumbai,West,UPI,Delivered,4,149,CAMP005,UC005,3.9,0
+O01648,C0021,2026-05-22,Marketplace,Bengaluru,South,Credit Card,Delivered,5,0,,,3.7,0
+O01649,C0503,2026-02-24,Website,Bengaluru,South,Credit Card,Delivered,3,0,,SAVE5,5.0,0
+O01650,C0208,2026-03-09,Website,Mumbai,West,UPI,Delivered,3,0,,,4.5,0
